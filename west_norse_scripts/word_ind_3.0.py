@@ -60,8 +60,8 @@ def get_word_positions(clean_text, output_file):
 
 def main():
     # File paths
-    clean_text_file = 'alexanders_saga_norm.txt'
-    output_file = 'alexander_word_positions.json'
+    clean_text_file = 'drauma_jons_clean.txt'
+    output_file = 'drauma_jons_word_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")

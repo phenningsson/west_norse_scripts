@@ -26,14 +26,14 @@ def create_ner_dataset(clean_text, entity_positions, word_boundaries_file, outpu
         "entity_end_chars": [[]],
         "word_start_chars": [word_starts],
         "word_end_chars": [word_ends],
-        "id": [6],
-        "year": ["c. 1280"],  # Year of manuscript
+        "id": [7],
+        "year": ["14th century"],  # Year of manuscript
         "lang": ["isl"],  # Language code (three letters)
-        "work": ["AM 519 a 4to : Alexanders saga"],  # Name of the work
-        "folio": ["1v-37r"], # From which folio(s) of the manuscripts the current text comes from
+        "work": ["Drauma-Jóns saga : AM 657 a-b, 4to"],  # Name of the work
+        "folio": ["58v-62v"], # From which folio(s) of the manuscripts the current text comes from
         "text_rep_level": ["dipl"],  # dipl for diplomatic; norm for normalised; facs for facsimili
-        "main_editor": ["Andrea de Leeuw van Weenen"],  # Update with actual editor name
-        "annotator": ["Andrea de Leeuw van Weenen"]  # Update with annotator name
+        "main_editor": ["Philip Knight"],  # Update with actual editor name
+        "annotator": ["null"]  # Update with annotator name
     }
 
     # Sort entities by their start position for consistent ordering
@@ -73,10 +73,10 @@ def create_ner_dataset(clean_text, entity_positions, word_boundaries_file, outpu
 
 def main():
     # File paths
-    text_file = 'alexanders_saga_norm.txt'
-    entity_positions_file = 'alexander_entities_with_positions.json'
-    word_boundaries_file = 'alexander_word_positions.json'
-    output_file = 'alexander_saga_ner_dataset.parquet'
+    text_file = 'drauma_jons_clean.txt'
+    entity_positions_file = 'drauma_jons_entities_with_positions.json'
+    word_boundaries_file = 'drauma_jons_word_positions.json'
+    output_file = 'drauma_jons_ner_dataset.parquet'
 
     print(f"Loading text from {text_file}...")
     with open(text_file, 'r', encoding='utf-8') as file:

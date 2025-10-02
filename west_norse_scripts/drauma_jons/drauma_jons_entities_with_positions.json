@@ -1,0 +1,634 @@
+[
+  {
+    "text": "HEinrekr",
+    "start": 16,
+    "end": 23,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Saxlande",
+    "start": 63,
+    "end": 70,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jngibiorgh",
+    "start": 365,
+    "end": 374,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "flaanndr",
+    "start": 605,
+    "end": 612,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgautr",
+    "start": 7306,
+    "end": 7312,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgautr",
+    "start": 7719,
+    "end": 7725,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgautz",
+    "start": 1476,
+    "end": 1482,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgaut",
+    "start": 1823,
+    "end": 1828,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "saxlande",
+    "start": 1944,
+    "end": 1951,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinrekr",
+    "start": 1981,
+    "end": 1988,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinrekr",
+    "start": 3764,
+    "end": 3771,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 2645,
+    "end": 2647,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 2680,
+    "end": 2682,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 3084,
+    "end": 3086,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 3621,
+    "end": 3623,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 3888,
+    "end": 3890,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 7293,
+    "end": 7295,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 7402,
+    "end": 7404,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 7732,
+    "end": 7734,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 8724,
+    "end": 8726,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 8931,
+    "end": 8933,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 9021,
+    "end": 9023,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 9492,
+    "end": 9494,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 10128,
+    "end": 10130,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 10298,
+    "end": 10300,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 10853,
+    "end": 10855,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 11131,
+    "end": 11133,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 11656,
+    "end": 11658,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 11972,
+    "end": 11974,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 12590,
+    "end": 12592,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 12690,
+    "end": 12692,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 14118,
+    "end": 14120,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 14937,
+    "end": 14939,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 15035,
+    "end": 15037,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 15298,
+    "end": 15300,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 15614,
+    "end": 15616,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 16143,
+    "end": 16145,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 16852,
+    "end": 16854,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 17032,
+    "end": 17034,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 17270,
+    "end": 17272,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 18136,
+    "end": 18138,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 18623,
+    "end": 18625,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 19055,
+    "end": 19057,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 19506,
+    "end": 19508,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 19637,
+    "end": 19639,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 20316,
+    "end": 20318,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 20522,
+    "end": 20524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 20685,
+    "end": 20687,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 21320,
+    "end": 21322,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 21511,
+    "end": 21513,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jon",
+    "start": 21873,
+    "end": 21875,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valltirr",
+    "start": 2801,
+    "end": 2808,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreks",
+    "start": 3605,
+    "end": 3612,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "saxlandi",
+    "start": 3731,
+    "end": 3738,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "saxlandi",
+    "start": 19727,
+    "end": 19734,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreki",
+    "start": 3947,
+    "end": 3954,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinrek",
+    "start": 6595,
+    "end": 6601,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinrek",
+    "start": 6886,
+    "end": 6892,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinrek",
+    "start": 22022,
+    "end": 22028,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "aasgautr",
+    "start": 7305,
+    "end": 7312,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Asgautr",
+    "start": 7407,
+    "end": 7413,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 7467,
+    "end": 7470,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 8429,
+    "end": 8432,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 10620,
+    "end": 10623,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 12322,
+    "end": 12325,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 18506,
+    "end": 18509,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jons",
+    "start": 19380,
+    "end": 19383,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgauti",
+    "start": 7527,
+    "end": 7533,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreke",
+    "start": 7880,
+    "end": 7887,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreke",
+    "start": 9076,
+    "end": 9083,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreke",
+    "start": 9879,
+    "end": 9886,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "heinreke",
+    "start": 16126,
+    "end": 16133,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "asgautar",
+    "start": 8117,
+    "end": 8124,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "valltara",
+    "start": 8446,
+    "end": 8453,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joni",
+    "start": 10,
+    "end": 13,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joni",
+    "start": 9913,
+    "end": 9916,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joni",
+    "start": 19807,
+    "end": 19810,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joni",
+    "start": 20222,
+    "end": 20225,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joni",
+    "start": 21251,
+    "end": 21254,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

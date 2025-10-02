@@ -64,8 +64,8 @@ def extract_entities(xml_text):
 
 def main():
     # Read the original text from the file
-    input_file = 'AM-519-a-4to_alexanders-saga.xml.txt'
-    output_file = 'alexander_entities.json'
+    input_file = 'drauma_jons.xml.txt'
+    output_file = 'drauma_jons_entities.json'
 
     print(f"Extracting entities from {input_file}...")
 

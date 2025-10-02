@@ -101,9 +101,9 @@ def find_entity_positions(clean_text, entities, output_file):
 
 def main():
     # File paths
-    clean_text_file = 'alexanders_saga_norm.txt'
-    entities_file = 'alexander_entities_dipl.json'
-    output_file = 'alexander_entities_with_positions.json'
+    clean_text_file = 'drauma_jons_clean.txt'
+    entities_file = 'drauma_jons_dipl_entities_dipl.json'
+    output_file = 'drauma_jons_entities_with_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")

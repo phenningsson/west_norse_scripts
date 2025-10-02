@@ -25,6 +25,6 @@ def simplify_entities(input_file, output_file):
     print(f"Simplified entities saved to {output_file}")
 
 if __name__ == "__main__":
-    input_file = 'alexander_entities.json'
-    output_file = 'alexander_entities_dipl.json'
+    input_file = 'drauma_jons_entities.json'
+    output_file = 'drauma_jons_dipl_entities_dipl.json'
     simplify_entities(input_file, output_file)

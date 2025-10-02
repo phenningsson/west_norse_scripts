@@ -73,7 +73,7 @@ def find_invalid_chars(input_file):
         print("-" * 80)
 
 def main():
-    input_file = 'alexanders_saga_norm.txt'
+    input_file = 'drauma_jons_clean.txt'
     find_invalid_chars(input_file)
 
 if __name__ == "__main__":

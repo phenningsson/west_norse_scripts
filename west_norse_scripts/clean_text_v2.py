@@ -19,8 +19,8 @@ def remove_line_numbers_and_brackets(input_file, output_file):
             f_out.write(cleaned_line)
 
 def main():
-    input_file = 'alexanders_saga.txt' 
-    output_file = 'alexanders_saga_clean.txt' 
+    input_file = 'drauma_jons.txt' 
+    output_file = 'drauma_jons_clean.txt' 
     print(f"Processing {input_file}...")
     remove_line_numbers_and_brackets(input_file, output_file)
     print(f"Cleaned text saved to {output_file}")
