@@ -1,0 +1,1210 @@
+[
+  {
+    "text": "knutr",
+    "start": 93,
+    "end": 97,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr",
+    "start": 317,
+    "end": 321,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr",
+    "start": 3408,
+    "end": 3412,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr",
+    "start": 4454,
+    "end": 4458,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr konvngr",
+    "start": 93,
+    "end": 105,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr konvngr",
+    "start": 317,
+    "end": 329,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr konvngr",
+    "start": 3408,
+    "end": 3420,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knutr konvngr",
+    "start": 4454,
+    "end": 4466,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts",
+    "start": 609,
+    "end": 613,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts",
+    "start": 3858,
+    "end": 3862,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts",
+    "start": 4125,
+    "end": 4129,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts",
+    "start": 10042,
+    "end": 10046,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts",
+    "start": 10143,
+    "end": 10147,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts konvngs",
+    "start": 609,
+    "end": 621,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts konvngs",
+    "start": 3858,
+    "end": 3870,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts konvngs",
+    "start": 4125,
+    "end": 4137,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts konvngs",
+    "start": 10042,
+    "end": 10054,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knuts konvngs",
+    "start": 10143,
+    "end": 10155,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ottaʀ",
+    "start": 687,
+    "end": 691,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ottaʀ ſuarti",
+    "start": 687,
+    "end": 698,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "knut",
+    "start": 750,
+    "end": 753,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "knut hiɴ rika",
+    "start": 750,
+    "end": 762,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorðr",
+    "start": 960,
+    "end": 964,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorðr ſcald",
+    "start": 960,
+    "end": 970,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olaf",
+    "start": 1003,
+    "end": 1006,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olaf",
+    "start": 9663,
+    "end": 9666,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "olafr",
+    "start": 1099,
+    "end": 1103,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ſueinſ",
+    "start": 1211,
+    "end": 1216,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs",
+    "start": 1273,
+    "end": 1277,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs",
+    "start": 9520,
+    "end": 9524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs konvngs",
+    "start": 1273,
+    "end": 1285,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs konvngs",
+    "start": 9520,
+    "end": 9532,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Onundar",
+    "start": 1290,
+    "end": 1296,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 1306,
+    "end": 1310,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 1843,
+    "end": 1847,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 2350,
+    "end": 2354,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 2686,
+    "end": 2690,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 3983,
+    "end": 3987,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 7301,
+    "end": 7305,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 7482,
+    "end": 7486,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 8335,
+    "end": 8339,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 8389,
+    "end": 8393,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 9284,
+    "end": 9288,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr",
+    "start": 9681,
+    "end": 9685,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 1306,
+    "end": 1318,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 1843,
+    "end": 1855,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 2686,
+    "end": 2698,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 3983,
+    "end": 3995,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 7301,
+    "end": 7313,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 7482,
+    "end": 7494,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 8335,
+    "end": 8347,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 8389,
+    "end": 8401,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 9284,
+    "end": 9296,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafr konvngr",
+    "start": 9681,
+    "end": 9693,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "ǫnundr",
+    "start": 1323,
+    "end": 1328,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ǫnundr",
+    "start": 1661,
+    "end": 1666,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ǫnundr konvngr",
+    "start": 1323,
+    "end": 1336,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "ǫnundr konvngr",
+    "start": 1661,
+    "end": 1674,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫnundr",
+    "start": 1788,
+    "end": 1793,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫnundr",
+    "start": 7318,
+    "end": 7323,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫnundr",
+    "start": 8284,
+    "end": 8289,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr",
+    "start": 4172,
+    "end": 4176,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr",
+    "start": 4736,
+    "end": 4740,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr",
+    "start": 5694,
+    "end": 5698,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr",
+    "start": 7204,
+    "end": 7208,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr",
+    "start": 7371,
+    "end": 7375,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr konvngr",
+    "start": 4172,
+    "end": 4184,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr konvngr",
+    "start": 4736,
+    "end": 4748,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr konvngr",
+    "start": 5694,
+    "end": 5706,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr konvngr",
+    "start": 7204,
+    "end": 7216,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knutr konvngr",
+    "start": 7371,
+    "end": 7383,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "knvti",
+    "start": 4237,
+    "end": 4241,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfi",
+    "start": 4313,
+    "end": 4316,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr",
+    "start": 4877,
+    "end": 4880,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr",
+    "start": 5371,
+    "end": 5374,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr",
+    "start": 5711,
+    "end": 5714,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr",
+    "start": 6698,
+    "end": 6701,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr jarl",
+    "start": 4877,
+    "end": 4885,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr jarl",
+    "start": 5371,
+    "end": 5379,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr jarl",
+    "start": 5711,
+    "end": 5719,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfr jarl",
+    "start": 6698,
+    "end": 6706,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ulfr",
+    "start": 5193,
+    "end": 5196,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ulfr jarl",
+    "start": 5193,
+    "end": 5201,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfs",
+    "start": 5442,
+    "end": 5445,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfs",
+    "start": 5654,
+    "end": 5657,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfs jarls",
+    "start": 5442,
+    "end": 5451,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gyða",
+    "start": 5457,
+    "end": 5460,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "haraldr",
+    "start": 5516,
+    "end": 5522,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "haraldr engla konvngr",
+    "start": 5516,
+    "end": 5536,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Valþiofr",
+    "start": 5551,
+    "end": 5558,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valþiofr jarl",
+    "start": 5551,
+    "end": 5563,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Mꜵro kári",
+    "start": 5565,
+    "end": 5573,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mꜵro kári jarl",
+    "start": 5565,
+    "end": 5578,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sueiɴ",
+    "start": 5580,
+    "end": 5584,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sueiɴ jarl",
+    "start": 5580,
+    "end": 5589,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eatvarðr",
+    "start": 5617,
+    "end": 5624,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eatvarðr hiɴ gode",
+    "start": 5617,
+    "end": 5633,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ulfr",
+    "start": 5939,
+    "end": 5942,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ulfr hinn ragi",
+    "start": 5939,
+    "end": 5952,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfſ",
+    "start": 6305,
+    "end": 6308,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfſ jarls",
+    "start": 6305,
+    "end": 6314,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "jvaʀ",
+    "start": 6488,
+    "end": 6491,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jvaʀ",
+    "start": 6618,
+    "end": 6621,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jvaʀ",
+    "start": 6714,
+    "end": 6717,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jvaʀ",
+    "start": 6800,
+    "end": 6803,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jvaʀ huíti",
+    "start": 6488,
+    "end": 6497,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knuts",
+    "start": 6536,
+    "end": 6540,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knuts",
+    "start": 9919,
+    "end": 9923,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knuts konvngs",
+    "start": 6536,
+    "end": 6548,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Knuts konvngs",
+    "start": 9919,
+    "end": 9931,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "jvarſ",
+    "start": 6592,
+    "end": 6596,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫnundr konvngr",
+    "start": 1788,
+    "end": 1801,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫnundr konvngr",
+    "start": 8284,
+    "end": 8297,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "olafi",
+    "start": 7337,
+    "end": 7341,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "olafi konvngi",
+    "start": 7337,
+    "end": 7349,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "aɢli",
+    "start": 8370,
+    "end": 8373,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill",
+    "start": 8521,
+    "end": 8525,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill",
+    "start": 9063,
+    "end": 9067,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill",
+    "start": 9169,
+    "end": 9173,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill hallzſonr",
+    "start": 8521,
+    "end": 8535,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tófi",
+    "start": 8555,
+    "end": 8558,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tófi",
+    "start": 8757,
+    "end": 8760,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tófi valgꜹtz ſonr",
+    "start": 8555,
+    "end": 8571,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Egil",
+    "start": 8820,
+    "end": 8823,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "agli",
+    "start": 9429,
+    "end": 9432,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgꜹtr",
+    "start": 9546,
+    "end": 9552,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ſuarti",
+    "start": 693,
+    "end": 698,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "hiɴ rika",
+    "start": 755,
+    "end": 762,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſcald",
+    "start": 966,
+    "end": 970,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſiaʀeksſonr",
+    "start": 972,
+    "end": 982,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ hælga",
+    "start": 1015,
+    "end": 1022,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "mágr",
+    "start": 4887,
+    "end": 4890,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ulfnaðrſ ſonr",
+    "start": 5482,
+    "end": 5494,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "hiɴ gode",
+    "start": 5626,
+    "end": 5633,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "hinn ragi",
+    "start": 5944,
+    "end": 5952,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "hiɴ raga",
+    "start": 6070,
+    "end": 6077,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "huíti",
+    "start": 6493,
+    "end": 6497,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "hallzſonr",
+    "start": 8527,
+    "end": 8535,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "valgꜹtz ſonr",
+    "start": 8560,
+    "end": 8571,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "danmǫrku",
+    "start": 1920,
+    "end": 1927,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "noreg",
+    "start": 2679,
+    "end": 2683,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "noreg",
+    "start": 10204,
+    "end": 10208,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "noregi",
+    "start": 2909,
+    "end": 2914,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſcáne",
+    "start": 3828,
+    "end": 3832,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſíolande",
+    "start": 3839,
+    "end": 3846,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſia land",
+    "start": 4707,
+    "end": 4714,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "ſcáni",
+    "start": 4729,
+    "end": 4733,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "danmorko",
+    "start": 5400,
+    "end": 5407,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "veſtra gꜹtlandi",
+    "start": 8593,
+    "end": 8607,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "barvíc",
+    "start": 1426,
+    "end": 1431,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "eyrar ſund",
+    "start": 4661,
+    "end": 4670,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  }
+]

@@ -1,0 +1,809 @@
+[
+  {
+    "dipl_text": "knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ottaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ottaʀ ſuarti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "knut",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knut hiɴ rika",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þorðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorðr ſcald",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olaf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olaf konvng",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olaf eɴ hælga?",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſueinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Onundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Onundar konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "ǫnundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ǫnundr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "ǫnundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ǫnundr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ǫnundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr mágr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ǫnundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫnundi konvngi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knvti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knvti konvngi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfi jarli",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ulfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ulfr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfs jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gyða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðini jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "guðini ulfnaðrſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "haraldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haraldr engla konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Toſti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Toſti jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Valþiofr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valþiofr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Mꜵro kári",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mꜵro kári jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sueiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sueiɴ jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gyða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eatvarðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eatvarðr engla konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Eatvarðr hiɴ gode",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfs jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "ulfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ulfr hinn ragi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlf hiɴ raga",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlfſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfſ jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "jvaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jvaʀ huíti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "jvarſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jvaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfr jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "jvaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jvaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ǫnundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫnundr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "olafi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "olafi konvngi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knutr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knutr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ǫnundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫnundr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "aɢli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tofa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill hallzſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tófi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tófi valgꜹtz ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tófi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Egils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "agli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tófi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Valgꜹtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olaf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olaf konvng",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr konvngr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "knuts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "knuts konvngs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "ſuarti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "hiɴ rika",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ſcald",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ſiaʀeksſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴ hælga",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "mágr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ulfnaðrſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "hiɴ gode",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "hinn ragi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "hiɴ raga",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "huíti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "hallzſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "valgꜹtz ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "danmǫrku",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "noreg",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "noregi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "ſcáne",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "ſíolande",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Siá landz",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "ſia land",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "ſcáni",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "róiſkeldo",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "danmorko",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "veſtra gꜹtlandi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "noreg",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "barvíc",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "eyrar ſund",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "eyrar ſundz",
+    "label": "LOC",
+    "subtype": "OTR"
+  }
+]

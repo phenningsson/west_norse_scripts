@@ -1,0 +1,5066 @@
+[
+  {
+    "text": "þorlaki",
+    "start": 44,
+    "end": 50,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "katli",
+    "start": 55,
+    "end": 59,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundi",
+    "start": 85,
+    "end": 91,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundi presti",
+    "start": 85,
+    "end": 98,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdan",
+    "start": 384,
+    "end": 390,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdan",
+    "start": 22846,
+    "end": 22852,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdan Hvitbeiɴ",
+    "start": 384,
+    "end": 399,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdan Hvitbeiɴ",
+    "start": 22846,
+    "end": 22861,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs",
+    "start": 426,
+    "end": 430,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs",
+    "start": 8939,
+    "end": 8943,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs Tretelgio",
+    "start": 426,
+    "end": 440,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "aiſteinſ",
+    "start": 465,
+    "end": 472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "aiſteinſ fretz",
+    "start": 465,
+    "end": 478,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdanar",
+    "start": 1058,
+    "end": 1066,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdanar",
+    "start": 14921,
+    "end": 14929,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþroþar",
+    "start": 531,
+    "end": 538,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþroþar",
+    "start": 14577,
+    "end": 14584,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþroþar veiþiconungſ",
+    "start": 531,
+    "end": 551,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "halfdanar",
+    "start": 559,
+    "end": 567,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "halfdanar enſ ꜱvarta",
+    "start": 559,
+    "end": 578,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 586,
+    "end": 592,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 1037,
+    "end": 1043,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 8951,
+    "end": 8957,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 13424,
+    "end": 13430,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 14606,
+    "end": 14612,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 14882,
+    "end": 14888,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 14958,
+    "end": 14964,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 16917,
+    "end": 16923,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz",
+    "start": 21110,
+    "end": 21116,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz enſ Harfagra",
+    "start": 1037,
+    "end": 1056,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifi",
+    "start": 924,
+    "end": 930,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifi byſcopi",
+    "start": 924,
+    "end": 938,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizori",
+    "start": 948,
+    "end": 953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizori byſcopi",
+    "start": 948,
+    "end": 961,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitz",
+    "start": 1120,
+    "end": 1124,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitz",
+    "start": 13708,
+    "end": 13712,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifs",
+    "start": 1175,
+    "end": 1181,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifs",
+    "start": 16848,
+    "end": 16854,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifs",
+    "start": 21622,
+    "end": 21628,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifs byſcops",
+    "start": 1175,
+    "end": 1189,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkelſ",
+    "start": 1195,
+    "end": 1201,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jvar",
+    "start": 1322,
+    "end": 1325,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jvar ʀagnarſ ſonr",
+    "start": 1322,
+    "end": 1338,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eadmund",
+    "start": 1360,
+    "end": 1366,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "eadmund eɴ Helga",
+    "start": 1360,
+    "end": 1375,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jngolfur",
+    "start": 1460,
+    "end": 1467,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldur",
+    "start": 1542,
+    "end": 1550,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldur",
+    "start": 15769,
+    "end": 15777,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldur eɴ Harfagri",
+    "start": 1542,
+    "end": 1562,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldr",
+    "start": 2154,
+    "end": 2161,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldr",
+    "start": 2348,
+    "end": 2355,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldr",
+    "start": 4745,
+    "end": 4752,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell",
+    "start": 2674,
+    "end": 2680,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell",
+    "start": 8090,
+    "end": 8096,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell",
+    "start": 14743,
+    "end": 14749,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell",
+    "start": 23192,
+    "end": 23198,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrollaugr",
+    "start": 2701,
+    "end": 2709,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀꜹgvallz",
+    "start": 2716,
+    "end": 2723,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀꜹgvallz iarls",
+    "start": 2716,
+    "end": 2729,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilbiorɴ",
+    "start": 2785,
+    "end": 2794,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilbiorɴ Ketilſ ſonr",
+    "start": 2785,
+    "end": 2806,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫþr",
+    "start": 2884,
+    "end": 2886,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketils",
+    "start": 2895,
+    "end": 2900,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketils flatnefs",
+    "start": 2895,
+    "end": 2909,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 2986,
+    "end": 2990,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 22156,
+    "end": 22160,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 22920,
+    "end": 22924,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi enn magri",
+    "start": 2986,
+    "end": 3000,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyvindar",
+    "start": 3013,
+    "end": 3020,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfliotr",
+    "start": 3179,
+    "end": 3186,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfliotr",
+    "start": 3472,
+    "end": 3479,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitur",
+    "start": 3203,
+    "end": 3208,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitur",
+    "start": 13289,
+    "end": 13294,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitur",
+    "start": 15327,
+    "end": 15332,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitur",
+    "start": 16275,
+    "end": 16280,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴars",
+    "start": 3261,
+    "end": 3266,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴars",
+    "start": 8065,
+    "end": 8070,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorleifs",
+    "start": 3374,
+    "end": 3381,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorleifs ens Spaca",
+    "start": 3374,
+    "end": 3391,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfliötz",
+    "start": 3227,
+    "end": 3234,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfliötz",
+    "start": 3721,
+    "end": 3728,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorſteiɴ",
+    "start": 3798,
+    "end": 3805,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorſteiɴ",
+    "start": 5281,
+    "end": 5288,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorſteiɴ Ingolfſſonr",
+    "start": 3798,
+    "end": 3817,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels",
+    "start": 3840,
+    "end": 3846,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels",
+    "start": 5641,
+    "end": 5647,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels",
+    "start": 6078,
+    "end": 6084,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels",
+    "start": 15552,
+    "end": 15558,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels mana",
+    "start": 3840,
+    "end": 3851,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels mana",
+    "start": 6078,
+    "end": 6089,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorer",
+    "start": 4007,
+    "end": 4011,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorer Croppinſkeggi",
+    "start": 4007,
+    "end": 4025,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorvalldr",
+    "start": 4058,
+    "end": 4066,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorvalldr",
+    "start": 6578,
+    "end": 6586,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorvalldr Croppinſkeggi",
+    "start": 4058,
+    "end": 4080,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴar",
+    "start": 4130,
+    "end": 4134,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴar",
+    "start": 15627,
+    "end": 15631,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴar",
+    "start": 15844,
+    "end": 15848,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur",
+    "start": 4159,
+    "end": 4164,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur",
+    "start": 9134,
+    "end": 9139,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur",
+    "start": 15379,
+    "end": 15384,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur",
+    "start": 16453,
+    "end": 16458,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur Orækia ſonr",
+    "start": 4159,
+    "end": 4176,
+    "label": "PER",
+    "subtype": "MET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Kolur",
+    "start": 4188,
+    "end": 4192,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfheþiɴ",
+    "start": 4460,
+    "end": 4467,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hramɴ",
+    "start": 4578,
+    "end": 4582,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hramɴ Logſogo",
+    "start": 4578,
+    "end": 4590,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlflioti",
+    "start": 4623,
+    "end": 4630,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "eadmundar",
+    "start": 13584,
+    "end": 13592,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "eadmundar",
+    "start": 21193,
+    "end": 21201,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorareɴ",
+    "start": 4797,
+    "end": 4803,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorareɴ ʀagabroþer",
+    "start": 4797,
+    "end": 4814,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫleifs",
+    "start": 4821,
+    "end": 4826,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫleifs Hialta",
+    "start": 4821,
+    "end": 4833,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hramni",
+    "start": 4853,
+    "end": 4858,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorſteiɴ Surtr",
+    "start": 5281,
+    "end": 5294,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallstęins",
+    "start": 5323,
+    "end": 5332,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallstęins þorolpſſonar",
+    "start": 5323,
+    "end": 5345,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Oſcar",
+    "start": 5381,
+    "end": 5385,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oſcar þorsteins dottor",
+    "start": 5381,
+    "end": 5402,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Øſyfr",
+    "start": 5606,
+    "end": 5610,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Øſyfr Helgaſonr",
+    "start": 5606,
+    "end": 5620,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gellis",
+    "start": 5634,
+    "end": 5639,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gellis",
+    "start": 7156,
+    "end": 7161,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gellis þorkels ſonar",
+    "start": 5634,
+    "end": 5653,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Oſyfur",
+    "start": 5984,
+    "end": 5989,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorþar",
+    "start": 6467,
+    "end": 6472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olęifs",
+    "start": 6487,
+    "end": 6492,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olęifs feilaɴſ",
+    "start": 6487,
+    "end": 6500,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tungu Oddr",
+    "start": 6545,
+    "end": 6554,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkels",
+    "start": 6612,
+    "end": 6618,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkels bluɴketils ſonar",
+    "start": 6612,
+    "end": 6635,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hæſna þori",
+    "start": 6641,
+    "end": 6650,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþr",
+    "start": 6670,
+    "end": 6674,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþr",
+    "start": 7348,
+    "end": 7352,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþr Geller",
+    "start": 6670,
+    "end": 6681,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþr Geller",
+    "start": 7348,
+    "end": 7359,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Herstęinn",
+    "start": 6718,
+    "end": 6726,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Herstęinn Þorkelſſonr",
+    "start": 6718,
+    "end": 6738,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "jofriþar",
+    "start": 6829,
+    "end": 6836,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorstęinn",
+    "start": 6841,
+    "end": 6849,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorolfur",
+    "start": 7106,
+    "end": 7113,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorolfur refur",
+    "start": 7106,
+    "end": 7119,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫlfs",
+    "start": 7128,
+    "end": 7131,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫlfs i Dolom",
+    "start": 7128,
+    "end": 7139,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþar",
+    "start": 21992,
+    "end": 21997,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oddz",
+    "start": 7249,
+    "end": 7252,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hæſna þorir",
+    "start": 7274,
+    "end": 7284,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfheþin",
+    "start": 8056,
+    "end": 8063,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlfheþin Guɴars ſonr",
+    "start": 8056,
+    "end": 8075,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell mane",
+    "start": 8090,
+    "end": 8101,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorarinn",
+    "start": 8149,
+    "end": 8156,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorarinn",
+    "start": 17349,
+    "end": 17356,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorarinn ʀaga broþor",
+    "start": 8149,
+    "end": 8168,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeir",
+    "start": 8199,
+    "end": 8205,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeir",
+    "start": 14062,
+    "end": 14068,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeir at Lioſavatɴi",
+    "start": 8199,
+    "end": 8219,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eirikr",
+    "start": 8308,
+    "end": 8313,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eirikr eɴ ʀauþi",
+    "start": 8308,
+    "end": 8322,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkeli",
+    "start": 8844,
+    "end": 8850,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkeli Gelliſſyni",
+    "start": 8844,
+    "end": 8861,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eirike",
+    "start": 8893,
+    "end": 8898,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eirike enom ʀauþa",
+    "start": 8893,
+    "end": 8909,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafur",
+    "start": 8917,
+    "end": 8922,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafur",
+    "start": 22904,
+    "end": 22909,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafur rex",
+    "start": 8917,
+    "end": 8926,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þangbrandur",
+    "start": 9056,
+    "end": 9066,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur a Siþu",
+    "start": 9134,
+    "end": 9146,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hiallti",
+    "start": 9190,
+    "end": 9196,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hiallti",
+    "start": 9788,
+    "end": 9794,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hiallti",
+    "start": 10913,
+    "end": 10919,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hiallti Sceggiasonur",
+    "start": 9190,
+    "end": 9209,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 9230,
+    "end": 9234,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 9779,
+    "end": 9783,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 10622,
+    "end": 10626,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 11189,
+    "end": 11193,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 15311,
+    "end": 15315,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 16829,
+    "end": 16833,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 17163,
+    "end": 17167,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 17558,
+    "end": 17562,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 18128,
+    "end": 18132,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 19663,
+    "end": 19667,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 19938,
+    "end": 19942,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 20057,
+    "end": 20061,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 20519,
+    "end": 20523,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 20614,
+    "end": 20618,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor",
+    "start": 20771,
+    "end": 20775,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor eɴ Hviti",
+    "start": 9230,
+    "end": 9243,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafi",
+    "start": 9521,
+    "end": 9525,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þormoþr",
+    "start": 10013,
+    "end": 10019,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hall",
+    "start": 11485,
+    "end": 11488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hall a Siþo",
+    "start": 11485,
+    "end": 11495,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeiri",
+    "start": 11621,
+    "end": 11628,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeiri Logſogo maɴi",
+    "start": 11621,
+    "end": 11641,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeiʀ",
+    "start": 11750,
+    "end": 11756,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur",
+    "start": 13335,
+    "end": 13340,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur",
+    "start": 14542,
+    "end": 14547,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur",
+    "start": 22823,
+    "end": 22828,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur Tryɢva ſonr",
+    "start": 13335,
+    "end": 13352,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundar",
+    "start": 13381,
+    "end": 13388,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundar",
+    "start": 17701,
+    "end": 17708,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundar preſtz",
+    "start": 13381,
+    "end": 13395,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Svein",
+    "start": 13418,
+    "end": 13422,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svein Harallz ſon",
+    "start": 13418,
+    "end": 13434,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olav",
+    "start": 13452,
+    "end": 13455,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Criſtz",
+    "start": 1422,
+    "end": 1427,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Criſtz",
+    "start": 13613,
+    "end": 13618,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Criſtz",
+    "start": 21390,
+    "end": 21395,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "friþrecur",
+    "start": 13715,
+    "end": 13723,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarnharþur",
+    "start": 13765,
+    "end": 13775,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarnharþur",
+    "start": 13845,
+    "end": 13855,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarnharþur en böcvïſi",
+    "start": 13765,
+    "end": 13786,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Colr",
+    "start": 13794,
+    "end": 13797,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jꜹhan",
+    "start": 13823,
+    "end": 13827,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jꜹhan eɴ irſki",
+    "start": 13823,
+    "end": 13836,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Heinrecur",
+    "start": 13866,
+    "end": 13874,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ornolfur",
+    "start": 13938,
+    "end": 13945,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþiſcolcr",
+    "start": 13950,
+    "end": 13959,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Petrus",
+    "start": 13978,
+    "end": 13983,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "abraham",
+    "start": 13988,
+    "end": 13994,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stephanus",
+    "start": 13999,
+    "end": 14007,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Grimur",
+    "start": 14010,
+    "end": 14015,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Grimur at moſfelli",
+    "start": 14010,
+    "end": 14027,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scapti",
+    "start": 14122,
+    "end": 14127,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Scapti",
+    "start": 14203,
+    "end": 14208,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Scapti þoroddz ſonr",
+    "start": 14122,
+    "end": 14140,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur en Digre",
+    "start": 14542,
+    "end": 14556,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavr",
+    "start": 14654,
+    "end": 14658,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkell Tiorva ſonr",
+    "start": 14743,
+    "end": 14761,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 6676,
+    "end": 6681,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 7354,
+    "end": 7359,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 15668,
+    "end": 15673,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 15804,
+    "end": 15809,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 23107,
+    "end": 23112,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geller",
+    "start": 23207,
+    "end": 23212,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifur",
+    "start": 14819,
+    "end": 14826,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifur",
+    "start": 15252,
+    "end": 15259,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifur",
+    "start": 16037,
+    "end": 16044,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleifur Gizorar ſonr",
+    "start": 14819,
+    "end": 14839,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz Norvegs conungs",
+    "start": 14882,
+    "end": 14904,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "jſleifur",
+    "start": 15026,
+    "end": 15033,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jſleifur",
+    "start": 16955,
+    "end": 16962,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Collur",
+    "start": 15207,
+    "end": 15212,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "joan",
+    "start": 15237,
+    "end": 15240,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 15311,
+    "end": 15322,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 16829,
+    "end": 16840,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 17163,
+    "end": 17174,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 17558,
+    "end": 17569,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 18128,
+    "end": 18139,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 19663,
+    "end": 19674,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byſcop",
+    "start": 20771,
+    "end": 20782,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitur preſtr",
+    "start": 15327,
+    "end": 15339,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halls",
+    "start": 15347,
+    "end": 15351,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halls",
+    "start": 19808,
+    "end": 19812,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halls",
+    "start": 21792,
+    "end": 21796,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teit",
+    "start": 15368,
+    "end": 15371,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallur i Haukadali",
+    "start": 15379,
+    "end": 15396,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallꜱ",
+    "start": 15502,
+    "end": 15506,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴar en Spaci",
+    "start": 15627,
+    "end": 15640,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Colbeiɴ",
+    "start": 15712,
+    "end": 15718,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Colbeiɴ floſaſonr",
+    "start": 15712,
+    "end": 15728,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haralldur rex",
+    "start": 15769,
+    "end": 15781,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Colbeins",
+    "start": 15914,
+    "end": 15921,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundur",
+    "start": 15946,
+    "end": 15953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sęmundur Sigfuſ ſonr",
+    "start": 15946,
+    "end": 15965,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Leo",
+    "start": 16101,
+    "end": 16103,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Petars",
+    "start": 16339,
+    "end": 16344,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pǫls",
+    "start": 16349,
+    "end": 16352,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavs",
+    "start": 16371,
+    "end": 16375,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavs",
+    "start": 16903,
+    "end": 16907,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Teiti",
+    "start": 16413,
+    "end": 16417,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þangbranþur",
+    "start": 16550,
+    "end": 16560,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſleıfs",
+    "start": 16809,
+    "end": 16815,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavs conungs",
+    "start": 16903,
+    "end": 16915,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Giſroþur",
+    "start": 17065,
+    "end": 17072,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcus",
+    "start": 17095,
+    "end": 17100,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcus",
+    "start": 18892,
+    "end": 18897,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcus Sceɢia ſonr",
+    "start": 17095,
+    "end": 17112,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sceggi",
+    "start": 17373,
+    "end": 17378,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarni",
+    "start": 17464,
+    "end": 17469,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarni eɴ Spaki",
+    "start": 17464,
+    "end": 17478,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þoraren",
+    "start": 17519,
+    "end": 17525,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þoraren Logſogo maɴ",
+    "start": 17519,
+    "end": 17537,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "marcuꜱ",
+    "start": 17722,
+    "end": 17727,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "marcuꜱ Logſogo maɴz",
+    "start": 17722,
+    "end": 17740,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlvheþiɴ",
+    "start": 18844,
+    "end": 18851,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vlvheþiɴ Guɴarſſonr ens spaca",
+    "start": 18844,
+    "end": 18872,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergþorr",
+    "start": 18928,
+    "end": 18935,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergþorr Hrafɴſſonr",
+    "start": 18928,
+    "end": 18946,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþmundr",
+    "start": 18964,
+    "end": 18971,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþmundr þorgeirſſonr",
+    "start": 18964,
+    "end": 18984,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergþor",
+    "start": 19016,
+    "end": 19022,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergþor",
+    "start": 19633,
+    "end": 19639,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Havliþa",
+    "start": 19094,
+    "end": 19100,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Havliþa moſſ ſonar",
+    "start": 19094,
+    "end": 19111,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergþors",
+    "start": 19154,
+    "end": 19161,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorlac",
+    "start": 19769,
+    "end": 19774,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorlac ʀunolfſſon",
+    "start": 19769,
+    "end": 19785,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halls i Haukadali",
+    "start": 19808,
+    "end": 19824,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gregorius",
+    "start": 20118,
+    "end": 20126,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gregorius",
+    "start": 21247,
+    "end": 21255,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joan",
+    "start": 20299,
+    "end": 20302,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joan Ǫgmundarſonr",
+    "start": 20299,
+    "end": 20315,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorlacur",
+    "start": 20481,
+    "end": 20488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorlacur",
+    "start": 20578,
+    "end": 20585,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizor byscop",
+    "start": 20614,
+    "end": 20625,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Paſchalis",
+    "start": 20740,
+    "end": 20748,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Baldvine",
+    "start": 20788,
+    "end": 20795,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Baldvine jorſalaconungr",
+    "start": 20788,
+    "end": 20810,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Philippus",
+    "start": 20843,
+    "end": 20851,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Philippus Svia conungr",
+    "start": 20843,
+    "end": 20864,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "eyſteiɴ",
+    "start": 21021,
+    "end": 21027,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþur",
+    "start": 21032,
+    "end": 21039,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "magnus",
+    "start": 21084,
+    "end": 21089,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "eadmundar engla conungſ",
+    "start": 21193,
+    "end": 21215,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gregorius pava",
+    "start": 21247,
+    "end": 21260,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Foco",
+    "start": 21350,
+    "end": 21353,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Foco kęiſara",
+    "start": 21350,
+    "end": 21361,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilbiorn",
+    "start": 21512,
+    "end": 21521,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilbiorn landnams maþr",
+    "start": 21512,
+    "end": 21535,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizorar",
+    "start": 14828,
+    "end": 14834,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizorar",
+    "start": 21598,
+    "end": 21604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizorar",
+    "start": 21672,
+    "end": 21678,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizorar eɴſ Hvita",
+    "start": 21598,
+    "end": 21614,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrollaugur",
+    "start": 21688,
+    "end": 21697,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrollaugur Laɴdnams maþr",
+    "start": 21688,
+    "end": 21711,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "þordiſar",
+    "start": 21777,
+    "end": 21784,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halls a Siþo",
+    "start": 21792,
+    "end": 21803,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Egils",
+    "start": 21811,
+    "end": 21815,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joaɴſ",
+    "start": 21841,
+    "end": 21845,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oþr",
+    "start": 21879,
+    "end": 21881,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oþr laɴdnams cona",
+    "start": 21879,
+    "end": 21895,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins",
+    "start": 5387,
+    "end": 5395,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins",
+    "start": 9148,
+    "end": 9156,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins",
+    "start": 21945,
+    "end": 21953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins",
+    "start": 22323,
+    "end": 22331,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins eɴſ ʀauþa",
+    "start": 21945,
+    "end": 21963,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorþar Gelles",
+    "start": 21992,
+    "end": 22004,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorhilldar",
+    "start": 22012,
+    "end": 22021,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorhilldar ʀiupu",
+    "start": 22012,
+    "end": 22027,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Carlſevnes",
+    "start": 22058,
+    "end": 22067,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Snorra",
+    "start": 1265,
+    "end": 1270,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Snorra",
+    "start": 22075,
+    "end": 22080,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallfriþar",
+    "start": 22088,
+    "end": 22097,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorlacs",
+    "start": 22105,
+    "end": 22111,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi eɴ magri",
+    "start": 22156,
+    "end": 22169,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgo",
+    "start": 6798,
+    "end": 6802,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einarſſ",
+    "start": 22249,
+    "end": 22255,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyiolfs",
+    "start": 22263,
+    "end": 22269,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goþmuɴdar",
+    "start": 22293,
+    "end": 22301,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyiolvs",
+    "start": 22309,
+    "end": 22315,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ketils",
+    "start": 6624,
+    "end": 6629,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "ketils",
+    "start": 22339,
+    "end": 22344,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Yngui",
+    "start": 22436,
+    "end": 22440,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Yngui Tyrkia conungr",
+    "start": 22436,
+    "end": 22455,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Niǫrþr",
+    "start": 22462,
+    "end": 22467,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Niǫrþr Sviaconungr",
+    "start": 22462,
+    "end": 22479,
+    "label": "PER",
+    "subtype": "ROL",
+    "source": "exact_match"
+  },
+  {
+    "text": "Frayr",
+    "start": 22487,
+    "end": 22491,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fiolner",
+    "start": 22498,
+    "end": 22504,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "frid fröþa",
+    "start": 22519,
+    "end": 22528,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svegþer",
+    "start": 22533,
+    "end": 22539,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vanlandi",
+    "start": 22546,
+    "end": 22553,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Uiſbuʀ",
+    "start": 22561,
+    "end": 22566,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Domaldr",
+    "start": 22574,
+    "end": 22580,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Domaʀ",
+    "start": 22587,
+    "end": 22591,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dyɢue",
+    "start": 22597,
+    "end": 22601,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dagur",
+    "start": 22608,
+    "end": 22612,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "alrecr",
+    "start": 22620,
+    "end": 22625,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Yngvi",
+    "start": 22646,
+    "end": 22650,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Joruɴdr",
+    "start": 22657,
+    "end": 22663,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "aun",
+    "start": 22670,
+    "end": 22672,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill",
+    "start": 22689,
+    "end": 22693,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Egill vendilcraca",
+    "start": 22689,
+    "end": 22705,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "aþiſll",
+    "start": 22724,
+    "end": 22729,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "aþiſll at vppſolom",
+    "start": 22724,
+    "end": 22741,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyſteinn",
+    "start": 22747,
+    "end": 22754,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Yngvaʀ",
+    "start": 22761,
+    "end": 22766,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "brꜹt ǫnundur",
+    "start": 22774,
+    "end": 22785,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Olavur Tretelgia",
+    "start": 22823,
+    "end": 22838,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþar",
+    "start": 14906,
+    "end": 14913,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþar",
+    "start": 14937,
+    "end": 14944,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþar",
+    "start": 22957,
+    "end": 22964,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþar ʀagnars ſonar",
+    "start": 22957,
+    "end": 22978,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Oleivur",
+    "start": 22995,
+    "end": 23001,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oleivur eɴ Hviti",
+    "start": 22995,
+    "end": 23010,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteiɴ",
+    "start": 23018,
+    "end": 23025,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oleifur",
+    "start": 23044,
+    "end": 23050,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oleifur Feilan",
+    "start": 23044,
+    "end": 23057,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorþur",
+    "start": 23100,
+    "end": 23105,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorþur Geller",
+    "start": 23100,
+    "end": 23112,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Braɴz",
+    "start": 23240,
+    "end": 23244,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgils",
+    "start": 23249,
+    "end": 23255,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "are",
+    "start": 6139,
+    "end": 6141,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "are",
+    "start": 23283,
+    "end": 23285,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hvitbeiɴ",
+    "start": 392,
+    "end": 399,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hvitbeiɴ",
+    "start": 22854,
+    "end": 22861,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tretelgio",
+    "start": 432,
+    "end": 440,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "fretz",
+    "start": 474,
+    "end": 478,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ens millda",
+    "start": 496,
+    "end": 505,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "veiþiconungſ",
+    "start": 540,
+    "end": 551,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "enſ ꜱvarta",
+    "start": 569,
+    "end": 578,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "enſ Harfagra",
+    "start": 1045,
+    "end": 1056,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdanar ſonar",
+    "start": 1058,
+    "end": 1072,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Halfdanar ſonar",
+    "start": 14921,
+    "end": 14935,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "enſ Svarta",
+    "start": 1074,
+    "end": 1083,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gelliſ ſonar",
+    "start": 1221,
+    "end": 1232,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Snorra dottor",
+    "start": 1265,
+    "end": 1277,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀagnarſ ſonr",
+    "start": 1327,
+    "end": 1338,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Loþbrokar",
+    "start": 1340,
+    "end": 1348,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Helga",
+    "start": 1368,
+    "end": 1375,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Harfagri",
+    "start": 1552,
+    "end": 1562,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Digri",
+    "start": 2514,
+    "end": 2521,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gelliſ ſonr",
+    "start": 2686,
+    "end": 2696,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilſ ſonr",
+    "start": 2796,
+    "end": 2806,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "flatnefs",
+    "start": 2902,
+    "end": 2909,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "enn magri",
+    "start": 2992,
+    "end": 3000,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ens Spaca",
+    "start": 3383,
+    "end": 3391,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Horþa caraſonar",
+    "start": 3393,
+    "end": 3407,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Geitſcor",
+    "start": 3521,
+    "end": 3528,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingolfſſonr",
+    "start": 3807,
+    "end": 3817,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "mana",
+    "start": 3848,
+    "end": 3851,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "mana",
+    "start": 6086,
+    "end": 6089,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Croppinſkeggi",
+    "start": 4013,
+    "end": 4025,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Croppinſkeggi",
+    "start": 4068,
+    "end": 4080,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Orækia ſonr",
+    "start": 4166,
+    "end": 4176,
+    "label": "PER",
+    "subtype": "MET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 3853,
+    "end": 3859,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 4584,
+    "end": 4590,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 4839,
+    "end": 4845,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 11630,
+    "end": 11636,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 14216,
+    "end": 14222,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 14705,
+    "end": 14711,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 15654,
+    "end": 15660,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 17120,
+    "end": 17126,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 17527,
+    "end": 17533,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Logſogo",
+    "start": 17729,
+    "end": 17735,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hængs ſonr",
+    "start": 4592,
+    "end": 4601,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀagabroþer",
+    "start": 4805,
+    "end": 4814,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hialta",
+    "start": 4828,
+    "end": 4833,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Surtr",
+    "start": 5290,
+    "end": 5294,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorolpſſonar",
+    "start": 5334,
+    "end": 5345,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "morſtrarſceggia",
+    "start": 5347,
+    "end": 5361,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins dottor",
+    "start": 5387,
+    "end": 5402,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgaſonr",
+    "start": 5612,
+    "end": 5620,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels ſonar",
+    "start": 5641,
+    "end": 5653,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "feilaɴſ",
+    "start": 6494,
+    "end": 6500,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "bluɴketils ſonar",
+    "start": 6620,
+    "end": 6635,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkelſſonr",
+    "start": 6728,
+    "end": 6738,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bluɴ ketilſſonar",
+    "start": 6740,
+    "end": 6755,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgo dotter",
+    "start": 6798,
+    "end": 6809,
+    "label": "PER",
+    "subtype": "MET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Egilsſonr",
+    "start": 6856,
+    "end": 6864,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "refur",
+    "start": 7115,
+    "end": 7119,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "i Dolom",
+    "start": 7133,
+    "end": 7139,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴars ſonr",
+    "start": 8065,
+    "end": 8075,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "mane",
+    "start": 8098,
+    "end": 8101,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorſteinſſonr",
+    "start": 8103,
+    "end": 8115,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "jngolfs ſonar",
+    "start": 8117,
+    "end": 8129,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀaga broþor",
+    "start": 8158,
+    "end": 8168,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "at Lioſavatɴi",
+    "start": 8207,
+    "end": 8219,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkelſſonr",
+    "start": 8221,
+    "end": 8231,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ ʀauþi",
+    "start": 8315,
+    "end": 8322,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gelliſſyni",
+    "start": 8852,
+    "end": 8861,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "enom ʀauþa",
+    "start": 8900,
+    "end": 8909,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryɢvaſonr",
+    "start": 8928,
+    "end": 8937,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryɢvaſonr",
+    "start": 14666,
+    "end": 14675,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafs ſonar",
+    "start": 8939,
+    "end": 8949,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz ſonar",
+    "start": 14606,
+    "end": 14618,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz ſonar",
+    "start": 14958,
+    "end": 14970,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz ſonar",
+    "start": 16917,
+    "end": 16929,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz ſonar",
+    "start": 21110,
+    "end": 21122,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴſ Harfagra",
+    "start": 8965,
+    "end": 8976,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "a Siþu",
+    "start": 9141,
+    "end": 9146,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "a Siþu",
+    "start": 21731,
+    "end": 21736,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorsteins ſonr",
+    "start": 9148,
+    "end": 9161,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sceggiasonur",
+    "start": 9198,
+    "end": 9209,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Hviti",
+    "start": 9236,
+    "end": 9243,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Hviti",
+    "start": 23003,
+    "end": 23010,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Teitzſonr",
+    "start": 9245,
+    "end": 9253,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ketilbiarnarſonar",
+    "start": 9255,
+    "end": 9271,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "fra moſfelli",
+    "start": 9273,
+    "end": 9284,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "a Siþo",
+    "start": 11490,
+    "end": 11495,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "a Siþo",
+    "start": 21798,
+    "end": 21803,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryɢva ſonr",
+    "start": 13342,
+    "end": 13352,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Harallz ſon",
+    "start": 13424,
+    "end": 13434,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiricſ ſon",
+    "start": 13467,
+    "end": 13476,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hǫconarſon",
+    "start": 13541,
+    "end": 13550,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "en böcvïſi",
+    "start": 13777,
+    "end": 13786,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ irſki",
+    "start": 13829,
+    "end": 13836,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "at moſfelli",
+    "start": 14017,
+    "end": 14027,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "at moſfelli",
+    "start": 21555,
+    "end": 21565,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Svertings ſonr",
+    "start": 14029,
+    "end": 14042,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þoroddz ſonr",
+    "start": 14129,
+    "end": 14140,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "en Digre",
+    "start": 14549,
+    "end": 14556,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haʀallz ſonr",
+    "start": 14564,
+    "end": 14575,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Biarnar ſonar",
+    "start": 14592,
+    "end": 14604,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ens Harfagra",
+    "start": 14620,
+    "end": 14631,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeſter ſonr",
+    "start": 14690,
+    "end": 14703,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tiorva ſonr",
+    "start": 14751,
+    "end": 14761,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bolvercſ ſonr",
+    "start": 14790,
+    "end": 14802,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizorar ſonr",
+    "start": 14828,
+    "end": 14839,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ens Hvïta",
+    "start": 14841,
+    "end": 14849,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurþar ſonar",
+    "start": 14937,
+    "end": 14950,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hriſa",
+    "start": 14952,
+    "end": 14956,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "i Haukadali",
+    "start": 15386,
+    "end": 15396,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "i Haukadali",
+    "start": 16689,
+    "end": 16699,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "i Haukadali",
+    "start": 19814,
+    "end": 19824,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorkels ſonr",
+    "start": 15552,
+    "end": 15563,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "en Spaci",
+    "start": 15633,
+    "end": 15640,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "floſaſonr",
+    "start": 15720,
+    "end": 15728,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Surts ſonr",
+    "start": 15890,
+    "end": 15899,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigfuſ ſonr",
+    "start": 15955,
+    "end": 15965,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryɢvaſonar",
+    "start": 16382,
+    "end": 16392,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryɢvaſonar",
+    "start": 21161,
+    "end": 21171,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Sceɢia ſonr",
+    "start": 17102,
+    "end": 17112,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ Spaki",
+    "start": 17471,
+    "end": 17478,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Guɴarſſonr ens spaca",
+    "start": 18853,
+    "end": 18872,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafɴſſonr",
+    "start": 18937,
+    "end": 18946,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorgeirſſonr",
+    "start": 18973,
+    "end": 18984,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "moſſ ſonar",
+    "start": 19102,
+    "end": 19111,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀunolfſſon",
+    "start": 19776,
+    "end": 19785,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "þorleikſſonar",
+    "start": 19787,
+    "end": 19799,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫgmundarſonr",
+    "start": 20304,
+    "end": 20315,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Olafsſon",
+    "start": 21101,
+    "end": 21108,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴſ Hvita",
+    "start": 21606,
+    "end": 21614,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴſ ʀauþa",
+    "start": 21955,
+    "end": 21963,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "fęilans",
+    "start": 21978,
+    "end": 21984,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gelles",
+    "start": 21999,
+    "end": 22004,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀiupu",
+    "start": 22023,
+    "end": 22027,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Heſthofþa",
+    "start": 22042,
+    "end": 22050,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "eɴ magri",
+    "start": 22162,
+    "end": 22169,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "vendilcraca",
+    "start": 22695,
+    "end": 22705,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "at vppſolom",
+    "start": 22731,
+    "end": 22741,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "en illraþi",
+    "start": 22804,
+    "end": 22813,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Tretelgia",
+    "start": 22830,
+    "end": 22838,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀagnars ſonar",
+    "start": 22966,
+    "end": 22978,
+    "label": "PER",
+    "subtype": "PAT",
+    "source": "exact_match"
+  },
+  {
+    "text": "Loþbröcar",
+    "start": 22980,
+    "end": 22988,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Feilan",
+    "start": 23052,
+    "end": 23057,
+    "label": "PER",
+    "subtype": "NIC",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 1021,
+    "end": 1027,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 3165,
+    "end": 3171,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 12307,
+    "end": 12313,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 13533,
+    "end": 13539,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 14372,
+    "end": 14378,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 16149,
+    "end": 16155,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegi",
+    "start": 21070,
+    "end": 21076,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 880,
+    "end": 885,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 997,
+    "end": 1002,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 3093,
+    "end": 3098,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 3564,
+    "end": 3569,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 4523,
+    "end": 4528,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 8812,
+    "end": 8817,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſland",
+    "start": 9004,
+    "end": 9009,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſlandz",
+    "start": 1528,
+    "end": 1534,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀajkiar vic",
+    "start": 1635,
+    "end": 1645,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvege",
+    "start": 2124,
+    "end": 2130,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norvegſ",
+    "start": 2603,
+    "end": 2609,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſlaɴz",
+    "start": 2614,
+    "end": 2619,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Møri",
+    "start": 2733,
+    "end": 2736,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþv",
+    "start": 2752,
+    "end": 2755,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþv",
+    "start": 2768,
+    "end": 2771,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Moſfelli eno ǫfra",
+    "start": 2834,
+    "end": 2850,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Löni",
+    "start": 3492,
+    "end": 3495,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Auſtfiorþo",
+    "start": 4101,
+    "end": 4110,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀangarhverfi",
+    "start": 4663,
+    "end": 4674,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Dolom",
+    "start": 7135,
+    "end": 7139,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Norþlendinga fiorþungi",
+    "start": 7721,
+    "end": 7742,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Grænland",
+    "start": 8269,
+    "end": 8276,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Grænland",
+    "start": 8455,
+    "end": 8462,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Iſlande",
+    "start": 8299,
+    "end": 8305,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinland",
+    "start": 8676,
+    "end": 8682,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Grænlandi",
+    "start": 8865,
+    "end": 8873,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Noreg",
+    "start": 8992,
+    "end": 8996,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþu",
+    "start": 9143,
+    "end": 9146,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþu",
+    "start": 21733,
+    "end": 21736,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "moſfelli",
+    "start": 9277,
+    "end": 9284,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "moſfelli",
+    "start": 14020,
+    "end": 14027,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "moſfelli",
+    "start": 21558,
+    "end": 21565,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Veſtmaɴa eyiar",
+    "start": 10040,
+    "end": 10053,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþo",
+    "start": 11492,
+    "end": 11495,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Siþo",
+    "start": 21800,
+    "end": 21803,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmorco",
+    "start": 12321,
+    "end": 12328,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmorco",
+    "start": 20177,
+    "end": 20184,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "jſland",
+    "start": 13324,
+    "end": 13329,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vpſolum",
+    "start": 13481,
+    "end": 13487,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſlandi",
+    "start": 13683,
+    "end": 13689,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſlandi",
+    "start": 18192,
+    "end": 18198,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "vic",
+    "start": 1643,
+    "end": 1645,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "vic",
+    "start": 15223,
+    "end": 15225,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Holom",
+    "start": 15245,
+    "end": 15249,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Holom",
+    "start": 21872,
+    "end": 21876,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Holom",
+    "start": 22365,
+    "end": 22369,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haukadali",
+    "start": 15388,
+    "end": 15396,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haukadali",
+    "start": 16691,
+    "end": 16699,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Haukadali",
+    "start": 19816,
+    "end": 19824,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Englandi",
+    "start": 15785,
+    "end": 15792,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "fraclandi",
+    "start": 15977,
+    "end": 15985,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scalahollti",
+    "start": 16200,
+    "end": 16210,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scalahollti",
+    "start": 18215,
+    "end": 18225,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scalahollti",
+    "start": 20543,
+    "end": 20553,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scalahollti",
+    "start": 21654,
+    "end": 21664,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scalahollti",
+    "start": 22131,
+    "end": 22141,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Gautlandi",
+    "start": 17017,
+    "end": 17025,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jſlande",
+    "start": 18024,
+    "end": 18030,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "ʀangęinga fiorþungi",
+    "start": 18680,
+    "end": 18698,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bręiþfirþinga fiorþungi",
+    "start": 18708,
+    "end": 18730,
+    "label": "LOC",
+    "subtype": "REG",
+    "source": "exact_match"
+  },
+  {
+    "text": "jſand",
+    "start": 18837,
+    "end": 18841,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hölom",
+    "start": 20356,
+    "end": 20360,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Scala hollti",
+    "start": 20657,
+    "end": 20668,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hierusalem",
+    "start": 20828,
+    "end": 20837,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "miclagarþi",
+    "start": 20960,
+    "end": 20969,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "England",
+    "start": 21283,
+    "end": 21289,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "moſfelli eno øvra",
+    "start": 21558,
+    "end": 21574,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiþabolſtaþ",
+    "start": 21740,
+    "end": 21752,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Hvammi",
+    "start": 21928,
+    "end": 21933,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "vppſolom",
+    "start": 22734,
+    "end": 22741,
+    "label": "LOC",
+    "subtype": "SET",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jslandi",
+    "start": 23084,
+    "end": 23090,
+    "label": "LOC",
+    "subtype": "CNY",
+    "source": "exact_match"
+  },
+  {
+    "text": "Jngolfſ hofþi",
+    "start": 1655,
+    "end": 1667,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "ingolfs fell",
+    "start": 1734,
+    "end": 1745,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Bręiþa firþi",
+    "start": 2939,
+    "end": 2950,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyiafirþi",
+    "start": 3044,
+    "end": 3052,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyiafirþi",
+    "start": 22205,
+    "end": 22213,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "eyiafirþi",
+    "start": 3299,
+    "end": 3307,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Kialarneſi",
+    "start": 3780,
+    "end": 3789,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Cols gea",
+    "start": 4255,
+    "end": 4262,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "bręiþafirþi",
+    "start": 6505,
+    "end": 6515,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Ǫrɴolfsdali",
+    "start": 6654,
+    "end": 6664,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Borgarfirþi",
+    "start": 6908,
+    "end": 6918,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingnes",
+    "start": 6951,
+    "end": 6957,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyiafiorþ",
+    "start": 7819,
+    "end": 7827,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Lioſavatɴi",
+    "start": 8210,
+    "end": 8219,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiriks fiórþur",
+    "start": 8407,
+    "end": 8420,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "þiorsardali",
+    "start": 9214,
+    "end": 9224,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Laugardali",
+    "start": 10395,
+    "end": 10404,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Vellankatla",
+    "start": 10693,
+    "end": 10703,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  },
+  {
+    "text": "Criſtneſi",
+    "start": 22217,
+    "end": 22225,
+    "label": "LOC",
+    "subtype": "OTR",
+    "source": "exact_match"
+  }
+]
