@@ -63,8 +63,8 @@ def process_file(input_file, output_file):
             f_out.write(normalized_line)
 
 def main():
-    input_file = 'alexanders_saga_clean.txt' 
-    output_file = 'alexanders_saga_norm.txt'  
+    input_file = 'egil_saga/egil_saga_am132_cleaned.txt' 
+    output_file = 'egil_saga/egil_saga_am132_norm.txt'  
     print(f"Processing {input_file}...")
     process_file(input_file, output_file)
     print(f"Normalized text saved to {output_file}")

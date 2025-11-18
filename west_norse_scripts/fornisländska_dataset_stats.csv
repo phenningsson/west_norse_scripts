@@ -1,0 +1,9 @@
+Dataset,Total Entities,PER Count,LOC Count,PER Subtypes,LOC Subtypes,Word Count
+Alexanders saga,1511,1242,269,,,47735
+AM 162 B 0,293,275,18,PAT: 7; NIC: 3,,2319
+AM 162 b K,289,259,30,PAT: 37; NIC: 12,,2274
+Islendingabok,633,536,97,PAT: 90; NIC: 140; ROL: 32; MET: 3,CNY: 35; SET: 30; REG: 13; OTR: 19,4306
+Drauma Jons,79,74,5,,,4399
+Laknisbok,4,3,1,,,719
+Olafs saga,151,139,12,PAT: 6; NIC: 15; ROL: 44,CNY: 5; REG: 5; OTR: 2,2034
+TOTAL,2960,2528,432,PAT: 140; NIC: 170; ROL: 76; MET: 3,CNY: 40; SET: 30; REG: 18; OTR: 21,63786

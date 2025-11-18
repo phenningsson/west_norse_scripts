@@ -151,7 +151,7 @@ def extract_entities(original_text):
 
     return entities
 
-# Read the original text from the file
+# Read the original text from the xml file
 with open('islendingabok.xml.txt', 'r', encoding='utf-8') as file:
     original_text = file.read()
 

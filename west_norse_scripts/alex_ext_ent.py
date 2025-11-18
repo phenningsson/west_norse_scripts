@@ -63,7 +63,7 @@ def extract_entities(xml_text):
     return entities
 
 def main():
-    # Read the original text from the file
+    # Read original text from xml file
     input_file = 'drauma_jons.xml.txt'
     output_file = 'drauma_jons_entities.json'
 
