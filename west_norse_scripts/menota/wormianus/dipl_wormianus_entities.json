@@ -1,0 +1,6710 @@
+[
+  {
+    "dipl_text": "guð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aꝺam",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "euo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noe",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "cham",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iapheth",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sém",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "cham",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſemſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "zoꝛoaſtres",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "babilon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "zoroaſtres",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bꜳl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aꝼꝼrika",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "europa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "enea",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "aſía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "troía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "tẏrklanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "priamum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "uoꝺen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "priamus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaturno",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaturnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grikklanꝺz haꝼi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "krit",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "zoꝛoaſtre",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaturnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grikklanꝺz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "krít",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Juna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arguluſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "neptunus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "plutus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "krítt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "neptuno",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "pluto",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſerberum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſerberum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "erkulum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaturnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "venerem",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "venus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaturnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "krít",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "italia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſaturnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nioꝛð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺarꝺanus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heríkon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lameꝺon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "priamí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Priamus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "roma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "pompeius",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "priamum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troio",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "munon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mennon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "priamí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tracía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loꝛicus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loꝛícus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loꝛa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gloꝛa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tracía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þꝛuðheím",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſibil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſiꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſiꝼíar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loꝛiꝺe",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "henreꝺe",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vingeþorꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vingener",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "moꝺa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ceſpheth",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beꝺvíg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "athra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "annan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ítrmann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heremoð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkallꝺunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkiǫllꝺ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biaꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bíar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iat",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðolꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriallaꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriðleiꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "voꝺen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigiða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏrklanꝺi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Saxlanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veggꝺeg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "auſtr ſaxa lanꝺi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vitrgilſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "picta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heíngeſtz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſiga&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvebꝺeg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvipꝺag",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bellꝺeg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veſt ꝼal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "bꝛanꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrioðigar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼroða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼreovín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏvi&gscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gevíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gave",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ʀerer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼracklanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "uǫlſungar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "reiðgota lanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſkiollꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriðleiꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkiollꝺungar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotlanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "reiðgota lanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſviþioð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gẏlꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigtun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "níoꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troío",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "troío",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "noꝛegr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſæmingr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "halæẏgia talí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏngvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſviþioðu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ẏnglingar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaxlanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "noꝛeg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſviþioð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝺanmoꝛk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſax lanꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "englanꝺi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gẏlꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſviþioð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "geꝼion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotun heímum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "geꝼion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſelunꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "logrinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſviþioð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "legínum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſælunꝺe",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "bꝛagí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geꝼion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gẏlꝼa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺanmarkar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gẏlꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þioðolꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valholl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gẏlꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ganglerí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "háár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iaꝼn háár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ganglerí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "háár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "alꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herran",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herian",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hníkarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nikar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nikuz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hníkuðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼiolner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oſki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Omí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Biꝼliði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biblinꝺi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðꝛir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sviðꝛer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sviðoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ialg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ialkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ganglerí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iaꝼnháár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gimle",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vingolꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heliar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "niꝼlhel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iaꝼnhaar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "niꝼlhæimr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hvergelmer",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svol",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnþra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fioꝛm",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼimbulþul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sliðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hrið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sẏlgr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ẏlgr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Viꝺ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Leiptr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Giǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "helgrinꝺum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þriði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpell",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſurtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Surtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eli vagar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ginnunga gap",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Iaꝼn haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ginnunga gap",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ginnunga gapſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þriði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "niꝼlheimí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "muſpelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ginnunga gap",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aurgelmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðolꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vilmeiði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvarthoꝼða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vaꝼþꝛuðner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aurgelmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eli vagum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ganglerí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "auðumbla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "burí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "boꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beſtla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlþoꝛnſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vili",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ve",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "boꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "b&er;ergelmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bergelmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "boꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ginnunga gap",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Iaꝼnhar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Auſtri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veſtri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðꝛi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noꝛðꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz heimí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hꜳr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "miꝺgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "boꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "embla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miðgarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "aaſgarðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "troía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hliðſkialꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꜳſa þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noꝛvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "narvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotun hæímum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nott",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "naglꝼari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "auðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ana&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ioꝛð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺellingr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺagr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nott",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺag",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nott",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrimꝼaxí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺagr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkínꝼaxí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "munꝺilꝼari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mána",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſol",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glenr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſol",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz heimí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "alſviðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aarvakr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Maaní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiukí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bẏrger",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Viðꝼinnr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mana",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkoll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hatí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iarnviðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iarnviðíur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "managarmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iarnviðiu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼenreſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iða vollr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glaðſ heím",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "víngolꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iotun heímum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ẏmíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Moðſogner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺurin&bar;n",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "blaenſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺurinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nẏi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "niðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noꝛðꝛi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuðꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "auſtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veſtri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alþioꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺvalinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "naar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nainn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nipingr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺainn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biꝼu&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bavu&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bombu&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noꝛi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ori",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ona&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ai",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "míǫð vítner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vigr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ok",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ganꝺalꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vinꝺalꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fili",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kilí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼunꝺinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þroꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þroenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þekkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "litr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vitr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nẏraðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rekkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "raðſvíðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Draupner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺolgþvarí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hau&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugſtarí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hleðiolꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gloinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺoꝛi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺuꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "anꝺvarí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heꝼtiꝼilí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haa&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvia&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvarenſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oꝛvanga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iǫru uollu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loꝼaʀ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skirver",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "virver",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaꝼiðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ingí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eikinſkiallꝺí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼalr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼroſti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼiðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ginna&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iaꝼn haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ginnunga gap",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "níꝼlheímí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hvergelmer",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "niðhoggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valꝼoðꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "urðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biꝼrǫſt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "aaſbꝛu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sleipner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glaðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gẏller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glenr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skeiðbꝛimer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Silꝼríntoppr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſinír",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Giſl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼalhoꝼner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gulltoppr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lettꝼetí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "koꝛmt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ǫꝛmt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "kerlaugar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſbꝛu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biꝼrꜹſt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biꝼroſt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Urðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "verꝺanꝺi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkullꝺ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺvalenſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veðꝛ ꝼolner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ratatoſkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "níðh&ocurl;ggſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dainn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺvalínn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺun æẏrrr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺẏra þroꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hvergelmí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "niðhǫgg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "niðhoggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Goenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "moen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "graꝼvitníſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grabakr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grapvolluðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oꝼner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvaꝼner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "urðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "urðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "urðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "urðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼheimr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "breiða blik",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "glitner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "himinbioꝛg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vala ſkialꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gímle",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "anꝺlangr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "viðblaenn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hræſvelgꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hræſvelgr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suaſoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vinꝺlion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vinꝺſvalr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vaſaðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iaꝼnhar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þꝛiði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriɢ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valholl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vingolꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hanga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hapta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼarma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geirroðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grimr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ganglari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herian",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hialmberi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þekkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þuðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "uðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helblinꝺi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſaꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvípall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſanngetall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herteitr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hnikaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bilæẏgr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "balæẏgr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bolverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼiolner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grimner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glapſviꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼiolſviðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſiꝺhǫttr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſiðſkeggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hníkuðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "atriðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼarmatẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oſki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Omí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iaꝼnhár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biblinꝺi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gǫnꝺler",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "harbarðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſviðu&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſviðꝛer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ialkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kiala&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðu&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þroꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þunꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vakr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skilungꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vaꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hropta tẏʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "veratẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bilſkirní",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tann gnioſtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tanngriſnir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "breiða blik",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "breiða blik",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "níoꝛꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa tun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vana heimí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hæner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiaza",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrẏmheímr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrẏmheimí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "noa tunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "níoꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa tuna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſkaðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þꝛẏmheímí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "onꝺur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ǫnꝺur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrẏm heímr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þiaza",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa tunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼreẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼreẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼreẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼolkvangr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Folkvangr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼræẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſeſrumner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼenriſ ulꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ragna rokkrſ",
+    "label": "EVN"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Heímꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hvítíaaſſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hallinſkiðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gullintanní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gulltoppr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "himinbi&ocurl;ꝛg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "biꝼrǫſt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "himinbioꝛg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heimꝺall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimꝺallar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Viðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rinꝺar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ullr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſivíar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Foꝛſeti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nǫnnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "glitner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Glitner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼoꝛſetí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loptr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼarbauta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lauꝼæẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "naal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bẏleiſtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helblínꝺí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſẏgín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "narí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "narví",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Angrboða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotun heimum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼenriſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ioꝛmunganꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miðgarzoꝛmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "i&ocurl;tunheimum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "níꝼlheim",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eliuðner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ganglati",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ganglǫt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "amſvartner",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "lẏngví",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "giǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "von",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Frigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼenſaler",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſága",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſokkua bekk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "æír",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geꝼion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼulla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriggiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Freẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriɢ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hnoſſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "marꝺǫll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hǫꝛn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geꝼn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Freẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vana",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſioꝼn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Loꝼn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "var",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vǫr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sýn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hlín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrígg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſnotra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriɢ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hoꝼvarpner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hoꝼvarpní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hamſkerper",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "garðroꝼu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſol",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hriſt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miſt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkeggiollꝺ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkǫgul",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hillꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þruðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hlokk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herꝼiǫtur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gꜹll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geira hǫð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ranngrið",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Raðgrið",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "regínleíꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rota",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkullꝺ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ioꝛð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rinꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vꜳla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aurboða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gerðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hliðſkialꝼ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "níoꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baʀ æẏ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼræẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkirner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏrr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bela",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſerimner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anꝺhrimner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anꝺhrimner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſerimní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrekí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gera",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼreka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hæria ꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "huginn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "munínn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "huginn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muninn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "munin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhallar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heiðꝛun",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æikþẏrní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hvergelmí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "við",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſekínækin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſvǫl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gunnþro",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼioꝛin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼimbul þul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gipul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gopul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "g&ocurl;mul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "geirrumul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þẏn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vín",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Holl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "grað",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gunnþoꝛín",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nẏt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "naut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nꜹnn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hronn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vína",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "veg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſvínn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þioðnuma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valholl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhollu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſleipner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bꝛagi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "habrok",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "garmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſleipní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſleipní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "val holl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "miðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼræẏíu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvaðilꝼari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏíu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iǫtun heima",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lauꝼæẏiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvaðilꝼara",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotunheímum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "niꝼlhel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſvaðilꝼara",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iaꝼn har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rǫſkva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rǫſku",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "roſkva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialví",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "utgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ut garða loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkrẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "logi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "logí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "logi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ellí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "logi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialꝼi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þialva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "elli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þꝛuðvanga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarðaloki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꜳſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "himin hriotr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "utgarða lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ɢangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "haar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lauꝼæẏiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼenſalar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼriggiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺrí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺrí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "balldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼri&gscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heliu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðínſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſleipner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðínſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iotun heíma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hẏrrokkín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hẏrrokin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "litr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼri&gscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gullinburſtí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſliðꝛugtanní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heímꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gulltoppr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺrſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hermoðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "giallar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "giallar bruna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "moðguðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "giallar bꝛu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heliu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helíu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼullu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þǫkk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þǫkk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lauꝼæẏíar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hꜳr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼranangrſ ꝼoꝛſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hliðſkialꝼinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "kuaser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "narꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vala",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "narꝼa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigẏn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "har",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrẏmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Surtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biꝼrǫſt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vigriðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "lok",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrẏmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vigriðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heimꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mimiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurtí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkírní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "garmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gnípa hellí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "tẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viða&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimꝺall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hæímꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iǫtunheímr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrẏmr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ioꝛmunganꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "muſpellz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bẏleiſtz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Surtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hlínar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "belia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurtí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriggíar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðarꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hveðꝛungſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hloðẏníar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "miðgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "vigriðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſurtr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þriðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bꝛímer",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "okolní",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "níða ꝼiǫllum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſinꝺꝛí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "naſtronꝺum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "na ſtrǫnꝺu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hvergelmi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "niðhǫggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Háár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iða vellí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "aaſgarðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þóꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "moði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viða&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "moði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "víngniſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hoꝺꝺmímíſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſurta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "liꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "leíꝼþraser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Liꝼ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "leiꝼþraser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hoꝺꝺmímíſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "alꝼrǫðull",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼenrer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangleri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troío",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ulixes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hler",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hleſæẏ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ááſgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nioꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ullr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hæner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "forsetí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Frígg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼræẏia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geꝼion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iþunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gerðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigẏn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼulla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ęgí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ægi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oðínn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hæner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þiaz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrẏmheim",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "íðunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarðí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "íǫtun hæíma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꝼræẏía",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "íotunheíma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þiaza",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lokí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiaz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "iðunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þiazí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgrinꝺer",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiaza",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ballꝺri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "níoꝛðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "noa tunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "loki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkaða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þíaza",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiazi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫlvallꝺí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiazí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Iðí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gangr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bragi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kvaser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼialarſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "galarſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kuaser",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gillingr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gillingí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gillíngr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼiala&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Galar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gíllíngſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttung",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hnítbiǫꝛg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gunnloðu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kvaſiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttunga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hnítbiarga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bauga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttunga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bolverki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bauga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttungr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bolverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bauga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bǫlverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baugí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bolverkr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunnloð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þiazi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aaſgarða",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſuttungr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſuttunga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðenn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Æger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tẏ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troiu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Priamuſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troio",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "bꝛimíſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "bioꝛſal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "priamus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troio",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꜹkuþoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "volocronte",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "akille",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þoꝛr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "akillaſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Akilles",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "akillíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "roꝺuus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꜹku þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏmí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ǫku þo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "akilleſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ektoꝛe",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alexanꝺer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alexanꝺer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ala",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aſgarðꝛ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "pirrus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "pirruſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "moði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aku þoꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ala",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eneaſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "troío",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ektoꝛiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼrigia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝼǫðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Havarðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hanga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "víga glumr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hanga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "reꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ballꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvinꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigurð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼarma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ogloe",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Glumr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beíma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigtẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "atalſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvinꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gonꝺul",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſkogul",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gauta tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏngva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valholl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ulꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hropta tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þioðolꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼriggiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hallꝼroðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þꝛíðia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvindr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hermoðꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hropta tẏr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "koꝛmakr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏggr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rinꝺar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſteinþo&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunnlaðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ulꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viliſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mimſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mimíſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ʀeꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valgautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝼalſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hertẏſſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ulꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimꝺallr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðínn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valhǫll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "koꝛmakr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ẏngva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hroptr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gungní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛalꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hliðſkialꝼar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "harekſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvínꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſurtz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "allꝺa ꝼǫðꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æína&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "beſtlu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛvarallꝺꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "boꝛſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suttunga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hnítbiarga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "oðínſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æína&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kvaſiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ullar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ormr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꝺvalínſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "reꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛſteíní",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "engla",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Glumr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvínꝺr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "harſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gillingſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æina&rscapdot;",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rǫgniſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏliꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "volu ſteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mímſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þunꝺar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ormr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "viðurſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ulꝼr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oleiꝼí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grímníſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kvaſiſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æẏvinꝺr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoꝛ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oðinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "moða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þruðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "siꝼiar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ullar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bilſkirniſ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ꜳſgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "miðgarðz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hrungníſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geirraðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrívallꝺa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þíalva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rǫſku",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vingníſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hloꝛu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragi",
+    "label": "PER"
+  }
+]
