@@ -1,0 +1,638 @@
+[
+  {
+    "dipl_text": "Danmörku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hallvarður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hávarður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnfinnur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Karlamagnúsi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gormur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Myrkviður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Knút",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gorms",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knúti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knútur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hörða-Knút",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hörða-Knúts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hollsetulandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Klakk-Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þyri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gorms",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hollsetulands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Danmörk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Danmerkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Klakk-Haraldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harald",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Limafirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Limafjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Saxland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gorm",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klakk-Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gorm",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knúts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Limafjörð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eystra-Salti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Haukur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þyri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noregi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnhildur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gormsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldur Gormsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gull-Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gormssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldi Gormssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gull-Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gull-Harald",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnhildarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnhildar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gull-Haraldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Harald",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnhildi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gormssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákoni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noreg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnhildarmýrr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ótta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óttu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saxlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Noregur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ægisdyra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Slésdura",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Slésdyr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Óli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Írlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Óla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákoni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Tryggvason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafs Tryggvasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Poppa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gautland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gautlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óttar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gautlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Líðandisness",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Líðandisnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sogni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Læradal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þrændir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Byrgir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfur Valgerðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tóki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjóni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórvör",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálnir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjölnir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tóka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjölni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjölnis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tókason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áki Tókason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áka Tókason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óttars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sjóland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjón",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjargar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tókasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálni Tókasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörgu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálnatóki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bretlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stefnir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólöf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefnis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálnatóka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálnatóki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólöfu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Atli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Æsa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saumæsa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Atla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saumæsuson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Æsu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svein Haraldsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn Haraldsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saumæsu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bretlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stefni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Borgundarhólm",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnoddur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skotlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Írlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vindlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Brúisláfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Búrisláfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jómi",
+    "label": "PER"
+  }
+]
