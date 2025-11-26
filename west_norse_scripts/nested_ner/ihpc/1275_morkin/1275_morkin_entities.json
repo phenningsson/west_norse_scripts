@@ -1,0 +1,1255 @@
+[
+  {
+    "dipl_text": "Halldór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralds konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ingibjörg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörgu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláfs konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Óláf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláf konung",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Nóregi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halldóri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorrasyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Halldóri Snorrasyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorvarður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niðarós",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eysteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorbergs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árnasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorbergs Árnasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Haraldur konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þorvarðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eystein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norðmæri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Giska",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sólskel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eysteini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorvarð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þér",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Danmerkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lófufirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jótlandshafi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ívar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláfi konungi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sigvatur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigvats",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ívars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ívarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hringunesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fiður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árnason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Fiður Árnason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Danmörk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svein konung",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sveins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveins konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Hákonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harald",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harald konung",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Skjálgur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlingsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Skjálgur Erlingsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þórólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mostrarskegg",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þórólfur Mostrarskegg",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þórólfs Mostrarskegg",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Magnúsi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveini konungi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Steinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdísarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Steinn Herdísarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Úlfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Úlfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldi konungi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Skjálgs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlingssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Skjálgs Erlingssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Arnórr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þóru",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fiður jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Finni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Finni jarli",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Finns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Finns jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ívarsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hákon Ívarsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Haraldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórólfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mostrarskeggja",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þórólfs Mostrarskeggja",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Magnúss",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vincencius",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hákoni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnhildr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnúss konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Guðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnhildur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnhildi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ásmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarnarsonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ásmundar Bjarnarsonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hallands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hallandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ásmund",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðinason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sveinn Guðinason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Björn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Englandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Úlfsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ásmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Slésmynni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ásmundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nóreg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Nóregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Steinkels Svíakonungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Steinkels",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gautland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hákon jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gautlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Steinkels konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Steinkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinkell konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Hákoni jarli",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Elfi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hákonar jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þorfiður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorfinni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinkeli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinkeli konungi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ragnhildar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svíþjóðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Koðránsbani",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ótryggssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Halls Ótryggssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Koðrán",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Koðrán Guðmundarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þormóður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einriðason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þormóður Einriðason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Koðráns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Guðmundar Eyjólfssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þormóð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þormóði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Elfi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sunnefa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Úlfssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Eiríkur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sneglu-Halli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Agðanes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geirröð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurð Fáfnisbana",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Fáfni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Túta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Emmu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðólfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tútu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðólfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolluvísur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðólfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Englands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorgils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óláfsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tryggvi Óláfsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tryggvasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Álfífuson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tryggva",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggva konungi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Tryggvi konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísleifsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gissur Ísleifsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Stúfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stúfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Glúmssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þórðar Glúmssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Geirasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Guðrúnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ósvífrsdóttur",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Guðrúnar Ósvífrsdóttur",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Sigurðarsonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Stúf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stúfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ófeigs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skíðasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ófeigs Skíðasonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Finnmörk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Oddur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóttu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mjölu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Odds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Odd",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorsteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þóris",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorsteini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hárekur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorsteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Miðfjörð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorstein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Játvarður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Játvarður konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Goðinason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Haraldur Goðinason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harald Goðinason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gyðu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Úlfs jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Pálskirkju",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lundúnum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Goðinadóttur",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Gyðu Goðinadóttur",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Aðalsteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tósti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Goðina",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tósti jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Danmarkar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "England",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Knútur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Knútur konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Danaveldi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Knúts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hörða-Knútur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hörða-Knúts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Játvarðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Játvarðs konungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gothorm",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnhildarson",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Gothorm Gunnhildarson",
+    "label": "PER",
+    "subtype": "MAT"
+  },
+  {
+    "dipl_text": "Norðimbraland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guthormur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vallands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Úlfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Styrkár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steig",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlendur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlendur jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þorfinns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlendi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorfinns jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Máríu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kliflönd",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skarðaborgar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Humru",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Úsu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mörukári",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valþjófur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hundatúni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Goðina jarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Mörukári jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Valþjófur jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Jork",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stanfurðubryggju",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurðarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Óláfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tósta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tósta jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Friðrekur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Styrkárr",
+    "label": "PER"
+  }
+]

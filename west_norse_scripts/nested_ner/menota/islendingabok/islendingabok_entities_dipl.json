@@ -1,0 +1,3205 @@
+[
+  {
+    "dipl_text": "ara preſts",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "ara froda",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorlaki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "katli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sęmundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sęmundi presti",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Halfdan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halfdan upplendinga conungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Halfdan Hvitbeiɴ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs Svia conungſ",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafs Tretelgio",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "aiſteinſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aiſteinſ fretz",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Halfdanar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halfdanar ens millda",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Goþroþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Goþroþar veiþiconungſ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "halfdanar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "halfdanar enſ ꜱvarta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Harallz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harallz enſ Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Jſleifi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jſleifi byſcopi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gizori",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizori byſcopi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Harallz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harallz enſ Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Teitz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jſleifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jſleifs byſcops",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorkelſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoriþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoriþar Snorra dottor",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Jvar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jvar ʀagnarſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eadmund",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eadmund Engla conung",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "eadmund eɴ Helga",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Jngolfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralldur eɴ Harfagri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Haralldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafr eɴ Digri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrollaugr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ʀꜹgvallz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ʀꜹgvallz iarls",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ketilbiorɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketilbiorɴ Ketilſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ǫþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketils flatnefs",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi enn magri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eyvindar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyvindar ꜹſtmaɴz",
+    "label": "PER",
+    "subtype": "EPITHET"
+  },
+  {
+    "dipl_text": "Vlfliotr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guɴars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorleifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorleifs ens Spaca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlfliotr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grimr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grimr Geitſcor",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlfliötz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorſteiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorſteiɴ Ingolfſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorkels",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkels Logſogo manns",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorkels mana",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorer Croppinſkeggi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorvalldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorvalldr Croppinſkeggi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Guɴar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur Orækia ſonr",
+    "label": "PER",
+    "subtype": "METRONYM"
+  },
+  {
+    "dipl_text": "Kolur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfheþiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hramɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hramɴ Logſogo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlflioti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eadmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eadmundar conungſ",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Haralldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralldr en Harfagri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þorareɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorareɴ ʀagabroþer",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Ǫleifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫleifs Hialta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hramni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorſteiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorſteiɴ Surtr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hallstęins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallstęins þorolpſſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Oſcar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oſcar þorsteins dottor",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Øſyfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Øſyfr Helgaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gellis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gellis þorkels ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Oſyfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkels",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkels mana",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þorþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorþar Gellis",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olęifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olęifs feilaɴſ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Odz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tungu Oddr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tungu Oddr Tungu Oddr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorvalldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkels",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkels bluɴketils ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hæſna þori",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþr Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Herstęinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herstęinn Þorkelſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorvnni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jofriþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorstęinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorolfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorolfur refur",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Ǫlfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ǫlfs i Dolom",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþar Gellis",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Oddz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hæſna þorir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hæſna þorir Hæſna þorir",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþr Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Vlfheþin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlfheþin Guɴars ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkell mane",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorarinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorarinn ʀaga broþor",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeir at Lioſavatɴi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eirikr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eirikr eɴ ʀauþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorkeli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkeli Gelliſſyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Eirike",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eirike enom ʀauþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olafur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafur rex",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olafur Tryɢvaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þangbrandur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur a Siþu",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hiallti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hiallti Sceggiasonur",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor eɴ Hviti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olafi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hiallti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þormoþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hiallta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "fraja",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hiallti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hiallti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hall a Siþo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorgeiri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeiri Logſogo maɴi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorgeiʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavur Tryɢva ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sęmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sęmundar preſtz",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Svein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svein Dana conung",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Svein Harallz ſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Olav",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olav en Sønſca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eiric",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eadmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Criſtz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "friþrecur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Biarnharþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Biarnharþur en böcvïſi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Colr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hroþolvr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jꜹhan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jꜹhan eɴ irſki",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Biarnharþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Heinrecur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ornolfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Goþiſcolcr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Petrus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "abraham",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stephanus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grimur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grimur at moſfelli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Scapti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Scapti þoroddz ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Scapti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavur en Digre",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olavr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steiɴ þorgeſter ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkell Tiorva ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geller Bolvercſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Jſleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jſleifur Gizorar ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harallz Norvegs conungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Harallz Sigurþar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "jſleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Collur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "joan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jſleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Teitur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitur preſtr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Halls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorvalldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teit",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur i Haukadali",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hallꜱ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geller þorkels ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Guɴar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guɴar en Spaci",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Colbeiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Colbeiɴ floſaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Haralldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haralldur rex",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guɴar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sighvatur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sighvatur Surts ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Colbeins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sęmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sęmundur Sigfuſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Jſleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Leo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teitur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Petars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pǫls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Teiti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þangbranþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "martens",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "martens byſcops",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Jſleıfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Jſleifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavs conungs",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Olavs Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "jſleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Giſroþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marcus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marcus Sceɢia ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sighvati",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorarinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sceggi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Biarni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Biarni eɴ Spaki",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þoraren",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þoraren Logſogo maɴ",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sęmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "marcuꜱ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "marcuꜱ Logſogo maɴz",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Vlvheþiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vlvheþiɴ Guɴarſſonr ens spaca",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Marcus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bergþorr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bergþorr Hrafɴſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Goþmundr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Goþmundr þorgeirſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Bergþor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Havliþa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Havliþa moſſ ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Bergþors",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bergþor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorlac",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorlac ʀunolfſſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Halls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halls i Haukadali",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gregorius",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joan Ǫgmundarſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorlacur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorlacur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byscop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Paſchalis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Paſchalis pape",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gizor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizor byſcop",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Baldvine",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Baldvine jorſalaconungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "arnaldus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnaldus patriarcha",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Philippus Svia conungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "eyſteiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magnus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafs Tryɢvaſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eadmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eadmundar engla conungſ",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Gregorius",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gregorius pava",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Foco",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Foco kęiſara",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Criſtz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketilbiorn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ketilbiorn landnams maþr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Teitz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizorar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizorar eɴſ Hvita",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Jſleifs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizorar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizorar byscops",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Hrollaugur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrollaugur Laɴdnams maþr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ozorar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þordiſar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halls a Siþo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Egils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgerþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joaɴſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oþr laɴdnams cona",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "þorsteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorsteins eɴſ ʀauþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Oleivs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oleivs fęilans",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþar Gelles",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorhilldar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorhilldar ʀiupu",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorþar Heſthofþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Carlſevnes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallfriþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorlacs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gizori",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi Laɴdnama maþr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Helgi eɴ magri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Helgo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einarſſ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyiolfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyiolfs Valgerþar sonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Goþmuɴdar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyiolvs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorsteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ketils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joaɴi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yngui",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yngui Tyrkia conungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Niǫrþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niǫrþr Sviaconungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Frayr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fiolner",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "frid fröþa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svegþer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vanlandi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Uiſbuʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Domaldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Domaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dyɢue",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dagur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alrecr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "agne",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yngvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joruɴdr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aun",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aun en gamli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill vendilcraca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Ǫttar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aþiſll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aþiſll at vppſolom",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eyſteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yngvaʀ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brꜹt ǫnundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jngialldr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jngialldr en illraþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Olavur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olavur Tretelgia",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Halfdan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halfdan vpplendinga conungr",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Halfdan Hvitbeiɴ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Goþroþr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olafur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jngialldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurþar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurþar ʀagnars ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Oleivur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oleivur eɴ Hviti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorsteiɴ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorsteiɴ enn ʀauþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Oleifur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oleifur Feilan",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þorþur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorþur Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eyiolfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þor&kclose;ell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkelz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Braɴz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "are",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "froda",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hvitbeiɴ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tretelgio",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "fretz",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ens millda",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "veiþiconungſ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "enſ ꜱvarta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "enſ Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "enſ Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Halfdanar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "enſ Svarta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gelliſ ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Snorra dottor",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ʀagnarſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Loþbrokar",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴ Helga",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴ Harfagri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴ Digri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gelliſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ketilſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "flatnefs",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "enn magri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ꜹſtmaɴz",
+    "label": "PER",
+    "subtype": "EPITHET"
+  },
+  {
+    "dipl_text": "ens Spaca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Horþa caraſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Geitſcor",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Ingolfſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "mana",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Croppinſkeggi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Croppinſkeggi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Orækia ſonr",
+    "label": "PER",
+    "subtype": "METRONYM"
+  },
+  {
+    "dipl_text": "Logſogo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hængs ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en Harfagri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ʀagabroþer",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hialta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Surtr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorolpſſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "morſtrarſceggia",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorsteins dottor",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "enſ rauþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Helgaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorkels ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "mana",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gellis",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "feilaɴſ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tungu Oddr",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "bluɴketils ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Þorkelſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Bluɴ ketilſſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Helgo dotter",
+    "label": "PER",
+    "subtype": "METRONYM"
+  },
+  {
+    "dipl_text": "Guɴarſſ",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Egilsſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "refur",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "i Dolom",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gellis",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hæſna þorir",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Guɴars ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "mane",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorſteinſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "jngolfs ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ʀaga broþor",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "at Lioſavatɴi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorkelſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴ ʀauþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gelliſſyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "enom ʀauþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tryɢvaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Olafs ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴſ Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "a Siþu",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorsteins ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sceggiasonur",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴ Hviti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Teitzſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Ketilbiarnarſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "fra moſfelli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "a Siþo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tryɢva ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz ſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en Sønſca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Eiricſ ſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hǫconarſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en böcvïſi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴ irſki",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "at moſfelli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Svertings ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þoroddz ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en Digre",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Haʀallz ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Goþroþar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Biarnar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ens Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tryɢvaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorgeſter ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tiorva ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Bolvercſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gizorar ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ens Hvïta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Sigurþar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Halfdanar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sigurþar ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hriſa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ens Harfagra",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "i Haukadali",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "þorkels ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en Spaci",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "floſaſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Surts ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sigfuſ ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tryɢvaſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sceɢia ſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴ Spaki",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Guɴarſſonr ens spaca",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Hrafɴſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorgeirſſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "moſſ ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "ʀunolfſſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "þorleikſſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "i Haukadali",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Ǫgmundarſonr",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Olafsſon",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Harallz ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Tryɢvaſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "eɴſ Hvita",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "a Siþo",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴſ ʀauþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "fęilans",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Gelles",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ʀiupu",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Heſthofþa",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "eɴ magri",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Valgerþar sonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "en gamli",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "vendilcraca",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "at vppſolom",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "en illraþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Tretelgia",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Hvitbeiɴ",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ʀagnars ſonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Loþbröcar",
+    "label": "PER",
+    "subtype": "EPITHET"
+  },
+  {
+    "dipl_text": "eɴ Hviti",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "enn ʀauþi",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Feilan",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Geller",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſlandz",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "ʀajkiar vic",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Norvege",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Norvegſ",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſlaɴz",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Møri",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Siþv",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Moſfelli eno ǫfra",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Löni",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Blaſcogom",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Auſtfiorþo",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "ʀangarhverfi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Dolom",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Norþlendinga fiorþungi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Grænland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Iſlande",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Grænland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Vinland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Grænlandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Noreg",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Siþu",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "moſfelli",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Veſtmaɴa eyiar",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Siþo",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Danmorco",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Vpſolum",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſlandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "moſfelli",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "vic",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Holom",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Haukadali",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Englandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "fraclandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Scalahollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Haukadali",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Gautlandi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Jſlande",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jſlandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Scalahollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "auſtfirþingafiorþungi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "ʀangęinga fiorþungi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Bręiþfirþinga fiorþungi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "ayfirþingafiorþungi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "jſand",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Haukadali",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Danmorco",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Hölom",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Scalahollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Scala hollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Hierusalem",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "miclagarþi",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Norvegi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "England",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "moſfelli eno øvra",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Scalahollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Siþu",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Breiþabolſtaþ",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Siþo",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Holom",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Breiþafirþi",
+    "label": "LOC",
+    "subtype": "REG"
+  },
+  {
+    "dipl_text": "Hvammi",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Scalahollti",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Holom",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "vppſolom",
+    "label": "LOC",
+    "subtype": "SET"
+  },
+  {
+    "dipl_text": "Jslandi",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "jſland",
+    "label": "LOC",
+    "subtype": "CNY"
+  },
+  {
+    "dipl_text": "Jngolfſ hofþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "ingolfs fell",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Bręiþa firþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Eyiafirþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "eyiafirþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Kialarneſi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Cols gea",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "bręiþafirþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Ǫrɴolfsdali",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Borgarfirþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Þingnes",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Eyiafiorþ",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Scagafiorþ",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Lioſavatɴi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Eiriks fiórþur",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "þiorsardali",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Laugardali",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Vellankatla",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Eyiafirþi",
+    "label": "LOC",
+    "subtype": "OTR"
+  },
+  {
+    "dipl_text": "Criſtneſi",
+    "label": "LOC",
+    "subtype": "OTR"
+  }
+]
