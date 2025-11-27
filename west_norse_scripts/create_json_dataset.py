@@ -1,6 +1,6 @@
 import json
 
-def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_file, output_file, doc_id, work_name):
+def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_file, output_file, id, name):
     """
     Creates a NER dataset in JSON format.
     Args:
@@ -8,8 +8,8 @@ def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_fi
         entity_positions_file: Path to JSON file with entity positions
         word_boundaries_file: Path to JSON file with word boundaries
         output_file: Path to save the JSON file
-        doc_id: Integer ID for the document
-        work_name: Name of the work/manuscript
+        id: Integer ID for the document
+        name: Name of the work/manuscript
     """
     # Load clean text and replace newlines with spaces
     with open(text_file, 'r', encoding='utf-8') as f:
@@ -54,8 +54,8 @@ def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_fi
         "entity_end_chars": entity_end_chars,
         "word_start_chars": word_start_chars,
         "word_end_chars": word_end_chars,
-        "id": doc_id,
-        "work": work_name
+        "id": id,
+        "work": name
     }
 
     # Write to JSON file
@@ -68,14 +68,14 @@ def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_fi
 
 def main():
     # File paths
-    text_file = 'flat_ner/menota/wormianus/wormianus_final_text.txt'
-    entity_positions_file = 'flat_ner/menota/wormianus/dipl_wormianus_entities_flat_positions.json'
-    word_boundaries_file = 'flat_ner/menota/wormianus/wormianus_word_positions.json'
-    output_file = 'flat_ner/menota/wormianus/wormianus_flat_ner_dataset.json'
+    text_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_final_text.txt'
+    entity_positions_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_positions.json'
+    word_boundaries_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_word_positions.json'
+    output_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_ner_dataset.json'
 
     # Document metadata
-    doc_id = 8
-    work_name = "Codex Wormianus: AM 242 fol"
+    id = 11
+    name = "1250 Sturlunga"
 
     # Create and save the dataset
     data = create_ner_json_dataset(
@@ -83,8 +83,8 @@ def main():
         entity_positions_file, 
         word_boundaries_file, 
         output_file,
-        doc_id,
-        work_name
+        id,
+        name
     )
 
     # Print summary

@@ -73,10 +73,10 @@ def create_ner_dataset(clean_text, entity_positions, word_boundaries_file, outpu
 
 def main():
     # File paths
-    text_file = 'wormianus/wormianus_normalised.txt'
-    entity_positions_file = 'wormianus/wormianus_entities_with_positions.json'
-    word_boundaries_file = 'wormianus/wormianus_word_positions.json'
-    output_file = 'wormianus_ner_dataset.parquet'
+    text_file = 'flat_ner/menota/wormianus/wormianus_final_text.txt'
+    entity_positions_file = 'flat_ner/menota/wormianus/dipl_wormianus_entities_flat_positions.json'
+    word_boundaries_file = 'flat_ner/menota/wormianus/wormianus_word_positions.json'
+    output_file = 'flat_ner/menota/wormianus/wormianus_flat_ner_dataset.parquet'
 
     print(f"Loading text from {text_file}...")
     with open(text_file, 'r', encoding='utf-8') as file:

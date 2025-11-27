@@ -8,8 +8,8 @@ import json
 # ============================================
 # SET YOUR FILE NAMES HERE
 # ============================================
-INPUT_FILE = "ihpc/1275_morkin/1275_morkin_entities_flat.json"
-OUTPUT_FILE = "ihpc/1275_morkin/1275_morkin_entities_flat_clean.json"
+INPUT_FILE = "menota/olafs_saga_helga/dipl_olaf_entities_flat.json"
+OUTPUT_FILE = "menota/olafs_saga_helga/dipl_olaf_entities_flattened.json"
 # ============================================
 
 def remove_subtype(input_file, output_file):

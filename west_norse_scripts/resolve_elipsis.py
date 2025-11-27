@@ -3,12 +3,12 @@ import os
 
 def resolve_hyphens(text):
     """
-    Resolve hyphens marked with - in Old Icelandic text
+    Resolve hyphens marked with · in Old Icelandic text
     Combines hyphenated words and properly formats line breaks
     """
     # Replace hyphen with combined word followed by line break
     # This pattern now captures and removes any trailing space after the second word part
-    resolved_text = re.sub(r'([^\s-]+)-\s*([^\s-]+)\s*', r'\1\2\n', text)
+    resolved_text = re.sub(r'([^\s·]+)·\s*([^\s·]+)\s*', r'\1\2\n', text)
     
     # Clean up any lines that start with whitespace
     # This handles edge cases and ensures no leading spaces
@@ -38,7 +38,7 @@ def process_file(input_file_path, output_file_path):
         return
 
     # Count hyphens before processing
-    hyphen_count = input_text.count('-')
+    hyphen_count = input_text.count('·')
     print(f"  Hyphens found: {hyphen_count}")
 
     # Process the text
@@ -76,8 +76,8 @@ def process_file(input_file_path, output_file_path):
 
 if __name__ == "__main__":
     # Update these paths to your files
-    input_file_path = 'menota/laknisbok/laknisbook_final.txt'  
-    output_file_path = 'menota/laknisbok/laknisbook_final_text.txt'
+    input_file_path = 'menota/olafs_saga_helga/olafs_saga_helga_clean.txt'  
+    output_file_path = 'menota/olafs_saga_helga/olafs_saga_helga_final.txt'
     
     print("="*70)
     print("HYPHEN RESOLUTION SCRIPT")

@@ -101,9 +101,9 @@ def find_entity_positions(clean_text, entities, output_file):
 
 def main():
     # File paths
-    clean_text_file = 'wormianus/wormianus_normalised.txt'
-    entities_file = 'wormianus/dipl_wormianus_entities.json'
-    output_file = 'wormianus_entities_with_positions.json'
+    clean_text_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_final_text.txt'
+    entities_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat.json'
+    output_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")

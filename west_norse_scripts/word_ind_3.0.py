@@ -60,8 +60,8 @@ def get_word_positions(clean_text, output_file):
 
 def main():
     # File paths
-    clean_text_file = 'wormianus/wormianus_normalised.txt'
-    output_file = 'wormianus_word_positions.json'
+    clean_text_file = 'flat_ner/menota/wormianus/wormianus_final_text.txt'
+    output_file = 'flat_ner/menota/wormianus/wormianus_word_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")
@@ -69,7 +69,7 @@ def main():
         clean_text = file.read()
 
     # Print some info about the clean text
-    print("\n=== CLEAN TEXT INFO ===")
+    print("\n=== CLEAN TEXT INFO ===")  
     print(f"Total length: {len(clean_text)} characters")
     debug_print(clean_text[:200])
 
