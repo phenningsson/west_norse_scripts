@@ -41007,7 +41007,7 @@
       "PER",
       "LOC",
       "PER",
-      "Vatnsskarð",
+      "LOC",
       "PER",
       "PER",
       "PER",
@@ -41015,8 +41015,8 @@
       "LOC",
       "LOC",
       "PER",
-      "Flugumýri",
       "LOC",
+      "LOC",
       "PER",
       "PER",
       "PER",
@@ -41026,7 +41026,7 @@
       "PER",
       "LOC",
       "PER",
-      "Flugumýri",
+      "LOC",
       "PER",
       "PER",
       "PER",
@@ -41104,8 +41104,8 @@
       "LOC",
       "LOC",
       "LOC",
-      "Flugumýri",
       "LOC",
+      "LOC",
       "PER",
       "PER",
       "LOC",
@@ -41778,8 +41778,8 @@
       "PER",
       "LOC",
       "PER",
-      "Flugumýri",
-      "Flugumýri",
+      "LOC",
+      "LOC",
       "PER",
       "PER",
       "PER",
@@ -177302,6 +177302,6 @@
       113125
     ],
     "id": 14,
-    "work": "1275 Jomsvikingar"
+    "work": "1275 Morkin"
   }
 ]

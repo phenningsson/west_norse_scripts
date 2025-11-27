@@ -13955,7 +13955,7 @@
     "text": "Vatnsskarð",
     "start": 35355,
     "end": 35364,
-    "label": "Vatnsskarð",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
@@ -13979,7 +13979,7 @@
     "text": "Flugumýri",
     "start": 35876,
     "end": 35884,
-    "label": "Flugumýri",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
@@ -13987,7 +13987,7 @@
     "text": "Flugumýri",
     "start": 36886,
     "end": 36894,
-    "label": "Flugumýri",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
@@ -13995,7 +13995,7 @@
     "text": "Flugumýri",
     "start": 41310,
     "end": 41318,
-    "label": "Flugumýri",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
@@ -14003,7 +14003,7 @@
     "text": "Flugumýri",
     "start": 70842,
     "end": 70850,
-    "label": "Flugumýri",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
@@ -14011,7 +14011,7 @@
     "text": "Flugumýri",
     "start": 70918,
     "end": 70926,
-    "label": "Flugumýri",
+    "label": "LOC",
     "subtype": null,
     "source": "exact_match"
   },
