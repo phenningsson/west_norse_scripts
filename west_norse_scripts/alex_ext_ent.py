@@ -64,8 +64,8 @@ def extract_entities(xml_text):
 
 def main():
     # Read original text from xml file
-    input_file = 'drauma_jons.xml.txt'
-    output_file = 'drauma_jons_entities.json'
+    input_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/AM-519-a-4to_alexanders-saga.xml.txt'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/alexander_saga_entities'
 
     print(f"Extracting entities from {input_file}...")
 

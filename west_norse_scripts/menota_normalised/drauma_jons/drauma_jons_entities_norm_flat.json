@@ -1,0 +1,318 @@
+[
+  {
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ingibjǫrg",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Flándr",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgauts",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgaut",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Valltirr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreks",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgauti",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásgauts",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Valtara",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jóni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heinrek",
+    "label": "PER"
+  }
+]

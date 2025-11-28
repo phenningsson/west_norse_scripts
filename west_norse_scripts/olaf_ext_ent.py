@@ -152,14 +152,14 @@ def extract_entities(original_text):
     return entities
 
 # Read the original text from the xml file
-with open('islendingabok.xml.txt', 'r', encoding='utf-8') as file:
+with open('/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/islendingabok/islendingabok.xml.txt', 'r', encoding='utf-8') as file:
     original_text = file.read()
 
 # Extract entities
 entities = extract_entities(original_text)
 
 # Save the entities to a JSON file
-with open('islendingabok_entities.json', 'w', encoding='utf-8') as f:
+with open('/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/islendingabok/islendingabok_entities.json', 'w', encoding='utf-8') as f:
     json.dump(entities, f, ensure_ascii=False, indent=2)
 
 print("Extraction complete.")

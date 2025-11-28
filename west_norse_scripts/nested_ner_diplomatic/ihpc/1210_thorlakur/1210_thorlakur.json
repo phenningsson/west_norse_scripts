@@ -1,0 +1,503 @@
+[
+  {
+    "dipl_text": "Anakletus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noregi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Magnús",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús Sigurðarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Sigurðarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Haraldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fljótshlíð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorlákur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hlíðarenda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Runólfsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorlákur biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þorláki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorláks",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorláki biskupi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þorláks biskups",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Salómon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórhallur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Odda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sæmundarsyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorlák",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sæmundarsonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Eyjólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnúsi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnúsi biskupi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ísidórus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísidórus biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Skálholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Magnús biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Björn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "París",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Englands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Linkólni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ragnheiði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyvöru",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorlák biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Háfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kirkjubæ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Síðu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarnhéðinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lúkas",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þykkvabæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bjarnhéðin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klængs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klængs biskups",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Klængur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klængur biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ísland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eysteini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geirason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorkel Geirason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorkell Geirason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Klæng",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klæng biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Loftsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Jón Loftsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Skálholt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gissur Hallsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Páls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noreg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eysteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlingur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Erlingur jarl",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sverrir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sverrir konungur",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Péturs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eiríkur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eiríkur Stafangursbiskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Þrándheimi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eystein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björgvinjarbiskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Tímoteo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jakob",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmund",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjálfason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Guðmund Bjálfason",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Martini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykjaholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorvaldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gissurarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Þorvaldur Gissurarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "Brandi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brandi biskupi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Ormur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gissuri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnsdal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ráðvaldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páli biskupi",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brands",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brands biskups",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Brandur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Orm",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brandur biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  },
+  {
+    "dipl_text": "Páll biskup",
+    "label": "PER",
+    "subtype": "ROL"
+  }
+]

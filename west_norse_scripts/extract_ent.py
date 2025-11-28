@@ -88,14 +88,14 @@ def extract_entities(original_text):
     return entities
 
 # Read the original text from the file
-with open('olafs_saga_helga/olafs_saga.xml.txt', 'r', encoding='utf-8') as file:
+with open('/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/am_162_B_0_fol/am_162_B_0_fol.xml.txt', 'r', encoding='utf-8') as file:
     original_text = file.read()
 
 # Extract entities
 entities = extract_entities(original_text)
 
 # Save the entities to a JSON file
-with open('olaf_entities.json', 'w', encoding='utf-8') as f:
+with open('/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/am_162_B_0_fol/am162b0_entities.json', 'w', encoding='utf-8') as f:
     json.dump(entities, f, ensure_ascii=False, indent=2)
 
 print("Extraction complete.")

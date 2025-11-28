@@ -1,0 +1,397 @@
+[
+  {
+    "dipl_text": "HEinrekr",
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Saxlande",
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Saxlandi",
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jngibiorgh",
+    "norm_text": "Ingibjǫrg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "flaanndr",
+    "norm_text": "Flándr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "asgautr",
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "asgautz",
+    "norm_text": "Ásgauts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "asgaut",
+    "norm_text": "Ásgaut",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "saxlande",
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heinrekr",
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valltirr",
+    "norm_text": "Valltirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreks",
+    "norm_text": "Heinreks",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "saxlandi",
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "heinrekr",
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreki",
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinrek",
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinrek",
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "aasgautr",
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Asgautr",
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "asgauti",
+    "norm_text": "Ásgauti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "asgautr",
+    "norm_text": "Ásgautr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreke",
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "asgautar",
+    "norm_text": "Ásgauts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "valltara",
+    "norm_text": "Valtara",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreke",
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreke",
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinrekr",
+    "norm_text": "Heinrekr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinrek",
+    "norm_text": "Heinrek",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinreke",
+    "norm_text": "Heinreki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jons",
+    "norm_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joni",
+    "norm_text": "Jóni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joni",
+    "norm_text": "Jóni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "norm_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heinrek",
+    "norm_text": "Heinrek",
+    "label": "PER"
+  }
+]

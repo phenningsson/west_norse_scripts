@@ -1,0 +1,6134 @@
+[
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Olympias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alex-ander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Neptanabus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Neptanabi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serklandskonunga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjakonungi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jovis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Juno",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristotelis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Neptanabi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bacchus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Venus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pausonias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Olympiadem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achilles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Trójumanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Corinthus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achil-lis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nestoris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achilles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Trojam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nestor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Junius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Athenae",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Demosthenes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pallade",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pallas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aeschines",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Demosthenem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Thebae",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Thebani",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Athenienses",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Deades",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristoteles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bacchus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bacchum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Deades",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Thebanis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkirnir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Phrygia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Troja",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Agamemnon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjakonungr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Priamo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Troja",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Achilles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achilles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hectorem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Priami",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Paride",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hectoris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hector",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Homerus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Homerus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achilli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jórsalalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Tyrus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Jórsalaborgar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Gyðinga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkina",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjakonungs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphrates",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Memnon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sardis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Memnon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ancyra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Capadoces",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphrate",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þór",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Noregi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Machabeorum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hieronymus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antiochus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjakonungr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jórsalalands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Judam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Machabeum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingafolki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tarsus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cignus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tarso",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philippo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ixon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sisines",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timo-dem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjakonungs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timodes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Damascus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkirnir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Belo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Neptanabi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyrus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkirnir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babel",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylone",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkina",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ixon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cilicia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ixon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ptolemaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Amyntas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Perdiccas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Coenus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Meleager",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Craterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antigonus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bucifal",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Macedo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hephaestion",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mars",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Europa",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Thebas",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Athenas",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Europa",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Media",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Xerxes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babel",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nóaflóð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sennaar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nabuchodonosor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jórsalaborgar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Gyðingalýð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sedeciam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonem",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Balthasar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabuchodonosor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Daniel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Lydiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Croesum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tomyris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyrus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyrus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arethas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Syria",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Arethas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arethae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ptolemaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ptolemaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cleocas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ardophilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ardophilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cliti",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ardophilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Iollas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ochus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hyrcani",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antigonus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Coenus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Craterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parme-nio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philote",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antigonus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Phelax",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Coenus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mida",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Craterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Amphilocus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Craterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Isannes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Orestes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Isanni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Oresto",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Agilon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Elan",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cherippum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arabia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eumenides",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Diaspen",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eudochius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eumenides",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Edimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanoris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nine-ve",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nino",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Elis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dorilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hermogenes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Amyntas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Iollas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Iollas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Iollam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Negusar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Oxatreus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bellona",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Memphis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Zoroas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Neptanabi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroe",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Meleager",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroe",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zoroam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Perdiccas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Auson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Babylone",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jovis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Damascum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sidon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Tyrus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tyrus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Agenor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Agenor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tyrum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Cadmi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ovidius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tyrus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gaza",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Lachesis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egiptalands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Libyam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Þórs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hammonis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Syrtes",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scylla",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ha-mmonis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egiptalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Memphis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bláland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Xerxes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Agamemnon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Auliðe",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Trojam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Calchantis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antaeum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antaeum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antaeum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hydram",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tigris",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arbela",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjaherr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristandus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mercurius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristan-dus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Memphim",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristandus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjasǫgum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristandi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tirioten",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjaríki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tiriotes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achillas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Helles-pontum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Hellespontum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Europam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Achillas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Achillas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Histrum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Indíaland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenioni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Euphraten",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjakonunga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Adam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eva",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Adam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cain",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Abel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Lamech",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cain",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nóaflóð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nói",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Abraham",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Isaac",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jacob",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jósefs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jacob",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egiptalands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Egiptalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Moysen",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingalýð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Moysi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sinai",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Moysen",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Josue",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðinga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jór-dán",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Jericho",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Josue",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jacobs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingafolki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dalila",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Samsonem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Samuel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Saulem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðinga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Saul",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Davið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Goliam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Salomon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Davið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Helias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Baal",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Heliseo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ezechias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Josias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ezechiam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Josiam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Davið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Isaias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jeremias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ezechiel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Daniel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Isaias",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðingar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Salomons",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Zorobabel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hester",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tobie",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Judith",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Holofernem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Esdrae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Menides",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Atlas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jovem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scytharum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíalandsmanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Polypercon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkirnir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tibris",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Rúmaborg",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Victoria",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Somnus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bucifal",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Maius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Daniel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristomenes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aristomeni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arbela",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Croesum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cyrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Xerxes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mediam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonem",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Mediam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Syriam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Babylonar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonem",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Matheus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjalið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egip-talandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Memphis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Rúmaborgarlýðr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Lucanus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Julium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonem",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Aristoteli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Philip-pi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Susa",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Uxia regio",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Medates",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tauron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiae",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tauron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medates",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sisygam-bis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medates",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medatis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medati",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medates",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Medati",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parme-nionem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Persida",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Perside",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Persepolis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Persidis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Xerxe",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Persepolim",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Araxes",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Grikklands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Euticion",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euticion",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euticion",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Techilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Techilus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Euticion",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mediam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ecbatana",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Media",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiae",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mathei",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Artabazus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Indíalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzani",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Artabazus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjalið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bes-sus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patronis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Patron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ecbatana",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjaher",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darianis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Brochubelus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjalið",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjaherr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hyrcaniam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darianis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darianis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Polystratus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Polystratus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamenn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Róbertr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Flandr",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Thomas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Englandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Franz",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Dario",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pompeio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkjakonungum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Miðjarðarsjár",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Daniel",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Danielis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Apelles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðinga",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Syriam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Armeniam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Parthiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Persidam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Serki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Serkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hercules",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hyrcania",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nabarzanes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Amazonia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Calestris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Caucasus",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Phasis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Amazones",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Calestris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenionis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philote",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Metron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philote",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenio",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Lechalaurum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Demetrium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Metron",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicomachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parmenione",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hector",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Amyntas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cebalinum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Dimus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philotam",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philote",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Parme-nione",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Philote",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Besso",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bessum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tanais",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bactra",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Svíþjóð",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Tanais",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Europam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scythiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scythae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíaland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Tanaim",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scythis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tanaim",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Scythiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scythiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Scythiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Indíalands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Clitus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darii",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíalands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hydaspes",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ni-canorem",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamǫnnum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ni-canor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indos",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamenn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Andromachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjaherr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Simachus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nicanor",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamanna",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjaher",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Attalus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamǫnnum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Attalus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indis",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pori",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamenn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Yulcon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pori",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ariston",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Polydamas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ariston",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Rubricus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Polydamas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamǫnnum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Candaceus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Candaceus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Glaucus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pori",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamǫnnum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pori",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pori",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíamenn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bucifal",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Taxiles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Taxiles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Poro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Austrríkis",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Saudracae",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pentestes",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Timaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Leuernacus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aribolus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aribolus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Critobulus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Critobulus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Critobulus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Cri-tobulus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Níl",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Taxiles",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Indíalandskonungar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Craterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ptolemaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Porum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Níl",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antipater",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylon",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sikileyju",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Antipatrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Africam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Europam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Mundíufjall",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Rúmverjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkjum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikklands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sýrlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Antipater",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Asiam",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Africa",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Spáni",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sikiley",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Italia",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Franz",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Saxlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylonar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Babylone",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Darius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Darium",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Porum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Rúmverjar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aemilius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Rúmaborgar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egiptalandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Macedo",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Typhoeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mars",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jupiter",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Perdiccas",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexander",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ptolemaeus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Egiptaland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Alexandrum",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandria",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Galterus",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Alexandro",
+    "label": "PER"
+  }
+]

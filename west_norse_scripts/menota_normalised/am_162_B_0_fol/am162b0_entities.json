@@ -1,0 +1,947 @@
+[
+  {
+    "dipl_text": "hlídar enda",
+    "norm_text": "Hlíðarenda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þraſuik",
+    "norm_text": "Þrasvík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſkotlandi",
+    "norm_text": "Skotlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "róſ",
+    "norm_text": "Rós",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "męrhǽui",
+    "norm_text": "Mærhævi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "dungálſ gnípa",
+    "norm_text": "Dungálsgnípa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "ſtraumſeyiar",
+    "norm_text": "Straumseyjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hroſſ eyiar",
+    "norm_text": "Hrosseyjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "maun",
+    "norm_text": "Mön",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "noregſ",
+    "norm_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "noregſ",
+    "norm_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "þrándheimſ",
+    "norm_text": "Þrándheims",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "iſlandz",
+    "norm_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "breiðdal",
+    "norm_text": "Breiðdal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "agðaneſ",
+    "norm_text": "Agðanes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gudbrandz dala",
+    "norm_text": "Guðbrandsdala",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hnot ſkóg",
+    "norm_text": "Hnotskóg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "egil",
+    "norm_text": "Egil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirr",
+    "norm_text": "Þorgeirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "morð",
+    "norm_text": "Mörð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirr",
+    "norm_text": "Þorgeirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gizurar",
+    "norm_text": "Gizurar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirr",
+    "norm_text": "Þorgeirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gizur",
+    "norm_text": "Gizur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorkatla",
+    "norm_text": "Þorkatla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeir",
+    "norm_text": "Þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirr",
+    "norm_text": "Þorgeirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nial",
+    "norm_text": "Njál",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiartar",
+    "norm_text": "Hjartar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nialſ",
+    "norm_text": "Njáls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oláfr",
+    "norm_text": "Óláfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeir",
+    "norm_text": "Þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiartar",
+    "norm_text": "Hjartar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Morðr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunnarſ",
+    "norm_text": "Gunnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "morðr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiallti",
+    "norm_text": "Hjalti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiallti",
+    "norm_text": "Hjalti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirſ",
+    "norm_text": "Þorgeirs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirſ",
+    "norm_text": "Þorgeirs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egilſ",
+    "norm_text": "Egils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hiartar",
+    "norm_text": "Hjartar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niall",
+    "norm_text": "Njáll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſtarkaði",
+    "norm_text": "Starkaði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarr",
+    "norm_text": "Gunnarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeiri",
+    "norm_text": "Þorgeiri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeirr",
+    "norm_text": "Þorgeirr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſtarkaðarſon",
+    "norm_text": "Starkaðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "modur",
+    "norm_text": "Mörð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "norm_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarſ",
+    "norm_text": "Gunnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mordr",
+    "norm_text": "Mörðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeiri",
+    "norm_text": "Þorgeiri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorgeir",
+    "norm_text": "Þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnari",
+    "norm_text": "Gunnari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hundi iall",
+    "norm_text": "Hundi jarl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "melsnaddi",
+    "norm_text": "Melsnaddi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "havarð",
+    "norm_text": "Hávarð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigurðar",
+    "norm_text": "Sigurðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnlíotr",
+    "norm_text": "Arnljótr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigurdr",
+    "norm_text": "Sigurðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kári",
+    "norm_text": "Kári",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ſigurðr",
+    "norm_text": "Sigurðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helgi",
+    "norm_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kári",
+    "norm_text": "Kári",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "melſnaðda",
+    "norm_text": "Melsnadda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hundi",
+    "norm_text": "Hundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "melkolfr",
+    "norm_text": "Melkólfr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helga",
+    "norm_text": "Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grimi",
+    "norm_text": "Grími",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grim",
+    "norm_text": "Grím",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helga",
+    "norm_text": "Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kára",
+    "norm_text": "Kára",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðroð",
+    "norm_text": "Guðröð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kári",
+    "norm_text": "Kári",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hakonar",
+    "norm_text": "Hákonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbein",
+    "norm_text": "Kolbein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "avrgum leiða",
+    "norm_text": "Örgumleiða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ꜹrlyg",
+    "norm_text": "Örlyg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapp",
+    "norm_text": "Hrapp",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrap",
+    "norm_text": "Hrapp",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kolbeinn",
+    "norm_text": "Kolbeinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hakonar",
+    "norm_text": "Hákonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þrandr",
+    "norm_text": "Þrándr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðbrandz",
+    "norm_text": "Guðbrands",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gudrun",
+    "norm_text": "Guðrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrand",
+    "norm_text": "Guðbrand",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðbrand",
+    "norm_text": "Guðbrand",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gvdbrandi",
+    "norm_text": "Guðbrandi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðrunu",
+    "norm_text": "Guðrúnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſuarð",
+    "norm_text": "Ásvarð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſvarðr",
+    "norm_text": "Ásvarðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrappr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſuardr",
+    "norm_text": "Ásvarðr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſuard",
+    "norm_text": "Ásvarð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudrun",
+    "norm_text": "Guðrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "áſuarðar",
+    "norm_text": "Ásvarðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gudbrandr",
+    "norm_text": "Guðbrandr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrap",
+    "norm_text": "Hrapp",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tófi",
+    "norm_text": "Tófi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrapr",
+    "norm_text": "Hrappr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gvdbrandſ",
+    "norm_text": "Guðbrands",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "huíta",
+    "norm_text": "hvíta",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "otkelſſyni",
+    "norm_text": "Otkelssyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "otkelſ ſyni",
+    "norm_text": "Otkelssyni",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "otkelſſon",
+    "norm_text": "Otkelsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "arnliotarſon",
+    "norm_text": "Arnljótarson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "geírolfſſonar",
+    "norm_text": "Geirólfssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "gerpiſ",
+    "norm_text": "gerpis",
+    "label": "PER",
+    "subtype": "NIC"
+  },
+  {
+    "dipl_text": "ꜹrlygſſon",
+    "norm_text": "Örlygsson",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "hróðgeirſſonar",
+    "norm_text": "Hróðgeirssonar",
+    "label": "PER",
+    "subtype": "PAT"
+  },
+  {
+    "dipl_text": "huíta",
+    "norm_text": "hvíta",
+    "label": "PER",
+    "subtype": "NIC"
+  }
+]

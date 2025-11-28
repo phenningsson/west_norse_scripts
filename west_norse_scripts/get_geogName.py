@@ -3,35 +3,35 @@ import json
 from collections import defaultdict
 
 def extract_choices(w_content):
-    """Extracts dipl and norm texts from a <w> content."""
+    """Extracts norm and norm texts from a <w> content."""
     choice_match = re.search(r'<choice>(.*?)</choice>', w_content, re.DOTALL)
     if not choice_match:
         return None, None
     choice_content = choice_match.group(1)
-    dipl_match = re.search(r'<me:dipl>(.*?)</me:dipl>', choice_content, re.DOTALL)
     norm_match = re.search(r'<me:norm>(.*?)</me:norm>', choice_content, re.DOTALL)
-    dipl_text = dipl_match.group(1).strip() if dipl_match else ""
+    norm_match = re.search(r'<me:norm>(.*?)</me:norm>', choice_content, re.DOTALL)
     norm_text = norm_match.group(1).strip() if norm_match else ""
-    # Clean up dipl_text by removing XML tags
-    dipl_text = re.sub(r'<[^>]+>', '', dipl_text)
-    return dipl_text, norm_text
+    norm_text = norm_match.group(1).strip() if norm_match else ""
+    # Clean up norm_text by removing XML tags
+    norm_text = re.sub(r'<[^>]+>', '', norm_text)
+    return norm_text, norm_text
 
 def extract_entity_texts(entity_content):
-    """Extracts dipl and norm texts from an entity's content."""
+    """Extracts norm and norm texts from an entity's content."""
     w_pattern = re.compile(r'<w[^>]*>(.*?)</w>', re.DOTALL)
     w_matches = w_pattern.finditer(entity_content)
-    dipl_parts = []
+    norm_parts = []
     norm_parts = []
     for w_match in w_matches:
         w_content = w_match.group(1)
-        dipl, norm = extract_choices(w_content)
-        if dipl:
-            dipl_parts.append(dipl)
+        norm, norm = extract_choices(w_content)
         if norm:
             norm_parts.append(norm)
-    dipl_text = ' '.join(dipl_parts)
+        if norm:
+            norm_parts.append(norm)
     norm_text = ' '.join(norm_parts)
-    return dipl_text, norm_text
+    norm_text = ' '.join(norm_parts)
+    return norm_text, norm_text
 
 def extract_geog_names(xml_text):
     """Extracts geogName entities from XML text."""
@@ -43,9 +43,9 @@ def extract_geog_names(xml_text):
     for match in geogname_pattern.finditer(xml_text):
         geog_type = match.group(1).lower()
         entity_content = match.group(2)
-        dipl_text, norm_text = extract_entity_texts(entity_content)
+        norm_text, norm_text = extract_entity_texts(entity_content)
 
-        if dipl_text:  # Only add if we have diplomatic text
+        if norm_text:  # Only add if we have normomatic text
             # Map geogName types to subtypes (default to OTR if not specified)
             subtype_map = {
                 'mountain': 'MTN',
@@ -59,7 +59,7 @@ def extract_geog_names(xml_text):
             subtype = subtype_map.get(geog_type, 'OTR')  # Default to OTR for unknown types
 
             entities.append({
-                'dipl_text': dipl_text,
+                'norm_text': norm_text,
                 'label': 'LOC',
                 'subtype': subtype
             })
@@ -68,8 +68,8 @@ def extract_geog_names(xml_text):
 
 def main():
     # Read the XML file
-    input_file = 'islendingabok.xml.txt'
-    output_file = 'geogname_entities.json'
+    input_file = 'menota_normalised/islendingabok/islendingabok.xml.txt'
+    output_file = 'menota_normalised/islendingabok/geogname_entities.json'
 
     print(f"Extracting geogName entities from {input_file}...")
 
