@@ -60,8 +60,8 @@ def get_word_positions(clean_text, output_file):
 
 def main():
     # File paths
-    clean_text_file = 'flat_ner/menota/wormianus/wormianus_final_text.txt'
-    output_file = 'flat_ner/menota/wormianus/wormianus_word_positions.json'
+    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_final_text.txt'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_word_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")

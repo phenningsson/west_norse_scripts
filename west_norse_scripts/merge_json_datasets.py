@@ -5,20 +5,21 @@ import json
 
 # === CONFIGURE FILES HERE ===
 INPUT_FILES = [
-    "flat_ner/menota/laknisbok/laknisbok_flat_ner_dataset.json",
-    "flat_ner/menota/am162bkfol/am162bk_flat_ner_dataset.json",
-    "flat_ner/menota/am162b0fol/am162b0_flat_ner_dataset.json",
-    "flat_ner/menota/olafs_saga_helga/olafs_saga_helga_flat_ner_dataset.json",
-    "flat_ner/menota/islendingabok/islendingabok_flat_ner_dataset.json",
-    "flat_ner/menota/alexanders_saga/alexanders_saga_flat_ner_dataset.json",
-    "flat_ner/menota/drauma_jons/drauma_jons_flat_ner_dataset.json",
-    "flat_ner/menota/wormianus/wormianus_flat_ner_dataset.json",
-    "flat_ner/ihpc/1210_jartein/1210_jartein_flat_ner_dataset.json",
-    "flat_ner/ihpc/1210_thorlakur/1210_thorlakur_flat_ner_dataset.json",
-    "flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_ner_dataset.json",
-    "flat_ner/ihpc/1250_thetubrot/1250_thetubrot_flat_ner_dataset.json",
-    "flat_ner/ihpc/1260_jomsvikingar/1260_jomsvikingar_flat_ner_dataset.json",
-    "flat_ner/ihpc/1275_morkin/1275_morkin_flat_ner_dataset.json"
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/laknisbok/laknisbok_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/am162bkfol/am162bk_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/am162b0fol/am162b0_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/olafs_saga_helga/olafs_saga_helga_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/islendingabok/islendingabok_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/alexanders_saga/alexanders_saga_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/drauma_jons/drauma_jons_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/wormianus/wormianus_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1210_jartein/1210_jartein_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1210_thorlakur/1210_thorlakur_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1250_sturlunga/1250_sturlunga_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1250_thetubrot/1250_thetubrot_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1260_jomsvikingar/1260_jomsvikingar_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1275_morkin/1275_morkin_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_flat_ner_dataset.json"
 ]
 
 OUTPUT_FILE = "large_flat_ner_dataset.json"

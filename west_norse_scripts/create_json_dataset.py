@@ -68,14 +68,14 @@ def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_fi
 
 def main():
     # File paths
-    text_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_final_text.txt'
-    entity_positions_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_positions.json'
-    word_boundaries_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_word_positions.json'
-    output_file = 'flat_ner/ihpc/1250_sturlunga/1250_sturlunga_flat_ner_dataset.json'
+    text_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_final_text.txt'
+    entity_positions_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/dipl_voluspa_flat_entities_positions.json'
+    word_boundaries_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_word_positions.json'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_flat_ner_dataset.json'
 
     # Document metadata
-    id = 11
-    name = "1250 Sturlunga"
+    id = 15
+    name = "Vǫluspá (Hauksbók version) : AM 544 4to"
 
     # Create and save the dataset
     data = create_ner_json_dataset(

@@ -2,22 +2,22 @@ import pandas as pd
 import json
 
 # Load the CSV file
-csv_file = 'wormianus/short_wormianus_names.csv'
+csv_file = 'flat_ner_diplomatic/menota/voluspa/voluspa_entiteter.csv'
 df = pd.read_csv(csv_file)
 
 # Filter out entities labeled as 'WRK'
-filtered_df = df[df['entity_type'] != 'WRK']
-new_filtered_df = filtered_df
-new_filtered_df = new_filtered_df[df['entity_type'] != "OTH"]
+#filtered_df = df[df['entity_type'] != 'WRK']
+#new_filtered_df = filtered_df
+#new_filtered_df = new_filtered_df[df['entity_type'] != "OTH"]
 
 # Create the JSON structure
 json_data = [
     {"dipl_text": row['entity'], "label": row['entity_type']}
-    for _, row in new_filtered_df.iterrows()
+    for _, row in df.iterrows()
 ]
 
 # Save the JSON data to a file
-output_file = 'dipl_wormianus_entities.json'
+output_file = 'dipl_voluspa_entities.json'
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=2)
 
