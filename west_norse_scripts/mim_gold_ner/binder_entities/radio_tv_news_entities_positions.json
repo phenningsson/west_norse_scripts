@@ -1,0 +1,3042 @@
+[
+  {
+    "text": "Valgerður Jóhannsdóttir",
+    "start": 836,
+    "end": 858,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgerður Jóhannsdóttir",
+    "start": 3954,
+    "end": 3976,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgerður Katrín Gunnarsdóttir",
+    "start": 864,
+    "end": 893,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgerður Katrín Gunnarsdóttir",
+    "start": 980,
+    "end": 1009,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgerður Katrín Gunnarsdóttir",
+    "start": 1668,
+    "end": 1697,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgerður Katrín Gunnarsdóttir",
+    "start": 8463,
+    "end": 8492,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgerður Katrín Gunnarsdóttir",
+    "start": 8755,
+    "end": 8784,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgerður",
+    "start": 836,
+    "end": 844,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgerður",
+    "start": 1533,
+    "end": 1541,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgerður",
+    "start": 3954,
+    "end": 3962,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarna Benediktssyni",
+    "start": 2818,
+    "end": 2837,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni Benediktsson",
+    "start": 2897,
+    "end": 2915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni Benediktsson",
+    "start": 4092,
+    "end": 4110,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Landsbankaútibúið",
+    "start": 4215,
+    "end": 4231,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gullinbrú",
+    "start": 4237,
+    "end": 4245,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Grafarvogi",
+    "start": 4249,
+    "end": 4258,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 4262,
+    "end": 4270,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 48633,
+    "end": 48641,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 61799,
+    "end": 61807,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 62445,
+    "end": 62453,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Foldahverfi",
+    "start": 4356,
+    "end": 4366,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Foldahverfi",
+    "start": 4836,
+    "end": 4846,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frostafold",
+    "start": 4864,
+    "end": 4873,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Oddsson",
+    "start": 5523,
+    "end": 5535,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Oddsson",
+    "start": 9988,
+    "end": 10000,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Finnur Ingólfsson",
+    "start": 6128,
+    "end": 6144,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Björnsson",
+    "start": 6347,
+    "end": 6359,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Björnsson",
+    "start": 6533,
+    "end": 6545,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Björnsson",
+    "start": 6936,
+    "end": 6948,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Hörður Guðmundsson",
+    "start": 6852,
+    "end": 6879,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóð",
+    "start": 7094,
+    "end": 7100,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug Thorlacius",
+    "start": 7884,
+    "end": 7900,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug Thorlacius",
+    "start": 8046,
+    "end": 8062,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lúðvík Bergvinsson",
+    "start": 9271,
+    "end": 9288,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lúðvík Bergvinsson",
+    "start": 9467,
+    "end": 9484,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Oddssyni",
+    "start": 9851,
+    "end": 9864,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lúðvík",
+    "start": 9271,
+    "end": 9276,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lúðvík",
+    "start": 9467,
+    "end": 9472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lúðvík",
+    "start": 9905,
+    "end": 9910,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór Gunnarsson",
+    "start": 10671,
+    "end": 10690,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór Gunnarsson",
+    "start": 23806,
+    "end": 23825,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór Gunnarsson",
+    "start": 25109,
+    "end": 25128,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Viktor Smári Sæmundsson",
+    "start": 11091,
+    "end": 11113,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Viktor Smári Sæmundsson",
+    "start": 11880,
+    "end": 11902,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Péturs Þórs",
+    "start": 11252,
+    "end": 11262,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Péturs Þórs",
+    "start": 11684,
+    "end": 11694,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 5841,
+    "end": 5847,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 11150,
+    "end": 11156,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 11996,
+    "end": 12002,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 13055,
+    "end": 13061,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 18042,
+    "end": 18048,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 21713,
+    "end": 21719,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 21914,
+    "end": 21920,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 22207,
+    "end": 22213,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 23375,
+    "end": 23381,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 45704,
+    "end": 45710,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 45829,
+    "end": 45835,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 54717,
+    "end": 54723,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðar",
+    "start": 13940,
+    "end": 13949,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðar",
+    "start": 46723,
+    "end": 46732,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðar",
+    "start": 46856,
+    "end": 46865,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðar",
+    "start": 47097,
+    "end": 47106,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lárusar G. Valdimarssonar",
+    "start": 13996,
+    "end": 14020,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðvesturkjördæmis",
+    "start": 14059,
+    "end": 14077,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðarbæjar",
+    "start": 14166,
+    "end": 14180,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðarbæjar",
+    "start": 47007,
+    "end": 47021,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Kristjánsson",
+    "start": 14665,
+    "end": 14680,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Kristjánsson",
+    "start": 15012,
+    "end": 15027,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Kristjánsson",
+    "start": 15071,
+    "end": 15086,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjanna",
+    "start": 15494,
+    "end": 15506,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 6347,
+    "end": 6349,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 6533,
+    "end": 6535,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 6936,
+    "end": 6938,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 14665,
+    "end": 14667,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 15012,
+    "end": 15014,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 15071,
+    "end": 15073,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 15626,
+    "end": 15628,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 39388,
+    "end": 39390,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 40227,
+    "end": 40229,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 40427,
+    "end": 40429,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 40502,
+    "end": 40504,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 41433,
+    "end": 41435,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 42160,
+    "end": 42162,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 42634,
+    "end": 42636,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 42724,
+    "end": 42726,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 60834,
+    "end": 60836,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Oddsson",
+    "start": 16269,
+    "end": 16284,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Oddsson",
+    "start": 16660,
+    "end": 16675,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Oddsson",
+    "start": 17106,
+    "end": 17121,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Oddsson",
+    "start": 17629,
+    "end": 17644,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingvöllum",
+    "start": 16306,
+    "end": 16315,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingvöllum",
+    "start": 17143,
+    "end": 17152,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingvallaland",
+    "start": 16375,
+    "end": 16387,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárastaða",
+    "start": 16397,
+    "end": 16405,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárastaðanesi",
+    "start": 16751,
+    "end": 16763,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Arnar Páll Hauksson",
+    "start": 17576,
+    "end": 17594,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ragnar Grímsson",
+    "start": 18009,
+    "end": 18030,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ragnar Grímsson",
+    "start": 45796,
+    "end": 45817,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ragnar Grímsson",
+    "start": 46374,
+    "end": 46395,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Baldur Ágústsson",
+    "start": 18052,
+    "end": 18067,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ástþór Magnússon",
+    "start": 18109,
+    "end": 18124,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anna Sigríður Arnardóttir",
+    "start": 18288,
+    "end": 18312,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anna Sigríður Arnardóttir",
+    "start": 18599,
+    "end": 18623,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anna Sigríður Arnardóttir",
+    "start": 18838,
+    "end": 18862,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 19059,
+    "end": 19063,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 19377,
+    "end": 19381,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 19939,
+    "end": 19943,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 20413,
+    "end": 20417,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 20670,
+    "end": 20674,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 20893,
+    "end": 20897,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 21068,
+    "end": 21072,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi Hjörvar",
+    "start": 19377,
+    "end": 19389,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi Hjörvar",
+    "start": 19939,
+    "end": 19951,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi Hjörvar",
+    "start": 20670,
+    "end": 20682,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi Hjörvar",
+    "start": 21068,
+    "end": 21080,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Blöndal",
+    "start": 19578,
+    "end": 19592,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Blöndal",
+    "start": 27179,
+    "end": 27193,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Árni Stefánsson",
+    "start": 19618,
+    "end": 19642,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Árni Stefánsson",
+    "start": 20168,
+    "end": 20192,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einar K. Guðfinnsson",
+    "start": 20264,
+    "end": 20283,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einar K. Guðfinnsson",
+    "start": 41585,
+    "end": 41604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einar K. Guðfinnsson",
+    "start": 43120,
+    "end": 43139,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einar K. Guðfinnsson",
+    "start": 43305,
+    "end": 43324,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einar K. Guðfinnsson",
+    "start": 43765,
+    "end": 43784,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga Hjörvar",
+    "start": 20335,
+    "end": 20347,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Konráð Alfreðsson",
+    "start": 21864,
+    "end": 21880,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Konráð Alfreðsson",
+    "start": 22157,
+    "end": 22173,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiríkur Tómasson",
+    "start": 23326,
+    "end": 23341,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eirík",
+    "start": 23714,
+    "end": 23718,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðrúnu Kjarval",
+    "start": 23901,
+    "end": 23915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannesi Kjarval",
+    "start": 24036,
+    "end": 24052,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 10671,
+    "end": 10679,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 23806,
+    "end": 23814,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 24056,
+    "end": 24064,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 25109,
+    "end": 25117,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 25280,
+    "end": 25288,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur Þór",
+    "start": 25421,
+    "end": 25429,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðrún Kjarval",
+    "start": 24158,
+    "end": 24171,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannesar S. Kjarvals",
+    "start": 24204,
+    "end": 24225,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sveins Kjarvals",
+    "start": 24256,
+    "end": 24270,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Niels Kirschberg",
+    "start": 24364,
+    "end": 24379,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Niels Kirschberg",
+    "start": 24677,
+    "end": 24692,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bredgade",
+    "start": 24457,
+    "end": 24464,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 24468,
+    "end": 24480,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 25176,
+    "end": 25188,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 56109,
+    "end": 56121,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi Jónsson",
+    "start": 24506,
+    "end": 24524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi Jónsson",
+    "start": 25871,
+    "end": 25889,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi Jónsson",
+    "start": 26175,
+    "end": 26193,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi Jónsson",
+    "start": 26804,
+    "end": 26822,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 23909,
+    "end": 23915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 24046,
+    "end": 24052,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 24165,
+    "end": 24171,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 24603,
+    "end": 24609,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 25034,
+    "end": 25040,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 25372,
+    "end": 25378,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 26269,
+    "end": 26275,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mogens Hoff",
+    "start": 24933,
+    "end": 24943,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mogens Hoff",
+    "start": 25066,
+    "end": 25076,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannes S. Kjarval",
+    "start": 25022,
+    "end": 25040,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðrúnar Kjarval",
+    "start": 25363,
+    "end": 25378,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétri Þór",
+    "start": 25389,
+    "end": 25397,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 10671,
+    "end": 10675,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 23806,
+    "end": 23810,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 24056,
+    "end": 24060,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 25109,
+    "end": 25113,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 25280,
+    "end": 25284,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 25421,
+    "end": 25425,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pétur",
+    "start": 25588,
+    "end": 25592,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 18009,
+    "end": 18014,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 24506,
+    "end": 24511,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 25871,
+    "end": 25876,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 25903,
+    "end": 25908,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 26025,
+    "end": 26030,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 26175,
+    "end": 26180,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 26558,
+    "end": 26563,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 26745,
+    "end": 26750,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 26804,
+    "end": 26809,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 36635,
+    "end": 36640,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 45796,
+    "end": 45801,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 46374,
+    "end": 46379,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 63556,
+    "end": 63561,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 63938,
+    "end": 63943,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 64180,
+    "end": 64185,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 64386,
+    "end": 64391,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 64514,
+    "end": 64519,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 64910,
+    "end": 64915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 65206,
+    "end": 65211,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 65428,
+    "end": 65433,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur",
+    "start": 65600,
+    "end": 65605,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannes Kjarval",
+    "start": 26260,
+    "end": 26275,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi",
+    "start": 24506,
+    "end": 24516,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi",
+    "start": 25871,
+    "end": 25881,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi",
+    "start": 26175,
+    "end": 26185,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi",
+    "start": 26558,
+    "end": 26568,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Ingi",
+    "start": 26804,
+    "end": 26814,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Ásgrímsson",
+    "start": 28285,
+    "end": 28302,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Ásgrímsson",
+    "start": 28455,
+    "end": 28472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Ásgrímsson",
+    "start": 28832,
+    "end": 28849,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jónína Bjartmarz",
+    "start": 28348,
+    "end": 28363,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólöf Rún Skúladóttir",
+    "start": 28679,
+    "end": 28698,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðni Ágústsson",
+    "start": 29118,
+    "end": 29132,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðni Ágústsson",
+    "start": 29252,
+    "end": 29266,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðni Ágústsson",
+    "start": 31123,
+    "end": 31137,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Siv Friðleifsdóttir",
+    "start": 30492,
+    "end": 30510,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Siv Friðleifsdóttir",
+    "start": 30577,
+    "end": 30595,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Siv Friðleifsdóttir",
+    "start": 31482,
+    "end": 31500,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svanur Kristjánsson",
+    "start": 31229,
+    "end": 31247,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svanur Kristjánsson",
+    "start": 31422,
+    "end": 31440,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn Magnússon",
+    "start": 32440,
+    "end": 32454,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn Magnússon",
+    "start": 32731,
+    "end": 32745,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn Magnússon",
+    "start": 33223,
+    "end": 33237,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn Magnússon",
+    "start": 33797,
+    "end": 33811,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlöndum",
+    "start": 32983,
+    "end": 32994,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 32440,
+    "end": 32444,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 32731,
+    "end": 32735,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 33072,
+    "end": 33076,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 33145,
+    "end": 33149,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 33223,
+    "end": 33227,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 33736,
+    "end": 33740,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrafn",
+    "start": 33797,
+    "end": 33801,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjunum",
+    "start": 33190,
+    "end": 33202,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjunum",
+    "start": 41542,
+    "end": 41554,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sviss",
+    "start": 33279,
+    "end": 33283,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sviss",
+    "start": 33433,
+    "end": 33437,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 34230,
+    "end": 34236,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 34758,
+    "end": 34764,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 44925,
+    "end": 44931,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 45320,
+    "end": 45326,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 45678,
+    "end": 45684,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húsavík",
+    "start": 46559,
+    "end": 46565,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 34715,
+    "end": 34720,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Hreinsson",
+    "start": 34724,
+    "end": 34741,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurðar",
+    "start": 34903,
+    "end": 34910,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steinar Þór Guðgeirsson",
+    "start": 34986,
+    "end": 35008,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steinar Þór Guðgeirsson",
+    "start": 35381,
+    "end": 35403,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Oddgeir Einarsson",
+    "start": 35705,
+    "end": 35721,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna Vigdís Hjaltadóttir",
+    "start": 36255,
+    "end": 36281,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna Vigdís Hjaltadóttir",
+    "start": 36429,
+    "end": 36455,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna Vigdís Hjaltadóttir",
+    "start": 60087,
+    "end": 60113,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll Benediktsson",
+    "start": 36366,
+    "end": 36382,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 36255,
+    "end": 36261,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 36388,
+    "end": 36394,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 36429,
+    "end": 36435,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 37730,
+    "end": 37736,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 60087,
+    "end": 60093,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 60547,
+    "end": 60553,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna",
+    "start": 60798,
+    "end": 60804,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 17582,
+    "end": 17585,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 36366,
+    "end": 36369,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 36498,
+    "end": 36501,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristján L. Möller",
+    "start": 36550,
+    "end": 36567,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðjón Ólafur Jónsson",
+    "start": 36628,
+    "end": 36648,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árni M. Mathiesen",
+    "start": 36758,
+    "end": 36774,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörg Sólrún Gísladóttir",
+    "start": 37098,
+    "end": 37125,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörg Sólrún Gísladóttir",
+    "start": 59593,
+    "end": 59620,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steingrímur J. Sigfússon",
+    "start": 37347,
+    "end": 37370,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Magnús Þór Hafsteinsson",
+    "start": 37592,
+    "end": 37614,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Magnús Þór Hafsteinsson",
+    "start": 37758,
+    "end": 37780,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns Ásgeirs Jóhannessonar",
+    "start": 38867,
+    "end": 38892,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns Ásgeirs",
+    "start": 38867,
+    "end": 38878,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns Ásgeirs",
+    "start": 39096,
+    "end": 39107,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón H. B. Snorrason",
+    "start": 39388,
+    "end": 39406,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón H. B. Snorrason",
+    "start": 40502,
+    "end": 40520,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haraldur Johannessen",
+    "start": 39411,
+    "end": 39430,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórunn Guðmundsdóttir",
+    "start": 39645,
+    "end": 39665,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórunn Guðmundsdóttir",
+    "start": 40014,
+    "end": 40034,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórunn",
+    "start": 39645,
+    "end": 39650,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórunn",
+    "start": 39917,
+    "end": 39922,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórunn",
+    "start": 40014,
+    "end": 40019,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón H. B.",
+    "start": 39388,
+    "end": 39396,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón H. B.",
+    "start": 40227,
+    "end": 40235,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón H. B.",
+    "start": 40502,
+    "end": 40510,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóni Ásgeir Jóhannessyni",
+    "start": 41020,
+    "end": 41043,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryggva Jónssyni",
+    "start": 41065,
+    "end": 41080,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóni Geraldi Sullenberger",
+    "start": 41085,
+    "end": 41109,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjartan Gunnarsson",
+    "start": 41192,
+    "end": 41209,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Styrmir Gunnarsson",
+    "start": 41254,
+    "end": 41271,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Baldvin Hannibalsson",
+    "start": 41433,
+    "end": 41456,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Baldvin Hannibalsson",
+    "start": 42160,
+    "end": 42183,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Baldvin Hannibalsson",
+    "start": 42724,
+    "end": 42747,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðna Th. Jóhannessonar",
+    "start": 41972,
+    "end": 41994,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Maryland",
+    "start": 42544,
+    "end": 42551,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Alþingishúsið",
+    "start": 43272,
+    "end": 43284,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðni Jóhannesson",
+    "start": 43662,
+    "end": 43678,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Magnús Stefánsson",
+    "start": 44138,
+    "end": 44154,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóðar",
+    "start": 45046,
+    "end": 45054,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóðar",
+    "start": 46345,
+    "end": 46353,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóðar",
+    "start": 46425,
+    "end": 46433,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóðar",
+    "start": 46484,
+    "end": 46492,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garðar Svavarsson",
+    "start": 45131,
+    "end": 45147,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 45179,
+    "end": 45184,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Náttfara",
+    "start": 45201,
+    "end": 45208,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðausturlandi",
+    "start": 45238,
+    "end": 45252,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garðar",
+    "start": 45131,
+    "end": 45136,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garðar",
+    "start": 45258,
+    "end": 45263,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skjálfanda",
+    "start": 45272,
+    "end": 45281,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Karl Gústaf 16",
+    "start": 46357,
+    "end": 46370,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 46705,
+    "end": 46712,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 46794,
+    "end": 46801,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 46942,
+    "end": 46949,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 47054,
+    "end": 47061,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 47290,
+    "end": 47297,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðureyri",
+    "start": 47066,
+    "end": 47074,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Björgvinsson",
+    "start": 47402,
+    "end": 47423,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Björgvinsson",
+    "start": 47697,
+    "end": 47718,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Björgvinsson",
+    "start": 48001,
+    "end": 48022,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Önundarfjarðar",
+    "start": 46747,
+    "end": 46760,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Önundarfjarðar",
+    "start": 47448,
+    "end": 47461,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðrún S. Sigurðardóttir",
+    "start": 47887,
+    "end": 47910,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðurlandsvegarins",
+    "start": 48377,
+    "end": 48394,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðurlandsvegarins",
+    "start": 48610,
+    "end": 48627,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Selfoss",
+    "start": 48647,
+    "end": 48653,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjanesbrautinni",
+    "start": 48939,
+    "end": 48956,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður Hjaltason",
+    "start": 48960,
+    "end": 48978,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður Hjaltason",
+    "start": 49445,
+    "end": 49463,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður Hjaltason",
+    "start": 49947,
+    "end": 49965,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Magnús Hlynur Hreiðarsson",
+    "start": 49354,
+    "end": 49378,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður",
+    "start": 48960,
+    "end": 48968,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður",
+    "start": 49445,
+    "end": 49453,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður",
+    "start": 49839,
+    "end": 49847,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorvarður",
+    "start": 49947,
+    "end": 49955,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hverfisgötu",
+    "start": 50406,
+    "end": 50416,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Edda Þórey Guðnadóttir",
+    "start": 52224,
+    "end": 52245,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Edda Þórey Guðnadóttir",
+    "start": 53338,
+    "end": 53359,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Héðinn Halldórsson",
+    "start": 52752,
+    "end": 52769,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sturla Böðvarsson",
+    "start": 52812,
+    "end": 52828,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sturla Böðvarsson",
+    "start": 53085,
+    "end": 53101,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 53291,
+    "end": 53297,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hellisheiði",
+    "start": 53304,
+    "end": 53314,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlandi",
+    "start": 53530,
+    "end": 53540,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlandi",
+    "start": 53915,
+    "end": 53925,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlandi",
+    "start": 54639,
+    "end": 54649,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárahnjúkavirkjun",
+    "start": 53713,
+    "end": 53729,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárahnjúkavirkjun",
+    "start": 53789,
+    "end": 53805,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Impregilo",
+    "start": 53969,
+    "end": 53977,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reyðarfirði",
+    "start": 54520,
+    "end": 54530,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalshéraði",
+    "start": 54771,
+    "end": 54786,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalshreppi",
+    "start": 54793,
+    "end": 54808,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárahnjúkavirkjunar",
+    "start": 54828,
+    "end": 54846,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kárahnjúkum",
+    "start": 55228,
+    "end": 55238,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fossvogi",
+    "start": 55505,
+    "end": 55512,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fossvogi",
+    "start": 63185,
+    "end": 63192,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Egilsson",
+    "start": 55560,
+    "end": 55573,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Egilsson",
+    "start": 56549,
+    "end": 56562,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Egilsson",
+    "start": 58040,
+    "end": 58053,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jónínu Bjartmarz",
+    "start": 56000,
+    "end": 56015,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurður Helgasyni",
+    "start": 57198,
+    "end": 57215,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 5523,
+    "end": 5527,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 9851,
+    "end": 9855,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 9988,
+    "end": 9992,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 55560,
+    "end": 55564,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 56549,
+    "end": 56553,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 58040,
+    "end": 58044,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 58263,
+    "end": 58267,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð",
+    "start": 58409,
+    "end": 58413,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sólveig Pétursdóttir",
+    "start": 59263,
+    "end": 59282,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ögmundur Jónasson",
+    "start": 59864,
+    "end": 59880,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Geir H. Haarde",
+    "start": 60312,
+    "end": 60325,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Geir H. Haarde",
+    "start": 60636,
+    "end": 60649,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Sigurðsson",
+    "start": 60834,
+    "end": 60847,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 34395,
+    "end": 34405,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 61605,
+    "end": 61615,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Inga Dóra Sigfúsdóttir",
+    "start": 61882,
+    "end": 61903,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Inga Dóra Sigfúsdóttir",
+    "start": 62638,
+    "end": 62659,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Inga Dóra",
+    "start": 61882,
+    "end": 61890,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Inga Dóra",
+    "start": 62638,
+    "end": 62646,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Inga Dóra",
+    "start": 62976,
+    "end": 62984,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 63556,
+    "end": 63573,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 64180,
+    "end": 64197,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 64386,
+    "end": 64403,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 64514,
+    "end": 64531,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 64910,
+    "end": 64927,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Guðlaugsson",
+    "start": 65206,
+    "end": 65223,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María Sigrún Hilmarsdóttir",
+    "start": 64078,
+    "end": 64103,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María",
+    "start": 64078,
+    "end": 64082,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María",
+    "start": 64318,
+    "end": 64322,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María",
+    "start": 64417,
+    "end": 64421,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María",
+    "start": 64836,
+    "end": 64840,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María",
+    "start": 65169,
+    "end": 65173,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

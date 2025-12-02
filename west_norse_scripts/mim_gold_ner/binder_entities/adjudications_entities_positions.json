@@ -1,0 +1,730 @@
+[
+  {
+    "text": "Áslaug Þorgeirsdóttir",
+    "start": 645,
+    "end": 665,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug Þorgeirsdóttir",
+    "start": 31910,
+    "end": 31930,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Benedikt Ólafsson",
+    "start": 87,
+    "end": 103,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Benedikt Ólafsson",
+    "start": 462,
+    "end": 478,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurbjörn Magnússon",
+    "start": 140,
+    "end": 159,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dómhúsinu",
+    "start": 252,
+    "end": 260,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lækjartorg",
+    "start": 266,
+    "end": 275,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Allani Vagni Magnússyni",
+    "start": 280,
+    "end": 302,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elínu Ólafsdóttur",
+    "start": 341,
+    "end": 357,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóni Hjaltalín Ólafssyni",
+    "start": 362,
+    "end": 385,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stefán A. Svensson",
+    "start": 515,
+    "end": 532,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Nygaardsvej",
+    "start": 669,
+    "end": 679,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 687,
+    "end": 699,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 4357,
+    "end": 4369,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 7937,
+    "end": 7949,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 8491,
+    "end": 8503,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 11782,
+    "end": 11794,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 18519,
+    "end": 18531,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 19538,
+    "end": 19550,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 19921,
+    "end": 19933,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 20230,
+    "end": 20242,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 29394,
+    "end": 29406,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kaupmannahöfn",
+    "start": 33978,
+    "end": 33990,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skipholti",
+    "start": 737,
+    "end": 745,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 751,
+    "end": 759,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 42024,
+    "end": 42032,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 42355,
+    "end": 42363,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 43725,
+    "end": 43733,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 53756,
+    "end": 53764,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 54219,
+    "end": 54227,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 54301,
+    "end": 54309,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi Skaftason",
+    "start": 3071,
+    "end": 3085,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Birni Daníelssyni",
+    "start": 4617,
+    "end": 4633,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíð Gíslasyni",
+    "start": 4650,
+    "end": 4664,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steingríms Davíðssonar",
+    "start": 6072,
+    "end": 6093,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steingríms Davíðssonar",
+    "start": 8946,
+    "end": 8967,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steingríms Davíðssonar",
+    "start": 23601,
+    "end": 23622,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Viðars Más Matthíassonar",
+    "start": 6107,
+    "end": 6130,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Viðars Más Matthíassonar",
+    "start": 23573,
+    "end": 23596,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingimundar Sveinssonar",
+    "start": 6919,
+    "end": 6940,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristínar Þórðardóttur",
+    "start": 6952,
+    "end": 6973,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vilhjálms H. Vilhjálmssonar",
+    "start": 6985,
+    "end": 7011,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malmö",
+    "start": 7670,
+    "end": 7674,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malmö",
+    "start": 8234,
+    "end": 8238,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malmö",
+    "start": 33060,
+    "end": 33064,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malmö",
+    "start": 33163,
+    "end": 33167,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bodil Knutsen",
+    "start": 8905,
+    "end": 8917,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dr. Hans W. Rotenborg",
+    "start": 8921,
+    "end": 8941,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björns Rúnars Lúðvíkssonar",
+    "start": 12043,
+    "end": 12068,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björns Rúnars Lúðvíkssonar",
+    "start": 28776,
+    "end": 28801,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 13716,
+    "end": 13723,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjunum",
+    "start": 14732,
+    "end": 14744,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gentofte",
+    "start": 17105,
+    "end": 17112,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bolla Bjarnasonar",
+    "start": 17380,
+    "end": 17396,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björns Daníelssonar",
+    "start": 23458,
+    "end": 23476,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Davíðs Gíslasonar",
+    "start": 23481,
+    "end": 23497,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnari Kristinssyni",
+    "start": 30744,
+    "end": 30763,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hans Rothenborg",
+    "start": 33960,
+    "end": 33974,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug",
+    "start": 63,
+    "end": 68,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug",
+    "start": 438,
+    "end": 443,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug",
+    "start": 645,
+    "end": 650,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug",
+    "start": 31910,
+    "end": 31915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaug",
+    "start": 34966,
+    "end": 34971,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Áslaugu Þorgeirsdóttur",
+    "start": 36166,
+    "end": 36187,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigríður Elsa Kjartansdóttir",
+    "start": 36569,
+    "end": 36596,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björn L. Bergsson",
+    "start": 36622,
+    "end": 36638,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðjón Ólafur Jónsson",
+    "start": 36654,
+    "end": 36674,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll Arnór Pálsson",
+    "start": 36687,
+    "end": 36704,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 37089,
+    "end": 37094,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 40347,
+    "end": 40352,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 40985,
+    "end": 40990,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnlaugur Claessen",
+    "start": 37155,
+    "end": 37173,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garðar Gíslason",
+    "start": 37177,
+    "end": 37191,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörg Benediktsdóttir",
+    "start": 37198,
+    "end": 37222,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björns L. Bergssonar",
+    "start": 41794,
+    "end": 41813,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðjóns Ólafs Jónssonar",
+    "start": 41817,
+    "end": 41839,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páls Arnórs Pálssonar",
+    "start": 41844,
+    "end": 41864,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingholtsstræti",
+    "start": 42337,
+    "end": 42351,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tælandi",
+    "start": 45587,
+    "end": 45593,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bankastrætis",
+    "start": 46652,
+    "end": 46663,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingholtsstrætis",
+    "start": 46668,
+    "end": 46683,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 47252,
+    "end": 47256,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 47936,
+    "end": 47940,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 48051,
+    "end": 48055,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 49858,
+    "end": 49862,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 51378,
+    "end": 51382,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hefði",
+    "start": 51636,
+    "end": 51640,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bankastrætið",
+    "start": 51132,
+    "end": 51143,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Birgi Briem",
+    "start": 52632,
+    "end": 52642,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bankastrætinu",
+    "start": 63629,
+    "end": 63641,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Arnþór Davíðsson",
+    "start": 68826,
+    "end": 68841,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

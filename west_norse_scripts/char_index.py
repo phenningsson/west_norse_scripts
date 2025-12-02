@@ -101,9 +101,9 @@ def find_entity_positions(clean_text, entities, output_file):
 
 def main():
     # File paths
-    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_final_text.txt'
-    entities_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/dipl_voluspa_entities.json'
-    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/dipl_voluspa_flat_entities_positions.jsonn'
+    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/clean_texts/adjudications.txt'
+    entities_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications.json'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications_entities_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")

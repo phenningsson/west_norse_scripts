@@ -1,0 +1,2810 @@
+[
+  {
+    "text": "Juliette Binoche",
+    "start": 110,
+    "end": 125,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Juliette Binoche",
+    "start": 1849,
+    "end": 1864,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Juliette Binoche",
+    "start": 2698,
+    "end": 2713,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Daniel Auteuil",
+    "start": 130,
+    "end": 143,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Daniel Auteuil",
+    "start": 2199,
+    "end": 2212,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 585,
+    "end": 591,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 1015,
+    "end": 1021,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 4508,
+    "end": 4514,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 4985,
+    "end": 4991,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 5023,
+    "end": 5029,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 5177,
+    "end": 5183,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 5476,
+    "end": 5482,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 5613,
+    "end": 5619,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 5806,
+    "end": 5812,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Georges",
+    "start": 6350,
+    "end": 6356,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anne",
+    "start": 596,
+    "end": 599,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Parísar",
+    "start": 656,
+    "end": 662,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Parísar",
+    "start": 4744,
+    "end": 4750,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Parísar",
+    "start": 6065,
+    "end": 6071,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Michael Haneke",
+    "start": 1054,
+    "end": 1067,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Michael Haneke",
+    "start": 6326,
+    "end": 6339,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Michael Haneke",
+    "start": 6882,
+    "end": 6895,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Meg Ryan",
+    "start": 1925,
+    "end": 1932,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 1062,
+    "end": 1067,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 2348,
+    "end": 2353,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 2599,
+    "end": 2604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 3556,
+    "end": 3561,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 6334,
+    "end": 6339,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Haneke",
+    "start": 6890,
+    "end": 6895,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 4612,
+    "end": 4616,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 4734,
+    "end": 4738,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 4948,
+    "end": 4952,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 5081,
+    "end": 5085,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 5154,
+    "end": 5158,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 5280,
+    "end": 5284,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 5358,
+    "end": 5362,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Majid",
+    "start": 5827,
+    "end": 5831,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Alsír",
+    "start": 4668,
+    "end": 4672,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Alsír",
+    "start": 5932,
+    "end": 5936,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakklands",
+    "start": 4848,
+    "end": 4857,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "París",
+    "start": 4905,
+    "end": 4909,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakkland",
+    "start": 5814,
+    "end": 5822,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakkland",
+    "start": 5849,
+    "end": 5857,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakkland",
+    "start": 6402,
+    "end": 6410,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakkland",
+    "start": 27982,
+    "end": 27990,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 7776,
+    "end": 7785,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 9515,
+    "end": 9524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 9557,
+    "end": 9566,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 9672,
+    "end": 9681,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 9779,
+    "end": 9788,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 9934,
+    "end": 9943,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kieslowski",
+    "start": 10446,
+    "end": 10455,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingmar Bergman",
+    "start": 7797,
+    "end": 7810,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sally Potter",
+    "start": 7814,
+    "end": 7825,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Alfonso Cuarón",
+    "start": 7853,
+    "end": 7866,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Krysztof Kieslowski",
+    "start": 9506,
+    "end": 9524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Krysztof Kieslowski",
+    "start": 9548,
+    "end": 9566,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Varsjá",
+    "start": 9578,
+    "end": 9583,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Irène Jacob",
+    "start": 10199,
+    "end": 10209,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Preisners",
+    "start": 10228,
+    "end": 10236,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Slawomir Idziak",
+    "start": 10258,
+    "end": 10272,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Póllandi",
+    "start": 10339,
+    "end": 10346,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakklandi",
+    "start": 10357,
+    "end": 10366,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakklandi",
+    "start": 20745,
+    "end": 20754,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Asíu",
+    "start": 11555,
+    "end": 11558,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Quentin Tarantino",
+    "start": 11748,
+    "end": 11764,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fernando Meirelles",
+    "start": 11924,
+    "end": 11941,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Meirelles",
+    "start": 11933,
+    "end": 11941,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Meirelles",
+    "start": 12008,
+    "end": 12016,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rocket",
+    "start": 12072,
+    "end": 12077,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 12233,
+    "end": 12239,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brasilíu",
+    "start": 12300,
+    "end": 12307,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brasilíu",
+    "start": 59299,
+    "end": 59306,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brasilíu",
+    "start": 59868,
+    "end": 59875,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steven Soderbergh",
+    "start": 12384,
+    "end": 12400,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jean Pierre Jeunet",
+    "start": 12495,
+    "end": 12512,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jesús",
+    "start": 13156,
+    "end": 13160,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jesús",
+    "start": 90967,
+    "end": 90971,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jesús",
+    "start": 98913,
+    "end": 98917,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jesús",
+    "start": 101893,
+    "end": 101897,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Judy Garland",
+    "start": 13384,
+    "end": 13395,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Judy Garland",
+    "start": 13728,
+    "end": 13739,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Judy Garland",
+    "start": 14816,
+    "end": 14827,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Judy Garland",
+    "start": 15095,
+    "end": 15106,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fred Astaire",
+    "start": 13400,
+    "end": 13411,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fred Astaire",
+    "start": 13796,
+    "end": 13807,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Don",
+    "start": 13466,
+    "end": 13468,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Don",
+    "start": 13614,
+    "end": 13616,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hannah",
+    "start": 13473,
+    "end": 13478,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Nadine",
+    "start": 13551,
+    "end": 13556,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dons",
+    "start": 13571,
+    "end": 13574,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hönnu",
+    "start": 13660,
+    "end": 13664,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gene Kelly",
+    "start": 13701,
+    "end": 13710,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kelly",
+    "start": 13706,
+    "end": 13710,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kelly",
+    "start": 13775,
+    "end": 13779,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Astaire",
+    "start": 13405,
+    "end": 13411,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Astaire",
+    "start": 13801,
+    "end": 13807,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Astaire",
+    "start": 13953,
+    "end": 13959,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 13389,
+    "end": 13395,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 13733,
+    "end": 13739,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 14158,
+    "end": 14164,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 14821,
+    "end": 14827,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 14836,
+    "end": 14842,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Garland",
+    "start": 15100,
+    "end": 15106,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kenny Baker",
+    "start": 14281,
+    "end": 14291,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kenny Baker",
+    "start": 15111,
+    "end": 15121,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Susan",
+    "start": 14328,
+    "end": 14332,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Em",
+    "start": 14518,
+    "end": 14519,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Angelu Landsbury",
+    "start": 14576,
+    "end": 14591,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Landsbury",
+    "start": 14583,
+    "end": 14591,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Landsbury",
+    "start": 14722,
+    "end": 14730,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mira Nair",
+    "start": 15225,
+    "end": 15233,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mira Nair",
+    "start": 15749,
+    "end": 15757,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sabrina Dhawan",
+    "start": 15273,
+    "end": 15286,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Punjab",
+    "start": 15308,
+    "end": 15313,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Punjab",
+    "start": 16032,
+    "end": 16037,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Nýju Delhi",
+    "start": 15350,
+    "end": 15359,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bollywood",
+    "start": 15483,
+    "end": 15491,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bollywood",
+    "start": 15614,
+    "end": 15622,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Indlandi",
+    "start": 15800,
+    "end": 15807,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mychael Danna",
+    "start": 15903,
+    "end": 15915,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sukhwinder Singh",
+    "start": 16050,
+    "end": 16065,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sukhwinder Singh",
+    "start": 17280,
+    "end": 17295,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Indland",
+    "start": 16298,
+    "end": 16304,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Aditi",
+    "start": 16448,
+    "end": 16452,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dubey",
+    "start": 16600,
+    "end": 16604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dubey",
+    "start": 16896,
+    "end": 16900,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dubey",
+    "start": 16975,
+    "end": 16979,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 18186,
+    "end": 18193,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgeirs Blöndals Magnússonar",
+    "start": 20245,
+    "end": 20272,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórarin Guðmundsson",
+    "start": 20437,
+    "end": 20455,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórarins",
+    "start": 20595,
+    "end": 20602,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórarinn",
+    "start": 20787,
+    "end": 20794,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árnessýslu",
+    "start": 21129,
+    "end": 21138,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árnessýslu",
+    "start": 69116,
+    "end": 69125,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs Kiljans Laxness",
+    "start": 23658,
+    "end": 23681,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnars Gunnarssonar",
+    "start": 23720,
+    "end": 23739,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigfúsi Blöndal",
+    "start": 23881,
+    "end": 23895,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Björns Halldórssonar",
+    "start": 24046,
+    "end": 24065,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigfúsi",
+    "start": 23881,
+    "end": 23887,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigfúsi",
+    "start": 24100,
+    "end": 24106,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Laxness",
+    "start": 24201,
+    "end": 24215,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Laxness",
+    "start": 64967,
+    "end": 64981,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Laxness",
+    "start": 77161,
+    "end": 77175,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Snæfellsnesi",
+    "start": 25373,
+    "end": 25384,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Snæfellsnesi",
+    "start": 65645,
+    "end": 65656,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs Laxness",
+    "start": 26647,
+    "end": 26662,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs Laxness",
+    "start": 67447,
+    "end": 67462,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs Laxness",
+    "start": 67740,
+    "end": 67755,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Spáni",
+    "start": 27964,
+    "end": 27968,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Evrópu",
+    "start": 27996,
+    "end": 28008,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danaveldis",
+    "start": 28434,
+    "end": 28443,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Akureyri",
+    "start": 31346,
+    "end": 31353,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Akureyri",
+    "start": 31548,
+    "end": 31555,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Akureyri",
+    "start": 51804,
+    "end": 51811,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlandi",
+    "start": 31366,
+    "end": 31376,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 31631,
+    "end": 31639,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 31930,
+    "end": 31938,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 100644,
+    "end": 100652,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyjafirði",
+    "start": 31845,
+    "end": 31853,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fjörðum",
+    "start": 33604,
+    "end": 33610,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fjörðum",
+    "start": 70220,
+    "end": 70226,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðurlandi",
+    "start": 33617,
+    "end": 33626,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðurlandi",
+    "start": 35174,
+    "end": 35183,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestmannaeyjum",
+    "start": 33632,
+    "end": 33645,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Húnaþing",
+    "start": 33669,
+    "end": 33676,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðaustur-",
+    "start": 35161,
+    "end": 35170,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestfjörðum",
+    "start": 35188,
+    "end": 35198,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestfjörðum",
+    "start": 64237,
+    "end": 64247,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlandi",
+    "start": 35418,
+    "end": 35428,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlandi",
+    "start": 67028,
+    "end": 67038,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suður-Múlasýslu",
+    "start": 35612,
+    "end": 35626,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdal",
+    "start": 35637,
+    "end": 35644,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdal",
+    "start": 35762,
+    "end": 35769,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdal",
+    "start": 36082,
+    "end": 36089,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdal",
+    "start": 36603,
+    "end": 36610,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdal",
+    "start": 36657,
+    "end": 36664,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Berufirði",
+    "start": 35657,
+    "end": 35665,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Berufirði",
+    "start": 36346,
+    "end": 36354,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austfirði",
+    "start": 35748,
+    "end": 35756,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stöðvarfjörð",
+    "start": 35877,
+    "end": 35888,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stöðvarfjörð",
+    "start": 36694,
+    "end": 36705,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fáskrúðsfjörð",
+    "start": 35893,
+    "end": 35905,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fáskrúðsfjörð",
+    "start": 36709,
+    "end": 36721,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Berufjörð",
+    "start": 35931,
+    "end": 35939,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Berufjörð",
+    "start": 73848,
+    "end": 73856,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Djúpavog",
+    "start": 35951,
+    "end": 35958,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Djúpavog",
+    "start": 37014,
+    "end": 37021,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lón",
+    "start": 35970,
+    "end": 35972,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lón",
+    "start": 36823,
+    "end": 36825,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lón",
+    "start": 37382,
+    "end": 37384,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lón",
+    "start": 37797,
+    "end": 37799,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hérað",
+    "start": 36108,
+    "end": 36112,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hérað",
+    "start": 36944,
+    "end": 36948,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hérað",
+    "start": 37932,
+    "end": 37936,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalshérað",
+    "start": 36121,
+    "end": 36135,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalshérað",
+    "start": 36896,
+    "end": 36910,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Héraði",
+    "start": 36162,
+    "end": 36167,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Héraði",
+    "start": 73012,
+    "end": 73017,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiðum",
+    "start": 36214,
+    "end": 36218,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallormsstað",
+    "start": 36229,
+    "end": 36240,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallormsstað",
+    "start": 78458,
+    "end": 78469,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eydölum",
+    "start": 36314,
+    "end": 36320,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðdalsvík",
+    "start": 36621,
+    "end": 36632,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reyðarfjörð",
+    "start": 36725,
+    "end": 36735,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Seyðisfjörð",
+    "start": 36767,
+    "end": 36777,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Álftafjörð",
+    "start": 36809,
+    "end": 36818,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Höfn",
+    "start": 36837,
+    "end": 36840,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hornafirði",
+    "start": 36844,
+    "end": 36853,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jökuldal",
+    "start": 36959,
+    "end": 36966,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jökuldal",
+    "start": 73000,
+    "end": 73007,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Papey",
+    "start": 37037,
+    "end": 37041,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austfjarða",
+    "start": 37130,
+    "end": 37139,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Seyðisfjarðar",
+    "start": 37347,
+    "end": 37359,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hornafjörð",
+    "start": 37389,
+    "end": 37398,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austfjörðum",
+    "start": 37492,
+    "end": 37502,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stöðvarfirði",
+    "start": 37727,
+    "end": 37738,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fjarðabyggðar",
+    "start": 37744,
+    "end": 37756,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hamarsfirði",
+    "start": 37777,
+    "end": 37787,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannes Helga",
+    "start": 39304,
+    "end": 39317,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vaðlaheiðar",
+    "start": 39916,
+    "end": 39926,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sauðárkróki",
+    "start": 50070,
+    "end": 50080,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Herdís Á. Sæmundardóttir",
+    "start": 50097,
+    "end": 50120,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ársal",
+    "start": 50286,
+    "end": 50290,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hagatorg",
+    "start": 50320,
+    "end": 50327,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Unnur Svavarsdóttir",
+    "start": 50374,
+    "end": 50392,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 50854,
+    "end": 50859,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 56395,
+    "end": 56400,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gullfoss",
+    "start": 51197,
+    "end": 51204,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gullfossi",
+    "start": 52636,
+    "end": 52644,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Glaumbæ",
+    "start": 54182,
+    "end": 54188,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "jökulsárlón",
+    "start": 54222,
+    "end": 54232,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Portúgal",
+    "start": 56129,
+    "end": 56136,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Portúgal",
+    "start": 56450,
+    "end": 56457,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Portúgal",
+    "start": 60355,
+    "end": 60362,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Coimbra",
+    "start": 56168,
+    "end": 56174,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Coimbra",
+    "start": 57737,
+    "end": 57743,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Porto",
+    "start": 56294,
+    "end": 56298,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Porto",
+    "start": 56360,
+    "end": 56364,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Río Douro",
+    "start": 56431,
+    "end": 56439,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Portúgal",
+    "start": 56443,
+    "end": 56457,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María mey",
+    "start": 57251,
+    "end": 57259,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Luso",
+    "start": 57680,
+    "end": 57683,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Buçaco",
+    "start": 57796,
+    "end": 57801,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Buçaco",
+    "start": 58470,
+    "end": 58475,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Úrban páfi áttundi",
+    "start": 57904,
+    "end": 57921,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Napóleons",
+    "start": 58548,
+    "end": 58556,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mealhada",
+    "start": 59487,
+    "end": 59494,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mealhada",
+    "start": 59697,
+    "end": 59704,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rio de Janeiro",
+    "start": 59652,
+    "end": 59665,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rio de Janeiro",
+    "start": 59754,
+    "end": 59767,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rio de Janeiro",
+    "start": 60325,
+    "end": 60338,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Búðardal",
+    "start": 63784,
+    "end": 63791,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlands",
+    "start": 63950,
+    "end": 63960,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vesturlandi",
+    "start": 64218,
+    "end": 64228,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vesturlandi",
+    "start": 66465,
+    "end": 66475,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 23658,
+    "end": 23665,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 26647,
+    "end": 26654,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 65377,
+    "end": 65384,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 66398,
+    "end": 66405,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 67447,
+    "end": 67454,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 67740,
+    "end": 67747,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldórs",
+    "start": 68333,
+    "end": 68340,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 24201,
+    "end": 24207,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 64967,
+    "end": 64973,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 65631,
+    "end": 65637,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 68479,
+    "end": 68485,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 68916,
+    "end": 68922,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór",
+    "start": 77161,
+    "end": 77167,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dalasýslu",
+    "start": 66340,
+    "end": 66348,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldóri",
+    "start": 66510,
+    "end": 66517,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austfirðir",
+    "start": 66583,
+    "end": 66592,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rang .",
+    "start": 67586,
+    "end": 67591,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rangárvallasýsla",
+    "start": 67608,
+    "end": 67623,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Steinar",
+    "start": 67836,
+    "end": 67842,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hlíðum",
+    "start": 67852,
+    "end": 67857,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tívolí",
+    "start": 67865,
+    "end": 67870,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skjóna",
+    "start": 68399,
+    "end": 68404,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigfúsar Blöndals",
+    "start": 68789,
+    "end": 68805,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Þingeyjarsýslu",
+    "start": 70165,
+    "end": 70185,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mýra-",
+    "start": 70833,
+    "end": 70837,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Borgarfjarðarsýslu",
+    "start": 70842,
+    "end": 70859,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Blöndals",
+    "start": 20253,
+    "end": 20260,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Blöndals",
+    "start": 68798,
+    "end": 68805,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Blöndals",
+    "start": 71004,
+    "end": 71011,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árna Magnússonar",
+    "start": 71167,
+    "end": 71182,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorbiörn Sveinsson",
+    "start": 71350,
+    "end": 71367,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Borgarfirde",
+    "start": 71372,
+    "end": 71382,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árna",
+    "start": 71167,
+    "end": 71170,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árna",
+    "start": 71536,
+    "end": 71539,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorbirni",
+    "start": 71597,
+    "end": 71604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorbjörn",
+    "start": 71722,
+    "end": 71729,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árni",
+    "start": 72004,
+    "end": 72007,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árni",
+    "start": 72087,
+    "end": 72090,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dölum",
+    "start": 72124,
+    "end": 72128,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgeir Sigurðsson",
+    "start": 72326,
+    "end": 72343,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kópavogi",
+    "start": 72347,
+    "end": 72354,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgeir",
+    "start": 72326,
+    "end": 72332,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgeir",
+    "start": 72422,
+    "end": 72428,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgeir",
+    "start": 72637,
+    "end": 72643,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgeirs",
+    "start": 72882,
+    "end": 72889,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pál",
+    "start": 73382,
+    "end": 73384,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vídalín",
+    "start": 73394,
+    "end": 73400,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austurlands",
+    "start": 73717,
+    "end": 73727,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vopnafirði",
+    "start": 73809,
+    "end": 73818,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Borgarfirði",
+    "start": 73825,
+    "end": 73835,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingeyjarsýslur",
+    "start": 73966,
+    "end": 73980,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingeyjarsýslur",
+    "start": 74351,
+    "end": 74365,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingeyjarsýslur",
+    "start": 75002,
+    "end": 75016,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyjafjörð",
+    "start": 74047,
+    "end": 74055,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skagafjörð",
+    "start": 74070,
+    "end": 74079,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Múla-",
+    "start": 74342,
+    "end": 74346,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mývatnssveit",
+    "start": 74443,
+    "end": 74454,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mývatnssveit",
+    "start": 74598,
+    "end": 74609,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðausturlandi",
+    "start": 74509,
+    "end": 74523,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austur-Skaftafellssýslu",
+    "start": 74950,
+    "end": 74972,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Múlasýslur",
+    "start": 74979,
+    "end": 74988,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rauðasandshreppi",
+    "start": 75257,
+    "end": 75272,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestur-Barðastrandarsýslu",
+    "start": 75276,
+    "end": 75300,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skógum",
+    "start": 78473,
+    "end": 78478,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalshéraði",
+    "start": 78482,
+    "end": 78497,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgeir Blöndal Magnússon",
+    "start": 80585,
+    "end": 80608,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þvottalaugarnar",
+    "start": 84870,
+    "end": 84884,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laugardal",
+    "start": 84888,
+    "end": 84896,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingholtsstræti",
+    "start": 85237,
+    "end": 85251,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 11884,
+    "end": 11887,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 88120,
+    "end": 88123,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 88722,
+    "end": 88725,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 89261,
+    "end": 89264,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guði",
+    "start": 88319,
+    "end": 88322,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guði",
+    "start": 90579,
+    "end": 90582,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laugaveginn",
+    "start": 89381,
+    "end": 89391,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakkastíg",
+    "start": 89452,
+    "end": 89461,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hlemm",
+    "start": 89476,
+    "end": 89480,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89762,
+    "end": 89764,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 90641,
+    "end": 90643,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 90749,
+    "end": 90751,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 91232,
+    "end": 91234,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 92200,
+    "end": 92202,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 92239,
+    "end": 92241,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 92656,
+    "end": 92658,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 103695,
+    "end": 103697,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 104200,
+    "end": 104202,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 104691,
+    "end": 104693,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjanna",
+    "start": 91091,
+    "end": 91103,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jesú",
+    "start": 99549,
+    "end": 99552,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Herði",
+    "start": 103258,
+    "end": 103262,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristínu",
+    "start": 103267,
+    "end": 103274,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Filippíu",
+    "start": 103576,
+    "end": 103583,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lilju",
+    "start": 103629,
+    "end": 103633,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurðar Kristófers",
+    "start": 103669,
+    "end": 103687,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

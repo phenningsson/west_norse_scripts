@@ -1,0 +1,658 @@
+[
+  {
+    "dipl_text": "Valgerður Jóhannsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerður Katrín Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarna Benediktssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarni Benediktsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Landsbankaútibúið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gullinbrú",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grafarvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Foldahverfi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Frostafold",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Davíð Oddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Finnur Ingólfsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Hörður Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svíþjóð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Áslaug Thorlacius",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lúðvík Bergvinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíð Oddssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lúðvík",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur Þór Gunnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Viktor Smári Sæmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Péturs Þórs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísafjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lárusar G. Valdimarssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norðvesturkjördæmis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísafjarðarbæjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jón Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bandaríkjanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þingvallavatn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður Oddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þingvöllum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þingvallaland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárastaða",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárastaðanesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Arnar Páll Hauksson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Ragnar Grímsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Baldur Ágústsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ástþór Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna Sigríður Arnardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi Hjörvar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldór Blöndal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Árni Stefánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar K. Guðfinnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helga Hjörvar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Konráð Alfreðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eiríkur Tómasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eirík",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrúnu Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannesi Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur Þór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrún Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannesar S. Kjarvals",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveins Kjarvals",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Niels Kirschberg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bredgade",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kaupmannahöfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólafur Ingi Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mogens Hoff",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannes S. Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrúnar Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétri Þór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannes Kjarval",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Ingi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldór Ásgrímsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónína Bjartmarz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólöf Rún Skúladóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðni Ágústsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siv Friðleifsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanur Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafn Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norðurlöndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrafn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bandaríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sviss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húsavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Evrópu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður Hreinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinar Þór Guðgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddgeir Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhanna Vigdís Hjaltadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll Benediktsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján L. Möller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðjón Ólafur Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni M. Mathiesen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg Sólrún Gísladóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur J. Sigfússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús Þór Hafsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóns Ásgeirs Jóhannessonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóns Ásgeirs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón H. B. Snorrason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldur Johannessen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón H. B.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóni Ásgeir Jóhannessyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggva Jónssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóni Geraldi Sullenberger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kjartan Gunnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Styrmir Gunnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Baldvin Hannibalsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðna Th. Jóhannessonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Maryland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Alþingishúsið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðni Jóhannesson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús Stefánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svíþjóðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðar Svavarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Náttfara",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norðausturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skjálfanda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Karl Gústaf 16",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Flateyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðureyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðmundur Björgvinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Önundarfjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðrún S. Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurlandsvegar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurlandsvegarins",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Selfoss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjanesbrautinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorvarður Hjaltason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús Hlynur Hreiðarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorvarður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hverfisgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Edda Þórey Guðnadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Héðinn Halldórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sturla Böðvarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hellisheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárahnjúkavirkjun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Impregilo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reyðarfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fljótsdalshéraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fljótsdalshreppi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárahnjúkavirkjunar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárahnjúkum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fossvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Davíð Egilsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónínu Bjartmarz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurður Helgasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólveig Pétursdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundur Jónasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geir H. Haarde",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykjavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Inga Dóra Sigfúsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Inga Dóra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Guðlaugsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "María Sigrún Hilmarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "María",
+    "label": "PER"
+  }
+]

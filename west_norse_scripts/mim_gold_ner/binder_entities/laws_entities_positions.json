@@ -1,0 +1,994 @@
+[
+  {
+    "text": "Íslands",
+    "start": 83,
+    "end": 89,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 8902,
+    "end": 8908,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 31532,
+    "end": 31538,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 32999,
+    "end": 33005,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33188,
+    "end": 33194,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33212,
+    "end": 33218,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33253,
+    "end": 33259,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33319,
+    "end": 33325,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33475,
+    "end": 33481,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 33581,
+    "end": 33587,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 35327,
+    "end": 35333,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 36579,
+    "end": 36585,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 36694,
+    "end": 36700,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 36768,
+    "end": 36774,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 61195,
+    "end": 61201,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 61915,
+    "end": 61921,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 62358,
+    "end": 62364,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 67097,
+    "end": 67103,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 67334,
+    "end": 67340,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 71117,
+    "end": 71123,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 71188,
+    "end": 71194,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 72901,
+    "end": 72907,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 74004,
+    "end": 74010,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 74721,
+    "end": 74727,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 74992,
+    "end": 74998,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 75043,
+    "end": 75049,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 80149,
+    "end": 80155,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 82896,
+    "end": 82902,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 83444,
+    "end": 83450,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 84260,
+    "end": 84266,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 85906,
+    "end": 85912,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 86078,
+    "end": 86084,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 91769,
+    "end": 91775,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 93584,
+    "end": 93590,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 95167,
+    "end": 95173,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 95319,
+    "end": 95325,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 96472,
+    "end": 96478,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 96610,
+    "end": 96616,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 96661,
+    "end": 96667,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 102239,
+    "end": 102245,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 108589,
+    "end": 108595,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 182534,
+    "end": 182540,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 183546,
+    "end": 183552,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 219189,
+    "end": 219195,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 219442,
+    "end": 219448,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 220256,
+    "end": 220262,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 220293,
+    "end": 220299,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 220445,
+    "end": 220451,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 221919,
+    "end": 221925,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 228473,
+    "end": 228479,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 231509,
+    "end": 231515,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 231569,
+    "end": 231575,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 232945,
+    "end": 232951,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 233475,
+    "end": 233481,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 235843,
+    "end": 235849,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 237103,
+    "end": 237109,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 237307,
+    "end": 237313,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 240413,
+    "end": 240419,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 241860,
+    "end": 241866,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 243277,
+    "end": 243283,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 243485,
+    "end": 243491,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 243855,
+    "end": 243861,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 244101,
+    "end": 244107,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 244273,
+    "end": 244279,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 244768,
+    "end": 244774,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 244926,
+    "end": 244932,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 9236,
+    "end": 9241,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 34239,
+    "end": 34244,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 58590,
+    "end": 58595,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 86974,
+    "end": 86979,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 178625,
+    "end": 178630,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópuríkja",
+    "start": 11278,
+    "end": 11288,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 11992,
+    "end": 11998,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 62292,
+    "end": 62298,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 120557,
+    "end": 120563,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 177557,
+    "end": 177563,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 190661,
+    "end": 190667,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 203131,
+    "end": 203137,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 27563,
+    "end": 27570,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll Hreinsson",
+    "start": 31483,
+    "end": 31496,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Drífa Pálsdóttir",
+    "start": 31553,
+    "end": 31568,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valborg Þ. Snævarr",
+    "start": 31627,
+    "end": 31644,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristrún Kristinsdóttir",
+    "start": 31692,
+    "end": 31714,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhanna Gunnarsdóttir",
+    "start": 31804,
+    "end": 31824,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 34074,
+    "end": 34079,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 55659,
+    "end": 55664,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 116864,
+    "end": 116869,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhönnu Bryndísi Bjarnadóttur",
+    "start": 34647,
+    "end": 34675,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skúla Guðmundsson",
+    "start": 35269,
+    "end": 35285,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Akranesi",
+    "start": 36794,
+    "end": 36801,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 36821,
+    "end": 36829,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 110191,
+    "end": 110199,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 146285,
+    "end": 146293,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Aðalsteins Sigfússonar",
+    "start": 37359,
+    "end": 37380,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðfinnu Eydal",
+    "start": 37384,
+    "end": 37397,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeirs Magnússonar",
+    "start": 37402,
+    "end": 37421,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Nyland",
+    "start": 58606,
+    "end": 58611,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Finnlandi",
+    "start": 58618,
+    "end": 58626,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Ingi Gunnlaugsson",
+    "start": 81426,
+    "end": 81452,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rangárvallahrepps",
+    "start": 81470,
+    "end": 81486,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar Sæmundsson",
+    "start": 81490,
+    "end": 81506,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar Sæmundsson",
+    "start": 102407,
+    "end": 102423,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hrútatungu",
+    "start": 81518,
+    "end": 81527,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörg Ólöf Vilhjálmsdóttir",
+    "start": 81531,
+    "end": 81560,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristján Bjarndal Jónsson",
+    "start": 81647,
+    "end": 81671,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigríður Björnsdóttir",
+    "start": 81728,
+    "end": 81748,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnars Sæmundssonar",
+    "start": 82243,
+    "end": 82262,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Sophusson",
+    "start": 106133,
+    "end": 106151,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sveinn Magnússon",
+    "start": 106180,
+    "end": 106195,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar Tómasson",
+    "start": 106275,
+    "end": 106289,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ólafur Proppé",
+    "start": 106294,
+    "end": 106306,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón Magnússon",
+    "start": 106345,
+    "end": 106357,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bogi Hjálmtýsson",
+    "start": 106404,
+    "end": 106419,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hafnarfirði",
+    "start": 106462,
+    "end": 106472,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sandra Baldvinsdóttir",
+    "start": 106509,
+    "end": 106529,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestmannaeyjum",
+    "start": 115593,
+    "end": 115606,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halldór Blöndal",
+    "start": 219254,
+    "end": 219268,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðmundur Árni Stefánsson",
+    "start": 219272,
+    "end": 219296,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jónína Bjartmarz",
+    "start": 219300,
+    "end": 219315,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þuríður Backman",
+    "start": 219319,
+    "end": 219333,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurjón Þórðarson",
+    "start": 219337,
+    "end": 219354,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svíþjóð",
+    "start": 238885,
+    "end": 238891,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Noregi",
+    "start": 238896,
+    "end": 238901,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þýskalandi",
+    "start": 239068,
+    "end": 239077,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

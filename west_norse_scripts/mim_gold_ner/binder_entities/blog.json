@@ -1,0 +1,5230 @@
+[
+  {
+    "dipl_text": "Guð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesús Kristur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesú Krists",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nasaret",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jesú Kristi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Shakespears",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Drottinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesaja",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hannes Þ. Guðrúnarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kvíabryggju",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Akureyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesú frá Nasaret",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesú",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesús",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Galíleuvatn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hamborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svanfríður svankovits",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bert",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tale",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Maine",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hr. Navy",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hreggviðssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanfríður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragga Bjarna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "USA",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halldór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stella",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Berts",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Chicago",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Helena",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Briana",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "George",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanfríður svankóvits",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bandaríkjanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Alabama",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Talé",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Cary",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kate Moss",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ammríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyjólf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Örn Kjartansson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmund",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Örn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hlíðartúninu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Wisconsin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Milwaukie",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Illinois",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Wisconsins",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Englandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Inda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indu Bjarkar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mary",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tom",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfur Aiden",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Illinois-svæðinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svanhildi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ómari Ragnarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bessa Bjarna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfur Heitinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íraks",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Texas",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Írak",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "BOB",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bandaríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bangsimon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Frílinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Heffalump",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Swany",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herra Navy",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Benjamin Britten",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólf Arnarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mikka ref",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egilsstöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "M.Luther King",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Shindler",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Shindlers",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Washington DC",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austurríki",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bolli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hring",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nadia",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tina Johansen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sandágerð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Slættaratind",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grænlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Japan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kína",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rússland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Olga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lampojavits",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bob",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Baaa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marley",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Endholz",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "St. Valentin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hollywood",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svanfríður Eygló",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinbjörn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eiðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eygló",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Höfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnhildur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ÓFRÍÐUR",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Austurríkis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svanfríði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyglóar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Igloo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ugly",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Swany Getchell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanfríður Eygló Arnardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðlaug Gunnþóra Hestnes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gúlíver",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Putalandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "GUÐ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pál Óskar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Benny Hinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "laugaveginum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "alex",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "larry david",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "curvers",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ninu hagen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "amríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kristbjörg Kristjánsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fríða Rós Valdimarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "R.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kr.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "K",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "F",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "E",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kiddý",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tuvahéraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ninu Hagen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Curver",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bibbi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddlaug Sjöfn Árnadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "alaska",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "palli maus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "GWEN STEFANI.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "SAM MALONE",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "KELLY CLARKSON",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "KEVIN FEDERLINE",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "JOHN KERRY",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brenda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jake",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brandon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dylan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kelly softmore",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kelly senior",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "steeeeve",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "braaaandon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brrrreeeenda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dylans",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ragnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "andrea zuckerman",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "andrea",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bubba",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "barry manilow",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ryan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hjöllunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "gunnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "agnari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "solla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "agnar burgess",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "freyr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þurý",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "maggi legó",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jóa bé",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baddi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þormóður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "elís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "maja",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "peaches",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "biggi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rosemary",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gísli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "æsa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dollí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "talía",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "love gúrú",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gísla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "licious",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lou reed",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "robbie williams",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mel gibson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ívar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "linda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lulach",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "london",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "sindra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "palli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helgu möller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ingó",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dabbi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "tóti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kippi kaninus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jonni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "leatherface",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "elvis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "einar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "erp",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "skúla helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jónas",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "togga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "daníel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "daaaaaníeeeeel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lóa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þröstur3000",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "frikki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þráinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "laxness",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "möggu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "úlfar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jónki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vivid brain",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "calvin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kat",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jonna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "stebbi hill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eyjó",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "skapta ólafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kiddi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sindri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "flóki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egill nagport",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "óla té",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kippa kaninus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geira",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jonniebegoode",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "frikki væsepli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nietche",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sigurjóni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brynjar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ólafs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnar g",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "chris",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bjarna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bjarni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jonathan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mike",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "madonnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kylie",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mark owen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykjavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "God",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "chet baker",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sveinbjörn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "stefán",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "baldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sigurjón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "árni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hrebbna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "arnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ingvi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "frank",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rósa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mosó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "arnór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunna más",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "palla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lubba",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mása",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nóra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lúlla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gumma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "opruh",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sirrýar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "erpur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "heimi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helgi björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vilborgu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þingvöllum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "arnóri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gunninn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "grímur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "einarr",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "toggmeister",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ástaló",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kriz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dr.gunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nonna nýdönsk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "rögnu söbterreiníen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eldari",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ronaldo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "becks",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kópavogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "rauðarárstíg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hverfis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hlemmi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hverfisgötuna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "rauðó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "viðey",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "toggi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Toggipop",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lubbi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lubbi tíkarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "laugaveginn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hermann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurjón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Katrínu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragurinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bragur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gnarrinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "miklubrautinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "geir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "katrín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þossi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "europe",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "snæfellsjökli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "suður-kóreu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "björkin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kollstersins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "björk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "austurvöllurinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "jussi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kiddu rokk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "henni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "brynjar elí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "birgitta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hemma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "svala",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "svali",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kela",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helga skronst",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "goða má",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "daða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "daði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "stefáni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mumma",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mummi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "austurvelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "nóri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lína",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "pats",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "eddí",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kollsterinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "betunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "línu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "reynsi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "herra breakbeat",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "oddur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "raggó",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jommi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gylfa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gylfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dóri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "neshaganum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "hagamel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "humar79",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "humarsjötíogníuuuuuu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "helgu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "humar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "katrínu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "bent",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "steina",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vitastígnum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "eyþór arnalds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "árna þór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kollsternum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hobbes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ragnheiði gestsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "adda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "jonnie",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þóru",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gulla gemsa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "geiri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gummi jóh",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ella",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "lee",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "trausta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "magnea",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "doddi litli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sigrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "guðjón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "gumma jóh",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "mister vicktoria",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ceres 4",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "hildur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "manuelu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "manuela",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þránni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "söru",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Beta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "berlínar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "júlli kemp",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ice t",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "vanilla ice",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "ice cube",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "óli té",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "finnlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "sigurjóni kjartanssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "dj.rap",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "LUBBA",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "nesinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "móu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "þorsteinn guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "elín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "shakira",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "britney",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "sheril crow",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "celine dion",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "kanada",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sindri Eldon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "G.Jóh",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Roger Waters",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jens",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Waters",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Houston",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Osló",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Saga Lounge",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Keflavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gilmour",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "GWB",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brasilíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Iceland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Morrissey",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn Ingi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grafarvoginum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austurvelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Laugaveginn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sturla Böðvarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnsmýrinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkursvæðinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklubrautar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kringlumýrarbrautar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dagur B.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykajvíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vilhjálmur Þ.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dagur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Örfirisey",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vilhjálmur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lækjartorg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valhöll",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkingum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andrew Sullivan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "California",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lissabon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Seattle",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Danmörku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Agli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturbænum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Neil Young",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Neil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Trent Reznor",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Johnny Cash",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Cash",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Trents",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Trent",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "June Carter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "RVK",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyþór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyþór Arnalds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geir Haarde",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sylvía Nótt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bob Dylan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dylan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "GWBush",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Young",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steven Gerrard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "París",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eiffel turninn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Trocadero",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Signu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Frakkar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Venezuela",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "PARÍSAR",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bill Maher",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Seltjarnarnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Seltjarnarnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Parísar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Colbert",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bush",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hvíta Hússins",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Washington",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "George W. Bush",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stephen Colbert",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Perú",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mexíkó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vilhjálm Þ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einars Kára",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ljubljana",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Slóveníu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Adríahafsins",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ítalíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Júgóslavíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Adríahafið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Koper",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Piran",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dubrovnik",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Króatíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Predjama",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bled",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Alpanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sovétríkjanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stalíns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sovétríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rússlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andra Snæ Magnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjórsárver",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðlingaölduveita",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þjórsárverum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kárahnjúkum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andri Snær",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Andra Snæs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerður Sverrisdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stalín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturlanda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Elías Davíðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísraelsríki",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Matti",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brussel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Benelux",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Utrecht",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Amsterdam",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rembrandt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jensi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grand Place",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andra Snæ",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kárahnjúka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hollandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Belgíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ármanns Jakobs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágústi Fl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hemma Gunn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Völu Matt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "James Blunt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Julio Iglesias",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hvalfjarðargöngunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "JL húsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Katie",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tom Wolfe",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "New York",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tom Perrotta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Perrotta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Malcolm Gladwell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gladwell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marina Lewycka",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Liverpool",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bretlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hallgrímur Helgason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Canada",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mexico",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Barca",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Barcelona",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jose Mourinho",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mourinho",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ronaldinho",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Europa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lower Centenary",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rafa Benitez",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Istanbúl",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kop",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Robbie Fowler",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Manhattan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Nashville",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólöf",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mið-Ameríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lionel Messi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lundúna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "London",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halldór Ásgrímsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lundúnum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hugo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hugo Chávez",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Condoleeza Rice",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rice",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Chávez",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Caracas",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hvíta húsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Venesúela",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hugo Cavez",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kúbu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Castro",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fidels",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "SH",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norður-Kóreu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Venezulea",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grant Park",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Cheney",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dick Cheney",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon Stewart",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rob Corddry",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rob",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harry Wittington",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Whittington",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "America",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dagur B",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrún Elsa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Andrés",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddný",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helga Rakel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinunn Valdís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dofri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán Ben",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán Jóhann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristjáni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Robert Huth",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brad Pitt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Múhameð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sádí Arabíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mekka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Pakistan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Saudi Arabia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Denmark",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indonesia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Syria",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lebanon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Boy George",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Breiðholtinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Laddi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Silvía Nótt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill Helgason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Egils",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Geir Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Geir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kölnar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Köln",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Halli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Crystal Parizanski",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kópavogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jensa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gillzenegger",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Malmö",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stokkhólms",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sverige",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Köben",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stórabeltisbrúna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Paris Hilton",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svíþjóð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stokkhólmi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hjálmars Árnasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hjálmar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Quentin Tarantino",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Quentin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eggerti Skúlasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Chihi Peralta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tom Jones",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yucatan-Mexíkó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "El Salvador",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garífuna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tikal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Caye Caulker",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Cancun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "El-Salvador",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hondúras",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gvatemala",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Belize",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Yucatan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hallgrími Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallgrímur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ben Stiller",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sufjan Stevens",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Genni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Washington D.C .",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "George W Bush",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sufjan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Edan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kanye",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kanye West",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Madonna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Madonnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Common",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "The Game",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ben Folds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bruce Springsteen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Beck",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Flygenrings",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pólland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Varsjá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þýskaland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tékkland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Prag",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Holland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Breda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svíðþjóð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stokkhólmur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gautaborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tyrkland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "England",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "York",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kettering",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norður-Ameríka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kanada",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mið-Ameríka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Karabíska Hafið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kúba",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bahamas",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-Ameríka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Argentína",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bólivía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Brasilía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Chile",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kólumbía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ekvador",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Paragvæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Urugvæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Evrópa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Belgía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Danmörk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Frakkland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ungverjaland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lúxembúrg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Noregur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Portúgal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Spánn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sviss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bretland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Afríka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mið-Austurlönd",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Asía",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Emil",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fossvogskirkjugarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Önju",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Livingston",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rio Dulce",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garifuna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Manúelu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dr. Gunna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefáni Páls",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kelly Clarkson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kelly",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Clarkson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nina",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snoop Dogg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Justin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birgir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Michigan Avenue",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stephen King",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jenný",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðna Ágústs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sirrýjar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lenín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ameríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "X",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Unnur Birna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Unni Birnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Örn Arnarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Unnar Birnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Unnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Unnur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "UK",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "US",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Zidane",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tyrklands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bosphorous",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Roatan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Justin Timberlake",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Buckley",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Damien Rice",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "J.Cash",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eggert Skúlason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hildur Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórdísar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dísukoti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jói",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Finnland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Helsinki",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Joönnu Newsom",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Silvía",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Silvíu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Selmu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "A-Evrópu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórdís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valdastöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eggertsgatan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eggertsgötunni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húsafelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Breiðholtið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grýtubakkann",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "June",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ralph Fiennes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rachel Weisz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reese Witherspoon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorvaldur Bjarni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigga Hall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kjósinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Óla Geir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ásdís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "V.",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kjós",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rue Margueritte",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "S.",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "E.",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lanzarote",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sunny Beach",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Búlgaríu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Krít",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Nick Cave",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elliott Smith",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svölu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Selmu Hrönn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lýður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Heiða María",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Húsafell",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ragga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorra",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Móu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Önnu Katrínu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna Katrín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Selma Hrönn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "George Michael",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steina",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Antony",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Núma Fannsker",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jussa Björling",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Meg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jack White",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Silvíu Nótt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sylvía",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "-Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "-Smáborgaranum",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sölvína",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Evrópu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarhúsið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hermigervill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hafnarhússins",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þjóðleikhúskjallarans",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "José González",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Feneyjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hornafjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andrew Ridgeley",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyfi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjòlfur Kristjàns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nick Drake",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "El Golfo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Brennda",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brenndan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kjòsinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Krossá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "siggamusar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Odda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrútafjörðinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stúdentagörðunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurnesjum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjanes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðskagavita",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjanestá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sandgerði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Leoncie",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykjanesvita",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grindavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Krýsuvíkurleiðina",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mónakó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Albert fursta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alice Cooper",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jonathan Richman",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jonathan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Cat Power",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mugison",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Önnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturlandsvegi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Pitt",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eþýópíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Angelinu Jolie",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Túngötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Landakot",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gullfoss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Elísabet Englandsdrottning",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elísabet",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stokkseyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hljómskálagarðinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bubba",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þingvallavatni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kjósina",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hlöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Finnlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dumbledore",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snape",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Malfoy",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "siggimus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reyðarfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kjalarnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svarthöfði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kanaríeyja",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suomi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Finnlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vanda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vantaa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigrúnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Joensuu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Porvoo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Viivi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hönnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norge",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grímsnesinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rúanda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skype",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kevin Bacon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stokkhóms",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjólfsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hasselhoff",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jimmy Page",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannesar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Björn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tótu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gróttu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þ.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gummi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hugleiks",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallgerður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Devon Gummersall",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétursson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árnagarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnari Smára",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnari Smára Egilssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísla Hjartarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Austfjörðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Einar Már Sigurðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónas Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siv Konráðsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnajökli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Míkael Torfason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísli Hjartarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísafirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Geir H. Haarde",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Clint Eastwood",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Baldvin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bretadrottningar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturgötunni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Andrésar Jónssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björgvins G. Sigurðssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Andrési Jónssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gagaríns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birta",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Esperönsu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Keflavíkurflugvelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birtu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Flóki",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kalli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðari Garðarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldórs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ánanaustin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Björgvin G. Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Píus páfa XII.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Píusi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hitlers",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þýskalandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Píus XII",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Inga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Enginn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórarin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ósi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Steingrímsfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Anfield",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Geirs Waage",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn Bjarnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Ólafsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lobbi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíðs Oddssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árný",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingveldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "James Meek",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni Óskarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Austur-Anglíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Malcolm Bradbury",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Norwich",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bradbury",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Meek",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Síberíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Moskvu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fríða",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bye",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kemal Atatürk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tyrklandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðars Cortes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingveldur Esperansa",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Solomon Turk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolombíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Carlosar Ferqueira",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kólmbíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Carlos",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bogota",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Borghese",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gabríels Garcia Marquese",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hugh Grant",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sano",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svartahafið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ataturk",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Seljaveginum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jónas Svafár",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundi Gunnarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Seljavegurinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Togo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Afríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lome",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norður-Togo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Njarðar P. Njarðvík",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannes í Bónus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafn Jökulsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafns Jökulssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gylfa Arnbjörnssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðar Garðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einars Odds Kristjánssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ara Edwald",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Oddur Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinunnar Valdísar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jakob F. Ásgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jakob",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Glúmur Jón Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjargar Sólrúnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll Halldórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíð Oddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorstein Pálsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðna Th. Jóhannessona",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni Bjarnasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Cameron",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "David Camerons",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Charles Kennedy",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "David Cameron",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gordon Brown",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tony Blairs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Blair",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brown",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Camron",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Michael Howard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Richard B. Myers",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "John McCain",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íran",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Condoleezza Rice",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "McCains",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturlöndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "McCain",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerðar H. Bjarnadóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur J. Sigfússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur J.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrún Halldórsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn Sveinbjarnardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhönnu Sigurðardóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerðar Bjarnadóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Árni Stefánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alþingishúsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Siv Friðleifsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lomé",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Njörð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Frakklandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Njarðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Beru",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Senegal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorgerður Katrín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur Sigurgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrími",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerðar Katrínar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurðar Nordal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldórs Ásgrímssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríðar Önnu Þórðardóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóns Kristjánssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerði Katrínu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tony Blair",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "David Davis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Camerons",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Notting Hill",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "George Osborne",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mörður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "David Attenborough",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Churchill",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valberg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skúli Valberg Ólafsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valbergs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafs Jóhanns Sigurðssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björgólfs Guðmundssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Jóhann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólaf Jóhann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Styrmi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykholt",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Myrði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einari Karli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óskars Guðmundssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorrastofu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Óskar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snorri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gissur Þorvaldssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gissur Þorvaldsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óskars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Véum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Geir Waage",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur Hermannsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn Inga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alfreðs Þorsteinssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kalli Sveins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björns Inga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jórunn Frímannsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tjörnina",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þráins Bertelssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þráinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldur Johannessen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þráins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnús Mínus",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fay Weldon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðleikhúskjallarann",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þjóðleikhúskjallaranum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Davíð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn Ingi Hrafnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alfreð Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni Inga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Önnu Kristinsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alfreðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Alfreð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni Ingi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónína Bjartmarz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónínu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðna Ágústssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steve Hadley",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Donal Rumsfeld",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dick Cheynee",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslendinga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Leidenheet",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "BNA",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Davíð Oddssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrétar Ragnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sandra Franks",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björgólfur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Karli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margréti Ragnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hafnafirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurkjördæmi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Matthías",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Birgisson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríður Anna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Moskó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árni Johnsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Reykjanesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurkjördæmið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árna Johnsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mörður Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur B. Guðnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Merði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íkaros",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Daidalos",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísla Martein",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilhjálm",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólfstorginu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Siglufirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austurvöllur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austurstrætið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ingólfstorgi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skólavörðuholtið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurlandsbrautina",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Einar Karl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lækjargötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Aðalstræti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Róm",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hildar Hákonardóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hildi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Laugum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlöndunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mörð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni M. Mathiesen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siv",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óla Birni Kárasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórhalli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingríms J. Sigfússonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrím",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingríms",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ráðhúsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólafur Ragnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmund",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðar Sverrisson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Styrmir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingrímur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jakobshólmann",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Öxaránni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóhanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rannveig",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svandísi Svavarsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Friðjón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnarsstöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorgeir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ögmundur Jónasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einars K. Guðfinnssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilhjálmur Þ. Vilhjálmsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísla Marteini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grafarvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gísla Marteins",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilhjálmi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gísli Marteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árnýju",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birgi Ármannsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valdísi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnsmýrina",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vilhjálms",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónas",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árnýjar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurjón M. Egilsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólaf Teit Guðnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Smára",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrúnar Bergþórsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrúnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þráinn Bertelsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristinn Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurður G. Guðjónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Manga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ikaros",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "George Orwell",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Maríönnu Bye",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suffolk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Beccles",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Maríanna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Richard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ruth Kelly",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Los Angeles",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Taiwan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kóreu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Greenwich",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Walter Raleigh",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Htun han",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Burma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mai-Li",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Long Island",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birni Jónassyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Barnardo",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lundúni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jónasar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Keith Brander",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Londres",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Douglas Alexander",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Asíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hjálmar Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Oddur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðni Ágústsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján L. Möller",
+    "label": "PER"
+  }
+]

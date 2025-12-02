@@ -1,0 +1,234 @@
+[
+  {
+    "dipl_text": "Áslaug Þorgeirsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Benedikt Ólafsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurbjörn Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dómhúsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lækjartorg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Allani Vagni Magnússyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elínu Ólafsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóni Hjaltalín Ólafssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán A. Svensson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nygaardsvej",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kaupmannahöfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skipholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Helgi Skaftason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birni Daníelssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíð Gíslasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingríms Davíðssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Viðars Más Matthíassonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingimundar Sveinssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristínar Þórðardóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilhjálms H. Vilhjálmssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Malmö",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bodil Knutsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dr. Hans W. Rotenborg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björns Rúnars Lúðvíkssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Danmörku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gentofte",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bolla Bjarnasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björns Daníelssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíðs Gíslasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnari Kristinssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hans Rothenborg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áslaug",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Áslaugu Þorgeirsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Allan V. Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elín Þ. Ólafsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Hjaltalín Ólafsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríður Elsa Kjartansdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn L. Bergsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðjón Ólafur Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll Arnór Pálsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Evrópu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnlaugur Claessen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðar Gíslason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg Benediktsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björns L. Bergssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðjóns Ólafs Jónssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páls Arnórs Pálssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þingholtsstræti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tælandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bankastrætis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þingholtsstrætis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hefði",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bankastrætið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birgi Briem",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bankastrætinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Arnþór Davíðsson",
+    "label": "PER"
+  }
+]

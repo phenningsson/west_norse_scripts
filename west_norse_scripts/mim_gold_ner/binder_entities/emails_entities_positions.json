@@ -1,0 +1,474 @@
+[
+  {
+    "text": "Ísland",
+    "start": 722,
+    "end": 727,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 9574,
+    "end": 9579,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gustav Björkstrand",
+    "start": 1933,
+    "end": 1950,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll Skúlason",
+    "start": 3082,
+    "end": 3094,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll Skúlason",
+    "start": 14389,
+    "end": 14401,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skriðu",
+    "start": 3233,
+    "end": 3238,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteini Ó.",
+    "start": 3426,
+    "end": 3436,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteinn",
+    "start": 3037,
+    "end": 3044,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteinn",
+    "start": 3677,
+    "end": 3684,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteinn",
+    "start": 4788,
+    "end": 4795,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteinn",
+    "start": 11150,
+    "end": 11157,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteins",
+    "start": 4415,
+    "end": 4422,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteins",
+    "start": 7322,
+    "end": 7329,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 5223,
+    "end": 5229,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 5473,
+    "end": 5479,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 6541,
+    "end": 6547,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Magnús K. M.",
+    "start": 6001,
+    "end": 6012,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgu Ö.",
+    "start": 6651,
+    "end": 6658,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vésteins Ó.",
+    "start": 7322,
+    "end": 7332,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 3082,
+    "end": 3085,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 7586,
+    "end": 7589,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páll",
+    "start": 14389,
+    "end": 14392,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Island",
+    "start": 9305,
+    "end": 9310,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "USA",
+    "start": 9315,
+    "end": 9317,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norge",
+    "start": 9406,
+    "end": 9410,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Amager",
+    "start": 11372,
+    "end": 11377,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Strikinu",
+    "start": 11414,
+    "end": 11421,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hjördísi",
+    "start": 11710,
+    "end": 11717,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorsteinn Loftsson",
+    "start": 11771,
+    "end": 11788,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannes Reynisson",
+    "start": 12023,
+    "end": 12040,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sutton",
+    "start": 12112,
+    "end": 12117,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Læknagarði",
+    "start": 12197,
+    "end": 12206,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorsteins L.",
+    "start": 12282,
+    "end": 12293,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorsteini Loftssyni",
+    "start": 13229,
+    "end": 13247,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Páls Skúlasonar",
+    "start": 14490,
+    "end": 14504,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sofierokastalanum",
+    "start": 15804,
+    "end": 15820,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helsingborg",
+    "start": 15844,
+    "end": 15854,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gustav VI Adolf",
+    "start": 15902,
+    "end": 15916,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ítalíu",
+    "start": 15974,
+    "end": 15979,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pompeji",
+    "start": 15996,
+    "end": 16002,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 2926,
+    "end": 2932,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 3072,
+    "end": 3078,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 3113,
+    "end": 3119,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 3257,
+    "end": 3263,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 4307,
+    "end": 4313,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 8316,
+    "end": 8322,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 8394,
+    "end": 8400,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 10395,
+    "end": 10401,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 13805,
+    "end": 13811,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 14524,
+    "end": 14530,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 16120,
+    "end": 16126,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Heiðmörk",
+    "start": 21196,
+    "end": 21203,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Per-Eric Johansson",
+    "start": 23772,
+    "end": 23789,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malmö",
+    "start": 23845,
+    "end": 23849,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pelles",
+    "start": 23992,
+    "end": 23997,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pelles",
+    "start": 24570,
+    "end": 24575,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skáni",
+    "start": 24059,
+    "end": 24063,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stokkhólmi",
+    "start": 24077,
+    "end": 24086,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Napóleons 1",
+    "start": 24195,
+    "end": 24205,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

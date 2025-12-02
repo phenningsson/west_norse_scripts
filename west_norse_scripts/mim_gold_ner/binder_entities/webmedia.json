@@ -1,0 +1,786 @@
+[
+  {
+    "dipl_text": "Arons Arnarsonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Marcus MacKay",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurði H. Guðmundssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnlaugi Lárussyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bela",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Nick Drake",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "John Martyn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skotland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Glasgow",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kristján Már",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hjörleifur Hjartarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldór Ingi Ásgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhann Antonsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hafnartorgi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dalvík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóhann",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjafjarðarsvæðinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Akureyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólafsfjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húsavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórshöfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mývatn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Egilsstaðir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Siglufjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sauðárkrókur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyjafjörðinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólafsfjöðrður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þelamörk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrafnagil",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svalbarðseyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grenivík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grímsey",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Siglufirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svalbarðsströnd",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyjafjarðarsveit",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Laufás",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Inga Jóhannesdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þönglabakka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorgeirsfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hvalvatnsfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Inga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjörðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorgeiri",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgeirsfjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þönglabakki",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóhannes Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóni Reykjalín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þönglabakkaprestakalls",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóhannes",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrúnu Hallgrímsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hóli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kussungstöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kussungstaði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Látra-Bjargar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steindyrum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Látraströnd",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjörðu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þistilfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ingu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Draflastöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fnjóskadal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bjarna Gunnarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanfríður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óla Hjálmarssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brekku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrúnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rúnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siggerðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gerðu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Óla",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svanfríðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Uvu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Signýju",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grímseyjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Básum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigmundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fjörðurnar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Látraströndin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjörðurna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigmundar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þóreyju",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrúnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingu Jóhannesdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Huldu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Húsavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyjafjörð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hauganesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjólu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrunaréttir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skaftárréttir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tungnaréttir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Baldvin",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Selfossi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hvammstanga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ölfusi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mexíkó",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hellu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rangárþing",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rangárþings ytra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Örn Þórðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Örn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Selfoss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stokkseyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyrarbakka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sandvíkurhrepps",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mýrdal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birgis Thomsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólheimum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rúnars Þórs Egilssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mosfelli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Litháen",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Anton Chekov",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Chekov",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hörður Sigurðarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Michaels Frayn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigtún",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árborgar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skálmholtshrauns",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Urriðafossi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þjórsá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Flóahreppi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Daniela",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Walter Schmitz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Walter",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þýskalandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Urriðafossvirkjun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Christiane L. Bahnerl",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Keldum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kirkjubæjarklaustur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kirkjubæjarklaustri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóna Sigurbjartsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skaftárhrepps",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Daníel Hafsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Daníel",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árneslón",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Heiðarlón",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þjórsár",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorsteinn Hilmarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Urriðafoss",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorsteinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skeiða- og Gnúpverjahreppi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorlákshöfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Engjaveg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyþór Arnalds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyþór",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eyþórs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn Jóna Hauksdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn Jóna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Hjartarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Varmá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Varmáin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Völlum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hveragerðis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hirti Benediktssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dagný Brynjarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dagný",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Slóveníu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Portúgal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rúmeníu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveitarfélaginu Árborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyþór Arnlds",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Davíðs",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Golíat",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorsteini Hilmarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brúará",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ragna Larsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Báran",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Írafossstöð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hlemmiskeið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skeiðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eystri Rangá",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hvergerði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hveragerði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Breiðumörk 25b",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árveg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Flóahreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Flóahrepps",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Margrét Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Urriðafosslind",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Margrét",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvagötu",
+    "label": "LOC"
+  }
+]

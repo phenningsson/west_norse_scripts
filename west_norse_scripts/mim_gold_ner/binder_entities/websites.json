@@ -1,0 +1,3058 @@
+[
+  {
+    "dipl_text": "Digranesvegi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jón Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur Lúðvígsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birna María Svanbjörnsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gyða Haraldsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrönn Pálmadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Wilhelm Norðfjörð",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Ó. Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Málfríður Lorange",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Solveig Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Geir Gunnlaugsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Zuilma Gabríela Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Urður Njarðvík",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrund Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þuríður Pétursdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bertrand Lauth",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gylfi Jón Gylfason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrét Sigmarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvi Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vegmúla 3",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Álaborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valgerður Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hátúni 12",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurrósar Jóhannsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríðar Lóu Jónsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Landakot",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigríður Ingvarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefáni Hreiðarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorstein Helga Ásgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kóp.",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þuríði Pétursdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólf Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorsteins Helga",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Albert Hanson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Albert",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helga Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnea R. Hansdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þóra Leósdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríður O. Guðjónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Durham New Hampshire",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "USA",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Marrit Meintema",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnhem",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hollandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bryndís Halldórsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrún Hjartardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erla Stefanía Magnúsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrún Birgisdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karólína Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Atli Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna Karen Ásgeirsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ýr Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólfur Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Evald Sæmundsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rannveig Traustadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "María Játvarðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gerður Árnadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorgerður Ragnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gerður Gestsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Salvör Nordal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán J. Hreiðarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Katrín Einarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Inga Hrefna Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brynhildur Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórunn R. Þórarinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klara Geirsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grafarvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ingibjörg Georgsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg Símonardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snæfríður Egilson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Atli Dagbjartsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tony Charman",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "London",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hringssal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valgerðar Jónsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Höskuldur Baldursson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Höskuldur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Höskuldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Eric Fombonne",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "RAX",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fombonne",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Montréal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lögbergi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kanada",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sturlugötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þorsteinn Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Hanssynir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Magnea Hansdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ásgeir Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Edinborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skotlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórunn Þórarinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán Hreiðarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Soffía Gísladóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurgrímur Skúlason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Valgerður Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steingerður Sigurbjörnsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristleifur Kristjánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hildur Harðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrún Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrún Kristjánsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þuríðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haukur Gylfason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jannik Beyer",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lone Gammeltoft",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jannik",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Danmörku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lone",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafsvík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Snæfellsnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kristinn Jónasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snæfellsbæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valgerður Sverrisdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdís Sæmundardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Aðalsteinn Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Snæfellsnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valgerðar Sverrisdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdísar Sæmundardóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Aðlasteins Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Róbert Arnar Stefánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birgir V. Halldórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sauðárkróki",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svíþjóð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Finnlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Brussel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísafjarðarbær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Noregi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Grænlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Færeyja",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkjanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Alaska",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rússlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Baldur Pétursson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pétur Snæbjörnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Mývatnssveit",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórarinn Sólmundarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Keldnaholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísafirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Egilsstöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Akureyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rangárþing eystra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húnaþing vestra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveitarfélagið Skagafjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Akrahreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Akureyrarkaupstaður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þingeyjarsýslum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Aðaldælahreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skútustaðahreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þingeyjarsveit",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tjörneshreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húsavíkurbær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kelduneshreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Öxarfjarðarhreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Raufarhafnarhreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svalbarðshreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórshafnarhreppur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Noregs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bryggjubakki 12",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tórshavn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Líney Árnadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnajökuls",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveitarfélagsins Hornafjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skaftárhrepps",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skaftafellsþjóðgarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Koli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hornafirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skaftárhreppi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vatnajökulsþjóðgarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svíðþjóð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Finnland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skotland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Höfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stella Sigfúsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hornafjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vatnajökulsþjóðgarðs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Evrópu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stella",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Skaftafellsþjóðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vatnajökulsþjóðgarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Finnlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Svíþjóðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skotlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Árna Snæbjörnssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Austurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vestfjörðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ísafjaðarbæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðureyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hornströndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jökulfjörðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Valur Þór Hilmarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorleifur Pálsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ísafjarðarbæjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Magnús Oddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elías Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhanna Þorvarðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhann Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingvi Már Pálsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorleifur Þór Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rúnar Guðjónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bjarna Reynarssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Árni Geir Pálsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágúst Þór Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dögg Káradóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Orri Hlöðversson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurjón Hjartarson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórður Þórkelsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Íris Ósk Traustadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Inga Eydal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhanna Vigdís Hjaltadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Petrína Ásgeirsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erla Ósk Hermannsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágústa Marísdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrönn Þormóðsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristbjörg Hjaltadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rán Ingvarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbjörg Björnsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafi Ó. Guðmundssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigtúni 38",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jövu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indónesíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kristín Jónasdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristín",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Yogyakarta",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Solo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bantul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Líberíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bretlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Níger",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Malawí",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlöndin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Afríkuríkið Níger",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miðausturlöndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Afríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "EMEA",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tim Cranton",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hamish McCulloch",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Spáni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rómönsku Ameríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Yvonne Cassidy",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björns Bjarnasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kambódíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Langholtsútibúi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ragnhildur Arnljótsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Thelma Ásdísardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brynhildur G. Flóvenz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Germany",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Thomas Rickert",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bonn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þýskalandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ola-Kristian Hoff",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Osló",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Cormac Callanan",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhann S. Friðleifsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágúst Evald Ólafsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurlandsbraut 24",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Aceh-héraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indlandshaf",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Asíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sri Lanka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Karin Beate Nøsterud",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Indlands",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðaustur-Asíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mexíkóflóa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mið-Ameríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Pakistan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Indlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "SUÐUR-ASÍU",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "MIÐ-AMERÍKU",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-Asíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Afganistan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "El Salvador",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guatemala",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kasmír",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Súlnasal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ólafi Ragnari Grímssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Dorrit Moussaieff",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þjóðmenningarhúsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ingvar Ásbjörn Ingvarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrúnu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðbjörg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lundi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birmingham",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stoke-on-Trent",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Englandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vigdís Finnbogadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Laugavegi 116",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hlemm",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rafn M. Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhanna Rósa Þorsteinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjargar Pálmadóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórhildar Líndal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdísar L. Storgaard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdís L. Storgaard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Gísli Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birna Hreiðarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bragi Guðbrandsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafn Hallgrímsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónína Bjartmarz",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "María Finnsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólveig Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinunn Valdís Óskarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurð Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórhildi Líndal",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karl Steinar Valsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brynjólf Mogensen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristbjörn Óla Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Esther Guðmundsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Washington DC",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandríkjanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Washington",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vilborgu Ingólfsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Haraldur Briem",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríði Þormar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna Björg Aradóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páli B. Baldvinssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Gísli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdís",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Páli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Efstaleiti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Pétur Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hafnarfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðabæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfjarðarbæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Breiðholti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birnu Hreiðarsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elliðaár",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklubrautinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Garðabær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mosambik",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Seltjarnarnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Læknagarðs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogsbæjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mosfellsbæjar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandríkjunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkurborg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkurborgar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "EES-svæðinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Borgartúni 21",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Evrópulandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bandaríkjum Norður-Ameríku",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðmund Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lárus Petersen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brynjars Þórs Friðrikssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hellisheiðarheiðarvirkjun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ásgeir Margeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sverrir Björn Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hellisheiðarvirkjun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jón Viðar Matthíasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Viðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Garðar H. Guðjónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdís Storgaard",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þingeyjasýslum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jökulsá á Fjöllum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gísli Gíslason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hallur Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Höskuldur Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristjáns Þórs Henryssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilhjálmur Þ. Vilhjálmsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Laugaveginum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Laugavegurinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Pálmi Pálmason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pálmi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sverrir Haukur Grönli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólfsstræti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sölvhólsgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sæbraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hringbraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklabraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bústaðaveg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurhlíð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sæbrautar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Holtavegi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hringbrautar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklubrautar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Melatorgi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Háaleitisbraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bústaðavegi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Snorrabraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklubraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kringlumýrarbraut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Geirsgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ægisgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hverfisgötunni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vonarstrætinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tjarnargötunni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Traðarkot",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hverfisgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miklatúni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Amtmannsstíg 5a",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vonarstræti 4b",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurjóni Magnússyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafsfirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lækjartorg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vatnajökli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tim Edwards",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vatnajökul",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Cornwall",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tim",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hvannadalshnjúk",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfjalli",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigmundur Eyjólfsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Keflavíkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigmundi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Júlíus Júlíusson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurnesjum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gestur K. Pálmason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóhannes Kristbjörnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Øster Voldgade 8",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kaupmannahöfn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hólavallagarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðurgötu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrafnseyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Arnarfjörð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórdís Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jens",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrét",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg Einarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurgötukirkjugarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jóns Sigurðssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Aðalstræti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðrún Björnsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hringbraut 50",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fossvogskirkjugarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Björn Benediktsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldóra Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingólfsstræti 80",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðmundur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Njarðvíkum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gísli",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siglufirði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Guðrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurði Ólafssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Seyðisfjarðar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vilborgu Jónsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Anna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnari Gíslasyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigvaldi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Birna",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurbirni Gunnarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnlaugur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónínu Sveinsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðrúnar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturhlíð 6",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kirkjugarðar Reykjavíkurprófastsdæma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kirkjugarðar Akureyrar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Edensgarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Betlehemsstjarnan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Krists",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jesú Krists",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Olíufjallinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jerúsalems",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bægisár",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyjafjarðarprófastsdæmi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Víkurgarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fógetagarðurinn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þormóður",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þorkels mána",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Aðalstrætis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kirkjustrætis",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Aðalsteinn Steindórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórsteinn Ragnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Smári Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundur Rafn Sigurðson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórstein Ragnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnfinn Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vesturhlíð 8",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Viðey",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkurprófastsdæmum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Smára Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hólavallagarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnar Bollason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fossvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kristín Huld Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórsteini Ragnarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurjón Jónasson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kópavogskirkjugarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogskirkjugarðs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogskirkjugarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gunnars I. Birgissonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karl Sigurbjörnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðmundar Helgasonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gufuneskirkjugarði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fossvogskirkjugarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ole P. Pedersen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hólavallagarð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fossvogskirkjugarðs",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gufuneskirkjugarður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Reykjavíkurprófastsdæma",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kópavogur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Seltjarnarnesbær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Noreg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlandanna",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlöndunum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlandaþjóðirnar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Björg Þórarinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Elísabet Hilmarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Erlingur Þór Tryggvason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hannes Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ingibjörg Ögmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurlína Dögg Tómasdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Tryggvi Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vestmannsvatni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vestmannsvatn",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Aðalgeiri Sigurðssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hamrahlíð 17",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hamrahlíð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hvalfjörð",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Borgarness",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hörpu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinunni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristinn Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrún H. Sigurjónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Már Óskarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn Lúðvík Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bergvin Oddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Einar Lee",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristinn",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn Luðvík Björnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigurjón Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gunnar Már",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveinn Lúðvík",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halldór Sævar Guðbergsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi Hjörvar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ásrún Hauksdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Brynja Arthúrsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karl Vignir Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Steinunn Hákonardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Hjalti Sigurðsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jóna Garðarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Grímur Þóroddsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórður Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Friðgeir Jóhannesson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harpa Völundardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Halla Guðmundsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrafnhildur Bergsveinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðlaug Erlendsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Auður Sveinsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bessi Gíslason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnar R Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigtryggur Eyþórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólheimum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sólheimum í Grímsnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þrengslin",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stokkseyri",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eyrabakka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rauðárárstíg 37",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Stefáns",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ásrún",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Arnbjörg",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jolee",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lilja",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Viggó Sigurbergsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oddfellowhúsinu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vonarstræti 10",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kolbrún Hulda Sigurjónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ragnar R. Magnússon",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hlynur Þór Agnarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Bergvin Oddson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Svava Sigurðardóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Linda Ósk Hilmarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Vigfús Þór Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kári Þormar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karls Vignis",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hólmfríðar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafur Haraldsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ólafs Haraldssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Pósthússtræti 3-5",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þórey",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágústa Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Þórey Ólafsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigríður Sólrún Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Harnarfjarðarbær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Álftanes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mosfellsbær",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kvennadeildinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Birgitta Jónsdóttir Klasen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ævar Jóhannesson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ævar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Danmerkur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jótlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jótland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fjón",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þýskaland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Freericia",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sigurjóni Einarssyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hönnu Björgu Sigurjónsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Rannveigu Traustadóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kolbrúnu Eggertsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hrefna K. Óskarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siv Friðleifsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigursteinn Máson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Siv",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ágúst Eir Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Klöru Hilmarsdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrét Guðnadóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lalla lúðu",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Miðhraun",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Álftanesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dalveg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sævarhöfða",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jafnasel 8",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dalveg 1",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Blíðubakka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mosfellsbæ",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ánanaust",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sævarhöfða 21",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kjalarnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurgrund",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Steinunn Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Stefán Örn Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Gufunesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Álfsnesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fellsmúla 28",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Gufunesi 112",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hafnarfjörður",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Seltjarnarnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sveitarfélagið Álftanes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Páll Hilmarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Herdís Sigurjónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn Ingi Hrafnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ómar Stefánsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrét Gauja Magnúsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján Sveinbjörnsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveitarfélaginu Álftanesi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Þór Sigurgeirsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Björn H. Halldórsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jafnasel",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jafnaseli 8",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bryggjuhverfi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miðhrauni 20",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Álfsnes",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Skútuvogi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tryggvagötu 26",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Bolholti 6",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ögmundur Einarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sólrún Trausta Auðunsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Ómar Örn Jónsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Degi Steini",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sigrún Gunnarsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Lárusi Kristjáni Johnsen",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Hjörtur Már Ingvarsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Suðurland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðvesturland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vesturland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vestfirðir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurland eystra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austfirðir",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Miðausturland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðausturland",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vík",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðausturvegar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðvesturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vesturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðvesturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðaustur-",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðaustur-",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Breiðdalsheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Öxi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlandi vestra",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðausturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Austur",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðausturlandi",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðausturströndinni",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fróðárheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Steingrímsfjarðarheið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Ströndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lágheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Holtavörðuheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hrafseyrar-",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Dynjandisheiði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norður-",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðursvæði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suðvestursvæði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðvestursvæði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðaustursvæði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Hringveginum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Sprengisandsleið",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Laka",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Malaví",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Húsadýragarðinum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Anna M. Þ. Ó.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Laugaveg",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Súdan",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Darfúr-héraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Darfúr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Rúanda",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Lydia G.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Líbanon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-Líbanon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mount Líbanon",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Beirut",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Beqaa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Vestur-Darfúr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tamil Nadu héraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kanchipuram",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Jónasar Arnars",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Helgi Árnason",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Árni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónas Þ.",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jón Guðmundsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Kristján Þorsteinsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Jónasi Þ. Þórissyni",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fanney Jónsdóttir",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Fanney",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Margrétar Guðnadóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Sveins Jónssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Miðkoti",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Fljótsdal",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Júlíu Jónasdóttur",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðlaugs Ólafssonar",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Guðnastöðum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Landeyjum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Eþíópíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-Eþiópíu",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Helgi Hróbjartsson",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Oslo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "El Kere héraði",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Helgi",
+    "label": "PER"
+  },
+  {
+    "dipl_text": "Karonga",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Chikwawa",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Phalombe",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Norðurlöndum",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Suður-Darfúr",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Mershing",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Kele",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Silo",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tege",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Um Gozein",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Tom Kittir-búðirnar",
+    "label": "LOC"
+  },
+  {
+    "dipl_text": "Nyala",
+    "label": "LOC"
+  }
+]

@@ -19,10 +19,23 @@ INPUT_FILES = [
     "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1250_thetubrot/1250_thetubrot_flat_ner_dataset.json",
     "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1260_jomsvikingar/1260_jomsvikingar_flat_ner_dataset.json",
     "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/ihpc/1275_morkin/1275_morkin_flat_ner_dataset.json",
-    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_flat_ner_dataset.json"
+    "/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/voluspa/voluspa_flat_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/adjudications_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/blog_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/books_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/emails_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/fbl_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/laws_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/mbl_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/radio_tv_news_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/school_essays_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/scienceweb_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/webmedia_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/websites_mim_ner_dataset.json",
+    "/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/written-to-be-spoken_mim_ner_dataset.json"
 ]
 
-OUTPUT_FILE = "large_flat_ner_dataset.json"
+OUTPUT_FILE = "largest_flat_ner_dataset.json"
 # ============================
 
 combined_data = []

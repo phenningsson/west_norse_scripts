@@ -1,0 +1,6458 @@
+[
+  {
+    "text": "Íslandi",
+    "start": 3374,
+    "end": 3380,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 17959,
+    "end": 17965,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 25731,
+    "end": 25737,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 33021,
+    "end": 33027,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 43300,
+    "end": 43306,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 43687,
+    "end": 43693,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 43749,
+    "end": 43755,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 44890,
+    "end": 44896,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 45017,
+    "end": 45023,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 54700,
+    "end": 54706,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 95937,
+    "end": 95943,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 96386,
+    "end": 96392,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 96915,
+    "end": 96921,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 98222,
+    "end": 98228,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 99192,
+    "end": 99198,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 99389,
+    "end": 99395,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 99633,
+    "end": 99639,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 100767,
+    "end": 100773,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 102049,
+    "end": 102055,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 103549,
+    "end": 103555,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 104120,
+    "end": 104126,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 104270,
+    "end": 104276,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 105782,
+    "end": 105788,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 105931,
+    "end": 105937,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 106867,
+    "end": 106873,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 107332,
+    "end": 107338,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 107492,
+    "end": 107498,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 109554,
+    "end": 109560,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 109844,
+    "end": 109850,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 109952,
+    "end": 109958,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 110178,
+    "end": 110184,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 110217,
+    "end": 110223,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 110227,
+    "end": 110233,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 112474,
+    "end": 112480,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 114956,
+    "end": 114962,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 115184,
+    "end": 115190,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 116240,
+    "end": 116246,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 116685,
+    "end": 116691,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 117190,
+    "end": 117196,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 118076,
+    "end": 118082,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 119235,
+    "end": 119241,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 119427,
+    "end": 119433,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 119510,
+    "end": 119516,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 123174,
+    "end": 123180,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 125255,
+    "end": 125261,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 128944,
+    "end": 128950,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 129258,
+    "end": 129264,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 129735,
+    "end": 129741,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Írak",
+    "start": 5140,
+    "end": 5143,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Saddam Hussein",
+    "start": 5316,
+    "end": 5329,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Chopin",
+    "start": 9234,
+    "end": 9239,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Chopin",
+    "start": 9807,
+    "end": 9812,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mozart",
+    "start": 9244,
+    "end": 9249,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mozart",
+    "start": 9786,
+    "end": 9791,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Beethoven",
+    "start": 9795,
+    "end": 9803,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bach",
+    "start": 9817,
+    "end": 9820,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 11118,
+    "end": 11126,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 96204,
+    "end": 96212,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 96241,
+    "end": 96249,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 96979,
+    "end": 96987,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 98248,
+    "end": 98256,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 104081,
+    "end": 104089,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 104427,
+    "end": 104435,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 106832,
+    "end": 106840,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 108289,
+    "end": 108297,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 108697,
+    "end": 108705,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 109139,
+    "end": 109147,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 109870,
+    "end": 109878,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlandi",
+    "start": 109974,
+    "end": 109982,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjunum",
+    "start": 11131,
+    "end": 11143,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkjunum",
+    "start": 88579,
+    "end": 88591,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fats Domino",
+    "start": 11293,
+    "end": 11303,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elvis Presley",
+    "start": 11648,
+    "end": 11660,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elvis",
+    "start": 11648,
+    "end": 11652,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elvis",
+    "start": 11694,
+    "end": 11698,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elvis",
+    "start": 11842,
+    "end": 11846,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "John",
+    "start": 11950,
+    "end": 11953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "John",
+    "start": 12130,
+    "end": 12133,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "John",
+    "start": 69288,
+    "end": 69291,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Paul",
+    "start": 11957,
+    "end": 11960,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Paul",
+    "start": 12112,
+    "end": 12115,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "George",
+    "start": 11964,
+    "end": 11969,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "George",
+    "start": 168857,
+    "end": 168862,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ringo",
+    "start": 11974,
+    "end": 11978,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Paul McCartney",
+    "start": 12112,
+    "end": 12125,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "John Lennon",
+    "start": 12130,
+    "end": 12140,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Britney Spears",
+    "start": 12553,
+    "end": 12566,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Enrique Iglesias",
+    "start": 12570,
+    "end": 12585,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Breiðholtinu",
+    "start": 20743,
+    "end": 20754,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21195,
+    "end": 21197,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21402,
+    "end": 21404,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21573,
+    "end": 21575,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21639,
+    "end": 21641,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21724,
+    "end": 21726,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21765,
+    "end": 21767,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21807,
+    "end": 21809,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 21864,
+    "end": 21866,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 22003,
+    "end": 22005,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 24156,
+    "end": 24158,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 24553,
+    "end": 24555,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 24742,
+    "end": 24744,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 25165,
+    "end": 25167,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 25422,
+    "end": 25424,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 25951,
+    "end": 25953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 26362,
+    "end": 26364,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jón",
+    "start": 112978,
+    "end": 112980,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 21201,
+    "end": 21206,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 22200,
+    "end": 22205,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 22312,
+    "end": 22317,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 22485,
+    "end": 22490,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 22711,
+    "end": 22716,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 23893,
+    "end": 23898,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 24476,
+    "end": 24481,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 24980,
+    "end": 24985,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 25367,
+    "end": 25372,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 26042,
+    "end": 26047,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 27092,
+    "end": 27097,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar",
+    "start": 101666,
+    "end": 101671,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 21211,
+    "end": 21217,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 22793,
+    "end": 22799,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 22840,
+    "end": 22846,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 23041,
+    "end": 23047,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 23102,
+    "end": 23108,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 23468,
+    "end": 23474,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 23516,
+    "end": 23522,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 24019,
+    "end": 24025,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 24486,
+    "end": 24492,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 24920,
+    "end": 24926,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 24989,
+    "end": 24995,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 25262,
+    "end": 25268,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausti",
+    "start": 26184,
+    "end": 26190,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 21435,
+    "end": 21443,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 110752,
+    "end": 110760,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 115675,
+    "end": 115683,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 116792,
+    "end": 116800,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 155218,
+    "end": 155226,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 155779,
+    "end": 155787,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 155879,
+    "end": 155887,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 157119,
+    "end": 157127,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 157255,
+    "end": 157263,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 160866,
+    "end": 160874,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 164342,
+    "end": 164350,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 164626,
+    "end": 164634,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 165097,
+    "end": 165105,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavík",
+    "start": 165330,
+    "end": 165338,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kópavogi",
+    "start": 22241,
+    "end": 22248,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Arnarnesi",
+    "start": 22828,
+    "end": 22836,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns",
+    "start": 24712,
+    "end": 24715,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns",
+    "start": 25794,
+    "end": 25797,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns",
+    "start": 112846,
+    "end": 112849,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóni",
+    "start": 24817,
+    "end": 24820,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóni",
+    "start": 27244,
+    "end": 27247,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þingvöllum",
+    "start": 25354,
+    "end": 25363,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausta",
+    "start": 25623,
+    "end": 25629,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Trausta",
+    "start": 27041,
+    "end": 27047,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 28192,
+    "end": 28197,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 28541,
+    "end": 28546,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 31603,
+    "end": 31608,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 97222,
+    "end": 97227,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 103715,
+    "end": 103720,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísland",
+    "start": 104211,
+    "end": 104216,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hollywood",
+    "start": 28285,
+    "end": 28293,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Grafarvog",
+    "start": 29463,
+    "end": 29471,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Póllandi",
+    "start": 31119,
+    "end": 31126,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Filippseyjum",
+    "start": 32161,
+    "end": 32172,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Filippseyjum",
+    "start": 32345,
+    "end": 32356,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mandelbrot",
+    "start": 35143,
+    "end": 35152,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mandelbrot",
+    "start": 35253,
+    "end": 35262,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eugene Fama",
+    "start": 35222,
+    "end": 35232,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Engles",
+    "start": 35514,
+    "end": 35519,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mandelbrots",
+    "start": 36715,
+    "end": 36725,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Engle",
+    "start": 39768,
+    "end": 39772,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Engle",
+    "start": 40545,
+    "end": 40549,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lilien",
+    "start": 40553,
+    "end": 40558,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Robins29",
+    "start": 40563,
+    "end": 40570,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lanne",
+    "start": 41605,
+    "end": 41609,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Saikkonen",
+    "start": 41614,
+    "end": 41622,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mertons32",
+    "start": 41742,
+    "end": 41750,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Scruggs",
+    "start": 41914,
+    "end": 41920,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Evrópu",
+    "start": 44748,
+    "end": 44753,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlöndunum",
+    "start": 44808,
+    "end": 44821,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlöndunum",
+    "start": 137557,
+    "end": 137570,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laspeyres",
+    "start": 48418,
+    "end": 48426,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laspeyres",
+    "start": 48450,
+    "end": 48458,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laspeyres",
+    "start": 48943,
+    "end": 48951,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laspeyres",
+    "start": 49520,
+    "end": 49528,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Newton",
+    "start": 57267,
+    "end": 57272,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Newton",
+    "start": 58058,
+    "end": 58063,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laplace",
+    "start": 61262,
+    "end": 61268,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laplace",
+    "start": 87676,
+    "end": 87682,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laplace",
+    "start": 90341,
+    "end": 90347,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohr",
+    "start": 62314,
+    "end": 62317,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohr",
+    "start": 62633,
+    "end": 62636,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohr",
+    "start": 72271,
+    "end": 72274,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohr",
+    "start": 92587,
+    "end": 92590,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohrs",
+    "start": 62810,
+    "end": 62814,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bohrs",
+    "start": 74892,
+    "end": 74896,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Albert Einstein",
+    "start": 63904,
+    "end": 63918,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 63911,
+    "end": 63918,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 64185,
+    "end": 64192,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 67098,
+    "end": 67105,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 67176,
+    "end": 67183,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 68696,
+    "end": 68703,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 72026,
+    "end": 72033,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 86962,
+    "end": 86969,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 87526,
+    "end": 87533,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einstein",
+    "start": 92595,
+    "end": 92602,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Podolsky",
+    "start": 64196,
+    "end": 64203,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Podolsky",
+    "start": 67109,
+    "end": 67116,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Podolsky",
+    "start": 68707,
+    "end": 68714,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rosen",
+    "start": 64208,
+    "end": 64212,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rosen",
+    "start": 67121,
+    "end": 67125,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rosen",
+    "start": 68719,
+    "end": 68723,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einsteins",
+    "start": 64732,
+    "end": 64740,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einsteins",
+    "start": 67284,
+    "end": 67292,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einsteins",
+    "start": 68626,
+    "end": 68634,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Einsteins",
+    "start": 75148,
+    "end": 75156,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Podolskys",
+    "start": 64744,
+    "end": 64752,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Podolskys",
+    "start": 75160,
+    "end": 75168,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rosens",
+    "start": 64757,
+    "end": 64762,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rosens",
+    "start": 75173,
+    "end": 75178,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "David Bohm",
+    "start": 65329,
+    "end": 65338,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "John S. Bell",
+    "start": 69288,
+    "end": 69299,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bells",
+    "start": 69419,
+    "end": 69423,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bells",
+    "start": 70738,
+    "end": 70742,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bells",
+    "start": 72198,
+    "end": 72202,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bells",
+    "start": 72776,
+    "end": 72780,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bell",
+    "start": 69296,
+    "end": 69299,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bell",
+    "start": 69822,
+    "end": 69825,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bell",
+    "start": 70501,
+    "end": 70504,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bell",
+    "start": 70986,
+    "end": 70989,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bell",
+    "start": 71671,
+    "end": 71674,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jakobs Yngvasonar",
+    "start": 70331,
+    "end": 70347,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jakob Yngvason",
+    "start": 74851,
+    "end": 74864,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jakob Yngvason",
+    "start": 84685,
+    "end": 84698,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "SCHRÖDINGERS",
+    "start": 75418,
+    "end": 75429,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödinger",
+    "start": 75657,
+    "end": 75667,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödinger",
+    "start": 75991,
+    "end": 76001,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödinger",
+    "start": 78478,
+    "end": 78488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödinger",
+    "start": 80363,
+    "end": 80373,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Wigners",
+    "start": 78221,
+    "end": 78227,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eugene Wigner",
+    "start": 78253,
+    "end": 78265,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödingers",
+    "start": 78310,
+    "end": 78321,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödingers",
+    "start": 79965,
+    "end": 79976,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödingers",
+    "start": 81347,
+    "end": 81358,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schrödingers",
+    "start": 82826,
+    "end": 82837,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "David J. Griffith",
+    "start": 79138,
+    "end": 79154,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Wigner",
+    "start": 78260,
+    "end": 78265,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Wigner",
+    "start": 79424,
+    "end": 79429,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Heisenberg",
+    "start": 79619,
+    "end": 79628,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hugh Everett",
+    "start": 80818,
+    "end": 80829,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hans Moravec",
+    "start": 82567,
+    "end": 82578,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bruno Marchal",
+    "start": 82604,
+    "end": 82616,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Max Tegmark",
+    "start": 82664,
+    "end": 82674,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Everetts",
+    "start": 82774,
+    "end": 82781,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Genf",
+    "start": 85472,
+    "end": 85475,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Heisenbergs",
+    "start": 86305,
+    "end": 86315,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "GUÐ",
+    "start": 86861,
+    "end": 86863,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guði",
+    "start": 87028,
+    "end": 87031,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 87231,
+    "end": 87234,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 87582,
+    "end": 87585,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 87819,
+    "end": 87822,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 87900,
+    "end": 87903,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 89362,
+    "end": 89365,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 89815,
+    "end": 89818,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 90123,
+    "end": 90126,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 90581,
+    "end": 90584,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 91048,
+    "end": 91051,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðs",
+    "start": 91660,
+    "end": 91663,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bernie Hobbs",
+    "start": 87314,
+    "end": 87325,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 87367,
+    "end": 87369,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 88002,
+    "end": 88004,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 88682,
+    "end": 88684,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 88808,
+    "end": 88810,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89036,
+    "end": 89038,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89128,
+    "end": 89130,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89578,
+    "end": 89580,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89666,
+    "end": 89668,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 89725,
+    "end": 89727,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 90688,
+    "end": 90690,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 90864,
+    "end": 90866,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guð",
+    "start": 90883,
+    "end": 90885,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Robert Russell",
+    "start": 88459,
+    "end": 88472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Russells",
+    "start": 89055,
+    "end": 89062,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stephen Hawking",
+    "start": 89988,
+    "end": 90002,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Stephen Hawking",
+    "start": 92299,
+    "end": 92313,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 89996,
+    "end": 90002,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 90147,
+    "end": 90153,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 90381,
+    "end": 90387,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 90655,
+    "end": 90661,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 90974,
+    "end": 90980,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hawking",
+    "start": 92307,
+    "end": 92313,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ágústínus",
+    "start": 90757,
+    "end": 90765,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Roger Penrose",
+    "start": 92119,
+    "end": 92131,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Penrose",
+    "start": 92125,
+    "end": 92131,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Penrose",
+    "start": 92611,
+    "end": 92617,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Penrose",
+    "start": 94404,
+    "end": 94410,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Penrose",
+    "start": 94848,
+    "end": 94854,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Penrose",
+    "start": 95659,
+    "end": 95665,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anton Zeilinger",
+    "start": 95063,
+    "end": 95077,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Zeilinger",
+    "start": 95069,
+    "end": 95077,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Zeilinger",
+    "start": 95517,
+    "end": 95525,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 43345,
+    "end": 43351,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 43773,
+    "end": 43779,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 43827,
+    "end": 43833,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44422,
+    "end": 44428,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44449,
+    "end": 44455,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44485,
+    "end": 44491,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44614,
+    "end": 44620,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44693,
+    "end": 44699,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 44973,
+    "end": 44979,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 49869,
+    "end": 49875,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 96165,
+    "end": 96171,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 97426,
+    "end": 97432,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 97600,
+    "end": 97606,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 98090,
+    "end": 98096,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 101931,
+    "end": 101937,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 110370,
+    "end": 110376,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 114119,
+    "end": 114125,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 116049,
+    "end": 116055,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 119331,
+    "end": 119337,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 134307,
+    "end": 134313,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslands",
+    "start": 152901,
+    "end": 152907,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 96192,
+    "end": 96199,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 96229,
+    "end": 96236,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 96967,
+    "end": 96974,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 98234,
+    "end": 98241,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 103947,
+    "end": 103954,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 104094,
+    "end": 104101,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 105863,
+    "end": 105870,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 106820,
+    "end": 106827,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 106944,
+    "end": 106951,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 107247,
+    "end": 107254,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 107713,
+    "end": 107720,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 108045,
+    "end": 108052,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 108311,
+    "end": 108318,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 108685,
+    "end": 108692,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 108873,
+    "end": 108880,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 109127,
+    "end": 109134,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 109856,
+    "end": 109863,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 109962,
+    "end": 109969,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 117697,
+    "end": 117704,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 123105,
+    "end": 123112,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 123139,
+    "end": 123146,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 123370,
+    "end": 123377,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 123482,
+    "end": 123489,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 124124,
+    "end": 124131,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 124686,
+    "end": 124693,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 125090,
+    "end": 125097,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 125559,
+    "end": 125566,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 125916,
+    "end": 125923,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 127543,
+    "end": 127550,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 127970,
+    "end": 127977,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 128026,
+    "end": 128033,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 128684,
+    "end": 128691,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 128743,
+    "end": 128750,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 128839,
+    "end": 128846,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 129464,
+    "end": 129471,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 130923,
+    "end": 130930,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörku",
+    "start": 131362,
+    "end": 131369,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestmannaeyjum",
+    "start": 96580,
+    "end": 96593,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Neskaupstað",
+    "start": 96620,
+    "end": 96630,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestfjörðum",
+    "start": 96653,
+    "end": 96663,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vestfjörðum",
+    "start": 103171,
+    "end": 103181,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafirði",
+    "start": 98390,
+    "end": 98397,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Selfossi",
+    "start": 98430,
+    "end": 98437,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árnessýslu",
+    "start": 98443,
+    "end": 98452,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ísafjarðarsýslur",
+    "start": 98456,
+    "end": 98471,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árnessýsla",
+    "start": 98696,
+    "end": 98705,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðurlandi",
+    "start": 98774,
+    "end": 98783,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásthildar Elvu Bernharðsdóttur",
+    "start": 101107,
+    "end": 101136,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Súðavík",
+    "start": 101170,
+    "end": 101176,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flateyri",
+    "start": 101183,
+    "end": 101190,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnars Helga Kristinssonar",
+    "start": 101222,
+    "end": 101248,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gunnar Helgi Kristinsson",
+    "start": 101666,
+    "end": 101689,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórdís Jónsdóttir",
+    "start": 101727,
+    "end": 101743,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmerkur",
+    "start": 101941,
+    "end": 101949,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmerkur",
+    "start": 103610,
+    "end": 103618,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmerkur",
+    "start": 104325,
+    "end": 104333,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmerkur",
+    "start": 125682,
+    "end": 125690,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlands",
+    "start": 101954,
+    "end": 101962,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlands",
+    "start": 103644,
+    "end": 103652,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretlands",
+    "start": 104298,
+    "end": 104306,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Danmörk",
+    "start": 102059,
+    "end": 102065,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bretland",
+    "start": 102070,
+    "end": 102077,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norðurlönd",
+    "start": 102645,
+    "end": 102654,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lindblom",
+    "start": 102805,
+    "end": 102812,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Simon",
+    "start": 102840,
+    "end": 102844,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kingdon",
+    "start": 102873,
+    "end": 102879,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "London",
+    "start": 104528,
+    "end": 104533,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "London",
+    "start": 104668,
+    "end": 104673,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkja",
+    "start": 104679,
+    "end": 104688,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkja",
+    "start": 111880,
+    "end": 111889,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Ameríku",
+    "start": 104690,
+    "end": 104703,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Ameríku",
+    "start": 111891,
+    "end": 111904,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Norður-Ameríku",
+    "start": 114051,
+    "end": 114064,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Englandi",
+    "start": 106163,
+    "end": 106170,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkin",
+    "start": 107621,
+    "end": 107630,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkja Norður-Ameríku",
+    "start": 104679,
+    "end": 104703,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríkja Norður-Ameríku",
+    "start": 111880,
+    "end": 111904,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sovétríkjanna",
+    "start": 111909,
+    "end": 111921,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóns Kjartanssonar",
+    "start": 112846,
+    "end": 112863,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bandaríki Norður-Ameríku",
+    "start": 114041,
+    "end": 114064,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 132645,
+    "end": 132661,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 133719,
+    "end": 133735,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 134592,
+    "end": 134608,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 142573,
+    "end": 142589,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 150541,
+    "end": 150557,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 154190,
+    "end": 154206,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 155137,
+    "end": 155153,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 155814,
+    "end": 155830,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 156048,
+    "end": 156064,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 156103,
+    "end": 156119,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 161458,
+    "end": 161474,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 163395,
+    "end": 163411,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborgar",
+    "start": 165197,
+    "end": 165213,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gylfi Dalmann Aðalsteinsson",
+    "start": 134334,
+    "end": 134360,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Önnu Torfadóttur",
+    "start": 135192,
+    "end": 135207,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Erlu Kristínu Jónasdóttur",
+    "start": 135230,
+    "end": 135254,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gylfa Dalmann Aðalsteinssyni",
+    "start": 135478,
+    "end": 135505,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dögg Árnadóttir",
+    "start": 135595,
+    "end": 135609,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kolbrún Hauksdóttir",
+    "start": 135614,
+    "end": 135632,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kristínu Viðarsdóttur",
+    "start": 135729,
+    "end": 135749,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörgu Rögnvaldsdóttur",
+    "start": 135783,
+    "end": 135808,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ómari",
+    "start": 135949,
+    "end": 135953,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingunni",
+    "start": 135957,
+    "end": 135963,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bryndísi",
+    "start": 135968,
+    "end": 135975,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Huczynski",
+    "start": 136273,
+    "end": 136281,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Armstrong",
+    "start": 137427,
+    "end": 137435,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Armstrong",
+    "start": 139264,
+    "end": 139272,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lewis",
+    "start": 138411,
+    "end": 138415,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Thornhill",
+    "start": 138419,
+    "end": 138427,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Saunders",
+    "start": 138432,
+    "end": 138439,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Clutterbuck",
+    "start": 138959,
+    "end": 138969,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Conway",
+    "start": 138980,
+    "end": 138985,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Conway",
+    "start": 139044,
+    "end": 139049,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Conway",
+    "start": 140430,
+    "end": 140435,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Conway",
+    "start": 142984,
+    "end": 142989,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Conway",
+    "start": 143615,
+    "end": 143620,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Briner",
+    "start": 138990,
+    "end": 138995,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Briner",
+    "start": 140440,
+    "end": 140445,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Briner",
+    "start": 142994,
+    "end": 142999,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Briner",
+    "start": 143625,
+    "end": 143630,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Cullinane",
+    "start": 139006,
+    "end": 139014,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Cullinane",
+    "start": 143641,
+    "end": 143649,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dundon",
+    "start": 139019,
+    "end": 139024,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dundon",
+    "start": 143654,
+    "end": 143659,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guest",
+    "start": 139035,
+    "end": 139039,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Millward",
+    "start": 139068,
+    "end": 139075,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hopkins",
+    "start": 139080,
+    "end": 139086,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pate",
+    "start": 139097,
+    "end": 139100,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Pate",
+    "start": 140456,
+    "end": 140459,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Roehling",
+    "start": 139283,
+    "end": 139290,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Schein",
+    "start": 139301,
+    "end": 139306,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sims",
+    "start": 139317,
+    "end": 139320,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bunderson",
+    "start": 140411,
+    "end": 140419,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Robinson",
+    "start": 140470,
+    "end": 140477,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rousseau",
+    "start": 140482,
+    "end": 140489,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rousseau",
+    "start": 140606,
+    "end": 140613,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Wooldridge",
+    "start": 140624,
+    "end": 140633,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brewerton",
+    "start": 142965,
+    "end": 142973,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brewerton",
+    "start": 143596,
+    "end": 143604,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sigurlína Davíðsdóttir",
+    "start": 147051,
+    "end": 147072,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sarantakos",
+    "start": 147420,
+    "end": 147429,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sarantakos",
+    "start": 149433,
+    "end": 149442,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga Jónsdóttir",
+    "start": 148229,
+    "end": 148244,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hermann Óskarson",
+    "start": 148367,
+    "end": 148382,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Taylor",
+    "start": 148393,
+    "end": 148398,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bogdan",
+    "start": 148403,
+    "end": 148408,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "McQueen",
+    "start": 148769,
+    "end": 148775,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "McQueen",
+    "start": 149916,
+    "end": 149922,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knussen",
+    "start": 148780,
+    "end": 148786,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Knussen",
+    "start": 149927,
+    "end": 149933,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hermann Óskarsson",
+    "start": 149406,
+    "end": 149422,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hermann Óskarsson",
+    "start": 149647,
+    "end": 149663,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kickul",
+    "start": 151979,
+    "end": 151984,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kickul",
+    "start": 152008,
+    "end": 152013,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lester",
+    "start": 151998,
+    "end": 152003,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ingibjörg Rögnvaldsdóttir",
+    "start": 152779,
+    "end": 152803,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 154578,
+    "end": 154592,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 154724,
+    "end": 154738,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 156410,
+    "end": 156424,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 156435,
+    "end": 156449,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 156534,
+    "end": 156548,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 157600,
+    "end": 157614,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 157623,
+    "end": 157637,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 157962,
+    "end": 157976,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 159712,
+    "end": 159726,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 160758,
+    "end": 160772,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 161888,
+    "end": 161902,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 162064,
+    "end": 162078,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 162606,
+    "end": 162620,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 162750,
+    "end": 162764,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 163697,
+    "end": 163711,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 164076,
+    "end": 164090,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkurborg",
+    "start": 166117,
+    "end": 166131,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svanhildur Konráðsdóttir",
+    "start": 155447,
+    "end": 155470,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ása Sigríður Þórisdóttir",
+    "start": 156738,
+    "end": 156761,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 111433,
+    "end": 111443,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 135295,
+    "end": 135305,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 154338,
+    "end": 154348,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 154393,
+    "end": 154403,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 154421,
+    "end": 154431,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 154446,
+    "end": 154456,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 157002,
+    "end": 157012,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 157183,
+    "end": 157193,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 157478,
+    "end": 157488,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 158183,
+    "end": 158193,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 158217,
+    "end": 158227,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 158277,
+    "end": 158287,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 160801,
+    "end": 160811,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 160823,
+    "end": 160833,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 161137,
+    "end": 161147,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 162592,
+    "end": 162602,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 162653,
+    "end": 162663,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 162679,
+    "end": 162689,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 163024,
+    "end": 163034,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 164119,
+    "end": 164129,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 164166,
+    "end": 164176,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 164735,
+    "end": 164745,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 164884,
+    "end": 164894,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 165585,
+    "end": 165595,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Reykjavíkur",
+    "start": 166094,
+    "end": 166104,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórdís Þorvaldsdóttir",
+    "start": 158291,
+    "end": 158311,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Anna Torfadóttir",
+    "start": 159293,
+    "end": 159308,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elísabet B. Þórisdóttir",
+    "start": 160402,
+    "end": 160424,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hafnarhúsinu",
+    "start": 160880,
+    "end": 160891,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hafnarhúsinu",
+    "start": 161151,
+    "end": 161162,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarvalsstöðum",
+    "start": 160897,
+    "end": 160910,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarvalsstöðum",
+    "start": 161534,
+    "end": 161547,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tryggvagötu 17",
+    "start": 161166,
+    "end": 161179,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Errós",
+    "start": 161378,
+    "end": 161382,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarvalsstaðir",
+    "start": 161386,
+    "end": 161399,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Jóhannesar S. Kjarvals",
+    "start": 161507,
+    "end": 161528,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kjarval",
+    "start": 161670,
+    "end": 161676,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásmundar Sveinssonar",
+    "start": 161808,
+    "end": 161827,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásmundur",
+    "start": 161870,
+    "end": 161877,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hafþór Yngvason",
+    "start": 162548,
+    "end": 162562,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Borgartúni 1",
+    "start": 162892,
+    "end": 162903,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Grófarhús",
+    "start": 162938,
+    "end": 162946,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "María Karen Sigurðardóttir",
+    "start": 164047,
+    "end": 164072,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Skúlatúni 2",
+    "start": 164218,
+    "end": 164228,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árbæ",
+    "start": 164275,
+    "end": 164278,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Árbæinn",
+    "start": 164573,
+    "end": 164579,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Aðalstræti 16",
+    "start": 165395,
+    "end": 165407,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Aðalstrætis",
+    "start": 165481,
+    "end": 165491,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Túngötu",
+    "start": 165496,
+    "end": 165502,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guðný Gerður Gunnarsdóttir",
+    "start": 166047,
+    "end": 166072,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 166204,
+    "end": 166212,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 169162,
+    "end": 169170,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 169752,
+    "end": 169760,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 170489,
+    "end": 170497,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 171375,
+    "end": 171383,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 174176,
+    "end": 174184,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 177685,
+    "end": 177693,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 193376,
+    "end": 193384,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 193706,
+    "end": 193714,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 194086,
+    "end": 194094,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 195693,
+    "end": 195701,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 196658,
+    "end": 196666,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 197779,
+    "end": 197787,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 197854,
+    "end": 197862,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 198197,
+    "end": 198205,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergur",
+    "start": 199207,
+    "end": 199215,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 166217,
+    "end": 166222,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 166503,
+    "end": 166508,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 174596,
+    "end": 174601,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 174828,
+    "end": 174833,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 178263,
+    "end": 178268,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 178422,
+    "end": 178427,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 178576,
+    "end": 178581,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 179228,
+    "end": 179233,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 179344,
+    "end": 179349,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 179826,
+    "end": 179831,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 179988,
+    "end": 179993,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 180228,
+    "end": 180233,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 185487,
+    "end": 185492,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 191569,
+    "end": 191574,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 192162,
+    "end": 192167,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 193719,
+    "end": 193724,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 194505,
+    "end": 194510,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 195960,
+    "end": 195965,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 196883,
+    "end": 196888,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 197350,
+    "end": 197355,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 197700,
+    "end": 197705,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Proust",
+    "start": 198069,
+    "end": 198074,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórberg",
+    "start": 166916,
+    "end": 166922,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórberg",
+    "start": 192172,
+    "end": 192178,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 167383,
+    "end": 167389,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 167995,
+    "end": 168001,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 168434,
+    "end": 168440,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 168954,
+    "end": 168960,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 170619,
+    "end": 170625,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 170680,
+    "end": 170686,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 170722,
+    "end": 170728,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 170942,
+    "end": 170948,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 171143,
+    "end": 171149,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 171588,
+    "end": 171594,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 171615,
+    "end": 171621,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 171814,
+    "end": 171820,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 172598,
+    "end": 172604,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 173561,
+    "end": 173567,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 174996,
+    "end": 175002,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 177179,
+    "end": 177185,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 178355,
+    "end": 178361,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 186580,
+    "end": 186586,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 191237,
+    "end": 191243,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Combray",
+    "start": 199181,
+    "end": 199187,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 166170,
+    "end": 166174,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 166489,
+    "end": 166493,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 166975,
+    "end": 166979,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 167414,
+    "end": 167418,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 167474,
+    "end": 167478,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 167663,
+    "end": 167667,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 167851,
+    "end": 167855,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 168245,
+    "end": 168249,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 172672,
+    "end": 172676,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 176623,
+    "end": 176627,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 176814,
+    "end": 176818,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 176883,
+    "end": 176887,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 177482,
+    "end": 177486,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 179965,
+    "end": 179969,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 180956,
+    "end": 180960,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 181252,
+    "end": 181256,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 185039,
+    "end": 185043,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 185174,
+    "end": 185178,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 186010,
+    "end": 186014,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 191487,
+    "end": 191491,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 195010,
+    "end": 195014,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 195798,
+    "end": 195802,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 198863,
+    "end": 198867,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swann",
+    "start": 199100,
+    "end": 199104,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Odette",
+    "start": 167483,
+    "end": 167488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Odette",
+    "start": 167672,
+    "end": 167677,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Odette",
+    "start": 185221,
+    "end": 185226,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Odette",
+    "start": 199109,
+    "end": 199114,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 167559,
+    "end": 167564,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 168314,
+    "end": 168319,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 171519,
+    "end": 171524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 172845,
+    "end": 172850,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 173427,
+    "end": 173432,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 173535,
+    "end": 173540,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 174138,
+    "end": 174143,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 174905,
+    "end": 174910,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 175255,
+    "end": 175260,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 175423,
+    "end": 175428,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 175583,
+    "end": 175588,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 176253,
+    "end": 176258,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 177225,
+    "end": 177230,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 177254,
+    "end": 177259,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 177797,
+    "end": 177802,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 180429,
+    "end": 180434,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 181232,
+    "end": 181237,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 181808,
+    "end": 181813,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 182226,
+    "end": 182231,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 182890,
+    "end": 182895,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 183508,
+    "end": 183513,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 183772,
+    "end": 183777,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 184075,
+    "end": 184080,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 184563,
+    "end": 184568,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 185081,
+    "end": 185086,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 185342,
+    "end": 185347,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 186114,
+    "end": 186119,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 186860,
+    "end": 186865,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 187740,
+    "end": 187745,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 188381,
+    "end": 188386,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 188667,
+    "end": 188672,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 189688,
+    "end": 189693,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 189965,
+    "end": 189970,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 191251,
+    "end": 191256,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 193450,
+    "end": 193455,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 193842,
+    "end": 193847,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 194127,
+    "end": 194132,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 199154,
+    "end": 199159,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcel",
+    "start": 199376,
+    "end": 199381,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 167635,
+    "end": 167641,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 168052,
+    "end": 168058,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 169324,
+    "end": 169330,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 169667,
+    "end": 169673,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 170394,
+    "end": 170400,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 174457,
+    "end": 174463,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 175080,
+    "end": 175086,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 176734,
+    "end": 176740,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 181060,
+    "end": 181066,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 182009,
+    "end": 182015,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 183908,
+    "end": 183914,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 183981,
+    "end": 183987,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 185261,
+    "end": 185267,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 185604,
+    "end": 185610,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 186335,
+    "end": 186341,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 189626,
+    "end": 189632,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 190893,
+    "end": 190899,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marcels",
+    "start": 199075,
+    "end": 199081,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 167645,
+    "end": 167652,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 181260,
+    "end": 181267,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 181911,
+    "end": 181918,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 182834,
+    "end": 182841,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 184545,
+    "end": 184552,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 185278,
+    "end": 185285,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gilberte",
+    "start": 199086,
+    "end": 199093,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 168418,
+    "end": 168423,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 170753,
+    "end": 170758,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 171256,
+    "end": 171261,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 171502,
+    "end": 171507,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 171634,
+    "end": 171639,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 172052,
+    "end": 172057,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 176453,
+    "end": 176458,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 176608,
+    "end": 176613,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Léonie",
+    "start": 193852,
+    "end": 193857,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "George Sand",
+    "start": 168857,
+    "end": 168867,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 169481,
+    "end": 169488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 175630,
+    "end": 175637,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 177470,
+    "end": 177477,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 181295,
+    "end": 181302,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 181955,
+    "end": 181962,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 184288,
+    "end": 184295,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergotte",
+    "start": 185951,
+    "end": 185958,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergs",
+    "start": 169612,
+    "end": 169619,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergs",
+    "start": 189677,
+    "end": 189684,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergs",
+    "start": 194555,
+    "end": 194562,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergs",
+    "start": 199036,
+    "end": 199043,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergi",
+    "start": 169652,
+    "end": 169656,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Prousts",
+    "start": 169800,
+    "end": 169806,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Prousts",
+    "start": 194400,
+    "end": 194406,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergi",
+    "start": 170136,
+    "end": 170143,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergi",
+    "start": 176207,
+    "end": 176214,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergi",
+    "start": 177593,
+    "end": 177600,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergi",
+    "start": 178130,
+    "end": 178137,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbergi",
+    "start": 191579,
+    "end": 191586,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Francoise",
+    "start": 171039,
+    "end": 171047,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Francoise",
+    "start": 176527,
+    "end": 176535,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eulalie",
+    "start": 171077,
+    "end": 171083,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Goupil",
+    "start": 171313,
+    "end": 171318,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergur",
+    "start": 171408,
+    "end": 171413,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergur",
+    "start": 182182,
+    "end": 182187,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergur",
+    "start": 188511,
+    "end": 188516,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergur",
+    "start": 188554,
+    "end": 188559,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergur",
+    "start": 193833,
+    "end": 193838,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sheila Stern",
+    "start": 172614,
+    "end": 172625,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Roger Shattuck",
+    "start": 174517,
+    "end": 174530,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergottes",
+    "start": 175665,
+    "end": 175673,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergottes",
+    "start": 175809,
+    "end": 175817,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Legrandine",
+    "start": 177019,
+    "end": 177028,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Balbec",
+    "start": 177147,
+    "end": 177152,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 177208,
+    "end": 177217,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 180859,
+    "end": 180868,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186302,
+    "end": 186311,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186386,
+    "end": 186395,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186476,
+    "end": 186485,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186532,
+    "end": 186541,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186640,
+    "end": 186649,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186723,
+    "end": 186732,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186915,
+    "end": 186924,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 186971,
+    "end": 186980,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 187457,
+    "end": 187466,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 187962,
+    "end": 187971,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 188237,
+    "end": 188246,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 189988,
+    "end": 189997,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 190267,
+    "end": 190276,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 190423,
+    "end": 190432,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 190717,
+    "end": 190726,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Guermantes",
+    "start": 190837,
+    "end": 190846,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hans",
+    "start": 82567,
+    "end": 82570,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hans",
+    "start": 177348,
+    "end": 177351,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 177459,
+    "end": 177466,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 183596,
+    "end": 183603,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 184133,
+    "end": 184140,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 184268,
+    "end": 184275,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 184497,
+    "end": 184504,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 184919,
+    "end": 184926,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vinteuil",
+    "start": 185940,
+    "end": 185947,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðursveitinni",
+    "start": 177711,
+    "end": 177724,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakka",
+    "start": 178715,
+    "end": 178720,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Charles Augustin Saint-Beuve",
+    "start": 178734,
+    "end": 178761,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "James Joyce",
+    "start": 179616,
+    "end": 179626,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Virginia Woolf",
+    "start": 179631,
+    "end": 179644,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Cynthia Gamble",
+    "start": 180136,
+    "end": 180149,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "William C. Carter",
+    "start": 180482,
+    "end": 180498,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "París",
+    "start": 180672,
+    "end": 180676,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "París",
+    "start": 199172,
+    "end": 199176,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 180754,
+    "end": 180762,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 181163,
+    "end": 181171,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 181216,
+    "end": 181224,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 183865,
+    "end": 183873,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 185329,
+    "end": 185337,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Méséglise",
+    "start": 190851,
+    "end": 190859,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swanns",
+    "start": 180786,
+    "end": 180791,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Swanns",
+    "start": 185211,
+    "end": 185216,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Parísar",
+    "start": 180832,
+    "end": 180838,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brian Rogers",
+    "start": 185516,
+    "end": 185527,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Brian Rogers",
+    "start": 189852,
+    "end": 189863,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elstir",
+    "start": 185972,
+    "end": 185977,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bergs",
+    "start": 188896,
+    "end": 188900,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Percepied",
+    "start": 189022,
+    "end": 189030,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Martinville-le-sec",
+    "start": 189069,
+    "end": 189086,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Martinville",
+    "start": 189069,
+    "end": 189079,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Martinville",
+    "start": 189126,
+    "end": 189136,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vieuxvicq",
+    "start": 189151,
+    "end": 189159,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Soffía Auður Birgisdóttir",
+    "start": 195597,
+    "end": 195621,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Malcolm Bowie",
+    "start": 195980,
+    "end": 195992,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "France",
+    "start": 196110,
+    "end": 196115,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Foucaults",
+    "start": 196537,
+    "end": 196545,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórbgergur",
+    "start": 198533,
+    "end": 198542,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðursveit",
+    "start": 199240,
+    "end": 199249,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Suðursveit",
+    "start": 199502,
+    "end": 199511,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Frakklandi",
+    "start": 199363,
+    "end": 199372,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórarinn",
+    "start": 199628,
+    "end": 199635,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]
