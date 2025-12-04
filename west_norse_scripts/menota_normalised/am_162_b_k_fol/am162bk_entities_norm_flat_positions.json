@@ -1,0 +1,1730 @@
+[
+  {
+    "text": "Vápnafjarðar",
+    "start": 0,
+    "end": 11,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vápnafjarðar",
+    "start": 1036,
+    "end": 1047,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hofs",
+    "start": 25,
+    "end": 28,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Krossavíkr",
+    "start": 766,
+    "end": 775,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdalsherað",
+    "start": 1058,
+    "end": 1072,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótsdal",
+    "start": 1341,
+    "end": 1349,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Öxarhraun",
+    "start": 1376,
+    "end": 1384,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sviðinhornadal",
+    "start": 1394,
+    "end": 1407,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Álptafirði",
+    "start": 1419,
+    "end": 1428,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þváttár",
+    "start": 1476,
+    "end": 1482,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þváttá",
+    "start": 2143,
+    "end": 2148,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Svínafellz",
+    "start": 2205,
+    "end": 2214,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mosfellz",
+    "start": 2356,
+    "end": 2363,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyjafjöll",
+    "start": 3049,
+    "end": 3057,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Markarfljót",
+    "start": 3875,
+    "end": 3885,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótshlíðar",
+    "start": 3898,
+    "end": 3909,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Fljótshlíðar",
+    "start": 8316,
+    "end": 8327,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Seljalandsmúla",
+    "start": 3922,
+    "end": 3935,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Holt",
+    "start": 3961,
+    "end": 3964,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Austfjörðum",
+    "start": 4082,
+    "end": 4092,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rangárvöllu",
+    "start": 4293,
+    "end": 4303,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Vápnafjörð",
+    "start": 7231,
+    "end": 7240,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Íslandi",
+    "start": 7743,
+    "end": 7749,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tungu",
+    "start": 6919,
+    "end": 6923,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tungu",
+    "start": 8577,
+    "end": 8581,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Tungu",
+    "start": 8701,
+    "end": 8705,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Laugarvatns",
+    "start": 10833,
+    "end": 10843,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Beitivöllu",
+    "start": 10903,
+    "end": 10912,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Síðu",
+    "start": 10981,
+    "end": 10984,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni",
+    "start": 40,
+    "end": 45,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni",
+    "start": 260,
+    "end": 265,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni",
+    "start": 401,
+    "end": 406,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarni",
+    "start": 474,
+    "end": 479,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarna",
+    "start": 146,
+    "end": 151,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Bjarna",
+    "start": 448,
+    "end": 453,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halla",
+    "start": 157,
+    "end": 161,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásvör",
+    "start": 203,
+    "end": 207,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þóris",
+    "start": 216,
+    "end": 220,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þóris",
+    "start": 243,
+    "end": 247,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þiðranda",
+    "start": 249,
+    "end": 256,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Rannveygu",
+    "start": 289,
+    "end": 297,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 416,
+    "end": 420,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 977,
+    "end": 981,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 1286,
+    "end": 1290,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 3356,
+    "end": 3360,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 4037,
+    "end": 4041,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 4449,
+    "end": 4453,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 5196,
+    "end": 5200,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 5520,
+    "end": 5524,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 7186,
+    "end": 7190,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 8182,
+    "end": 8186,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 9575,
+    "end": 9579,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosa",
+    "start": 10136,
+    "end": 10140,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 437,
+    "end": 441,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 709,
+    "end": 713,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 756,
+    "end": 760,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 819,
+    "end": 823,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 1020,
+    "end": 1024,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 1319,
+    "end": 1323,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 1514,
+    "end": 1518,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 1562,
+    "end": 1566,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 2060,
+    "end": 2064,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 2126,
+    "end": 2130,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 5916,
+    "end": 5920,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 5989,
+    "end": 5993,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 8202,
+    "end": 8206,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 8533,
+    "end": 8537,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9092,
+    "end": 9096,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9338,
+    "end": 9342,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9418,
+    "end": 9422,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9461,
+    "end": 9465,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9641,
+    "end": 9645,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9822,
+    "end": 9826,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 9986,
+    "end": 9990,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 10365,
+    "end": 10369,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 10522,
+    "end": 10526,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 10722,
+    "end": 10726,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 11011,
+    "end": 11015,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Flosi",
+    "start": 11526,
+    "end": 11530,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkell",
+    "start": 779,
+    "end": 785,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkell",
+    "start": 851,
+    "end": 857,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkell",
+    "start": 965,
+    "end": 971,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hólmsteins",
+    "start": 1086,
+    "end": 1095,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sörli",
+    "start": 1186,
+    "end": 1190,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hólmsteinn",
+    "start": 1206,
+    "end": 1215,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hólmsteinn",
+    "start": 1271,
+    "end": 1280,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallz",
+    "start": 1488,
+    "end": 1492,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hall",
+    "start": 1575,
+    "end": 1578,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallr",
+    "start": 1672,
+    "end": 1676,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallr",
+    "start": 2083,
+    "end": 2087,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallr",
+    "start": 10972,
+    "end": 10976,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hallr",
+    "start": 11161,
+    "end": 11165,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ljótr",
+    "start": 1973,
+    "end": 1977,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 2320,
+    "end": 2323,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 2550,
+    "end": 2553,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 2876,
+    "end": 2879,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 3733,
+    "end": 3736,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 3779,
+    "end": 3782,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 3847,
+    "end": 3850,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 4096,
+    "end": 4099,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 4230,
+    "end": 4233,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 4356,
+    "end": 4359,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 4469,
+    "end": 4472,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 4852,
+    "end": 4855,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 6714,
+    "end": 6717,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 6870,
+    "end": 6873,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 6987,
+    "end": 6990,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kári",
+    "start": 7194,
+    "end": 7197,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizur",
+    "start": 2374,
+    "end": 2378,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizur",
+    "start": 2484,
+    "end": 2488,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizur",
+    "start": 2516,
+    "end": 2520,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizur",
+    "start": 2784,
+    "end": 2788,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizur",
+    "start": 2919,
+    "end": 2923,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njáls",
+    "start": 2507,
+    "end": 2511,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njáls",
+    "start": 2671,
+    "end": 2675,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njáls",
+    "start": 8910,
+    "end": 8914,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kára",
+    "start": 2583,
+    "end": 2586,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Kára",
+    "start": 7818,
+    "end": 7821,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 3068,
+    "end": 3074,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 3968,
+    "end": 3974,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 4182,
+    "end": 4188,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 5156,
+    "end": 5162,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 6403,
+    "end": 6409,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 6845,
+    "end": 6851,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 8807,
+    "end": 8813,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 8929,
+    "end": 8935,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeir",
+    "start": 11626,
+    "end": 11632,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorleif",
+    "start": 3090,
+    "end": 3096,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgrímr",
+    "start": 3190,
+    "end": 3197,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgrímr",
+    "start": 11713,
+    "end": 11720,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marðar",
+    "start": 3245,
+    "end": 3250,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marðar",
+    "start": 4309,
+    "end": 4314,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Marðar",
+    "start": 11770,
+    "end": 11775,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 193,
+    "end": 197,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 3334,
+    "end": 3338,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 5229,
+    "end": 5233,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 5541,
+    "end": 5545,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 5952,
+    "end": 5956,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helga",
+    "start": 6012,
+    "end": 6016,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkötlu",
+    "start": 3615,
+    "end": 3622,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeiri",
+    "start": 4241,
+    "end": 4248,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeiri",
+    "start": 5111,
+    "end": 5118,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizurar",
+    "start": 4259,
+    "end": 4265,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizurar",
+    "start": 4384,
+    "end": 4390,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Gizurar",
+    "start": 7037,
+    "end": 7043,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorkatla",
+    "start": 4649,
+    "end": 4656,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Merði",
+    "start": 4755,
+    "end": 4759,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 4763,
+    "end": 4767,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 4943,
+    "end": 4947,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 5034,
+    "end": 5038,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 5091,
+    "end": 5095,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 5457,
+    "end": 5461,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 5761,
+    "end": 5765,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 6344,
+    "end": 6348,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Mörðr",
+    "start": 11826,
+    "end": 11830,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 5624,
+    "end": 5628,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Helgi",
+    "start": 6091,
+    "end": 6095,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeirs",
+    "start": 5729,
+    "end": 5736,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeirs",
+    "start": 6313,
+    "end": 6320,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgríms",
+    "start": 6929,
+    "end": 6935,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgríms",
+    "start": 8587,
+    "end": 8593,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgríms",
+    "start": 8778,
+    "end": 8784,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgríms",
+    "start": 10538,
+    "end": 10544,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgríms",
+    "start": 11089,
+    "end": 11095,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrími",
+    "start": 6998,
+    "end": 7004,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrími",
+    "start": 10234,
+    "end": 10240,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrími",
+    "start": 10394,
+    "end": 10400,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 7082,
+    "end": 7088,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 7146,
+    "end": 7152,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 7800,
+    "end": 7806,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 8709,
+    "end": 8715,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 8828,
+    "end": 8834,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 9215,
+    "end": 9221,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 9439,
+    "end": 9445,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 9539,
+    "end": 9545,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 9853,
+    "end": 9859,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 10057,
+    "end": 10063,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímr",
+    "start": 10644,
+    "end": 10650,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórhallr",
+    "start": 2297,
+    "end": 2304,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórhallr",
+    "start": 7450,
+    "end": 7457,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórhallr",
+    "start": 7891,
+    "end": 7898,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Glúmr",
+    "start": 10144,
+    "end": 10148,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Glúmr",
+    "start": 10281,
+    "end": 10285,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrím",
+    "start": 10353,
+    "end": 10358,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Halli",
+    "start": 11378,
+    "end": 11382,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorleifr",
+    "start": 11695,
+    "end": 11702,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorsteinssonar",
+    "start": 64,
+    "end": 77,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ölvissonar",
+    "start": 92,
+    "end": 101,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eyvaldssonar",
+    "start": 105,
+    "end": 116,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Lýtingsdóttir",
+    "start": 163,
+    "end": 175,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þorgeirsdóttur",
+    "start": 299,
+    "end": 312,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiríkssonar",
+    "start": 316,
+    "end": 326,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Eiríkssonar",
+    "start": 374,
+    "end": 384,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Geirmundarsonar",
+    "start": 341,
+    "end": 355,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hróaldssonar",
+    "start": 359,
+    "end": 370,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Geitisson",
+    "start": 787,
+    "end": 795,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímsson",
+    "start": 2306,
+    "end": 2315,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Ásgrímsson",
+    "start": 7459,
+    "end": 7468,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Sölmundarson",
+    "start": 2325,
+    "end": 2336,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgarðssonar",
+    "start": 3252,
+    "end": 3264,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgarðssonar",
+    "start": 4316,
+    "end": 4328,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Valgarðssonar",
+    "start": 11777,
+    "end": 11789,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njálsson",
+    "start": 3340,
+    "end": 3347,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórisson",
+    "start": 5164,
+    "end": 5171,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórðarsyni",
+    "start": 5202,
+    "end": 5211,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njálssonar",
+    "start": 5235,
+    "end": 5244,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njálssonar",
+    "start": 5958,
+    "end": 5967,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njálssyni",
+    "start": 5547,
+    "end": 5555,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Njálssyni",
+    "start": 6018,
+    "end": 6026,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórissonar",
+    "start": 127,
+    "end": 136,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórissonar",
+    "start": 5738,
+    "end": 5747,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórissonar",
+    "start": 6322,
+    "end": 6331,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Þórðarson",
+    "start": 5995,
+    "end": 6003,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elliðagrímssonar",
+    "start": 6937,
+    "end": 6952,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Elliðasonar",
+    "start": 8595,
+    "end": 8605,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Hildisson",
+    "start": 10150,
+    "end": 10158,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

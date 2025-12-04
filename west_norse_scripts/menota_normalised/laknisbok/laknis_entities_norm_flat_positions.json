@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Indíaland",
+    "start": 3441,
+    "end": 3449,
+    "label": "LOC",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Dioskurides",
+    "start": 3987,
+    "end": 3997,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Galienus",
+    "start": 4589,
+    "end": 4596,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  },
+  {
+    "text": "Galienus",
+    "start": 4709,
+    "end": 4716,
+    "label": "PER",
+    "subtype": null,
+    "source": "exact_match"
+  }
+]

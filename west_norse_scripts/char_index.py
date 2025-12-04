@@ -23,15 +23,15 @@ def debug_print(text, max_length=100):
     print(f"Debug: '{debug_str}' (length: {len(text)})")
     return debug_str
 
-def normalize_dipl_text(text):
-    """Normalize diplomatic text for comparison, keeping only essential normalization"""
+def normalize_norm_text(text):
+    """Normalize normomatic text for comparison, keeping only essential normalization"""
     text = normalize('NFKC', text)
     text = re.sub(r'[^\S\n]+', ' ', text)  # Preserve newlines
     return text.strip()
 
 def find_entity_positions(clean_text, entities, output_file):
     """
-    Finds positions of entities in clean text based solely on diplomatic text,
+    Finds positions of entities in clean text based solely on normomatic text,
     ensuring we only match complete words (not substrings of longer words).
     """
     results = []
@@ -40,7 +40,7 @@ def find_entity_positions(clean_text, entities, output_file):
     # Create a mapping from entity text to all its variants
     entity_variants = defaultdict(list)
     for entity in entities:
-        text = entity['dipl_text']
+        text = entity['norm_text']
         if text:
             entity_variants[text].append(entity)
 
@@ -101,9 +101,9 @@ def find_entity_positions(clean_text, entities, output_file):
 
 def main():
     # File paths
-    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/clean_texts/adjudications.txt'
-    entities_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications.json'
-    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications_entities_positions.json'
+    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/olafs_saga_helga/olafs_saga_normalised.txt'
+    entities_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/olafs_saga_helga/olafs_entities_norm_flat.json'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/olafs_saga_helga/olafs_entities_norm_flat_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")
@@ -125,7 +125,7 @@ def main():
     entity_text_count = defaultdict(int)
     duplicate_entities = defaultdict(list)
     for i, entity in enumerate(entities):
-        key = (entity['dipl_text'], entity['label'], entity.get('subtype', ''))
+        key = (entity['norm_text'], entity['label'], entity.get('subtype', ''))
         entity_text_count[key] += 1
         duplicate_entities[key].append(i)
 
@@ -138,7 +138,7 @@ def main():
         print("\nNo duplicate entities found in input file")
 
     # Find entity positions
-    print("\nFinding entity positions (diplomatic text only)...")
+    print("\nFinding entity positions (normomatic text only)...")
     entity_positions, found_count, original_count = find_entity_positions(clean_text, entities, output_file)
 
     # Print statistics

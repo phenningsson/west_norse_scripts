@@ -1,0 +1,2 @@
+Exkludera denna för nu, bara 5 LOC ch 73 platser så ingen deal breaker.  Något är fel med word count, den räknar Jóni som två ord: "Jo" och "Ni" medan entitites räknas den (korrekt) som "Jóni". 
+Om Binder visar bra på resultat med normaliserade så värt att prova korrigera detta, annars skippa och gå vidare. 

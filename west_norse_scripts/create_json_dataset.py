@@ -68,14 +68,14 @@ def create_ner_json_dataset(text_file, entity_positions_file, word_boundaries_fi
 
 def main():
     # File paths
-    text_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/clean_texts/written-to-be-spoken.txt'
-    entity_positions_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/written-to-be-spoken_entities_positions.json'
-    word_boundaries_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/written-to-be-spoken_word_positions.json'
-    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/dataset/written-to-be-spoken_mim_ner_dataset.json'
+    text_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/clean_texts/adjudications.txt'
+    entity_positions_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications_entities_positions.json'
+    word_boundaries_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/adjudications_word_positions.json'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/adjudications_mim_ner_dataset_dataset.json'
 
     # Document metadata
-    id = 28
-    name = "Written To Be Spoken"
+    id = 16
+    name = "Adjudications"
 
     # Create and save the dataset
     data = create_ner_json_dataset(

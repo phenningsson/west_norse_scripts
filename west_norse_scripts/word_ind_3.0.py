@@ -60,8 +60,8 @@ def get_word_positions(clean_text, output_file):
 
 def main():
     # File paths
-    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/clean_texts/written-to-be-spoken.txt'
-    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/mim_gold_ner/binder_entities/written-to-be-spoken.json'
+    clean_text_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/olafs_saga_helga/olafs_saga_normalised.txt'
+    output_file = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/olafs_saga_helga/olafs_saga_normalised_word_positions.json'
 
     # Load clean text
     print(f"Loading clean text from {clean_text_file}...")
