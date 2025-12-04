@@ -1,150 +1,150 @@
 [
   {
-    "dipl_text": "Grímur",
+    "norm_text": "Grímur",
     "label": "PER"
   },
   {
-    "dipl_text": "Holti",
+    "norm_text": "Holti",
     "label": "LOC"
   },
   {
-    "dipl_text": "Eyjafjöllum",
+    "norm_text": "Eyjafjöllum",
     "label": "LOC"
   },
   {
-    "dipl_text": "Holtavatn",
+    "norm_text": "Holtavatn",
     "label": "LOC"
   },
   { 
-    "dipl_text": "Þorlák",
+    "norm_text": "Þorlák",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorláki",
+    "norm_text": "Þorláki",
     "label": "PER"
   },
   {
-    "dipl_text": "Páli",
+    "norm_text": "Páli",
     "label": "PER"
   },
   {
-    "dipl_text": "Flóa",
+    "norm_text": "Flóa",
     "label": "LOC"
   },
   {
-    "dipl_text": "Skálaholti",
+    "norm_text": "Skálaholti",
     "label": "LOC"
   },
   {
-    "dipl_text": "Þorlákur",
+    "norm_text": "Þorlákur",
     "label": "PER"
   },
   {
-    "dipl_text": "Hofi",
+    "norm_text": "Hofi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Páll",
+    "norm_text": "Páll",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorláks",
+    "norm_text": "Þorláks",
     "label": "PER"
   },
   {
-    "dipl_text": "Sveinn",
+    "norm_text": "Sveinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Skálaholt",
+    "norm_text": "Skálaholt",
     "label": "LOC"
   },
   {
-    "dipl_text": "Gissur",
+    "norm_text": "Gissur",
     "label": "PER"
   },
   {
-    "dipl_text": "Arnarbæli",
+    "norm_text": "Arnarbæli",
     "label": "LOC"
   },
   {
-    "dipl_text": "Magnús",
+    "norm_text": "Magnús",
     "label": "PER"
   },
   {
-    "dipl_text": "Reykjaholti",
+    "norm_text": "Reykjaholti",
     "label": "LOC"
   },
   {
-    "dipl_text": "Reykjaholt",
+    "norm_text": "Reykjaholt",
     "label": "LOC"
   },
   {
-    "dipl_text": "Laugarvatni",
+    "norm_text": "Laugarvatni",
     "label": "LOC"
   },
   {
-    "dipl_text": "Páls",
+    "norm_text": "Páls",
     "label": "PER"
   },
   {
-    "dipl_text": "Odda",
+    "norm_text": "Odda",
     "label": "PER"
   },
   {
-    "dipl_text": "Hallur",
+    "norm_text": "Hallur",
     "label": "PER"
   },
   {
-    "dipl_text": "Hallur Gissurarson",
+    "norm_text": "Hallur Gissurarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Gissurarson",
+    "norm_text": "Gissurarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Gröf",
+    "norm_text": "Gröf",
     "label": "LOC"
   },
   {
-    "dipl_text": "Viðeyju",
+    "norm_text": "Viðeyju",
     "label": "LOC"
   },
   {
-    "dipl_text": "Bjarni",
+    "norm_text": "Bjarni",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórný",
+    "norm_text": "Þórný",
     "label": "PER"
   },
   {
-    "dipl_text": "Halldóra",
+    "norm_text": "Halldóra",
     "label": "PER"
   },
   {
-    "dipl_text": "Halldóru",
+    "norm_text": "Halldóru",
     "label": "PER"
   },
   {
-    "dipl_text": "Karl",
+    "norm_text": "Karl",
     "label": "PER"
   },
   {
-    "dipl_text": "Hvítá",
+    "norm_text": "Hvítá",
     "label": "PER"
   },
   {
-    "dipl_text": "Steinþór",
+    "norm_text": "Steinþór",
     "label": "PER"
   },
   {
-    "dipl_text": "Steinþóri",
+    "norm_text": "Steinþóri",
     "label": "PER"
   },
   {
-    "dipl_text": "Klængs",
+    "norm_text": "Klængs",
     "label": "PER"
   }
 ]

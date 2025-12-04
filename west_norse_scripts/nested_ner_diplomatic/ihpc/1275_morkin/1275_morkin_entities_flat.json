@@ -1,1050 +1,1050 @@
 [
   {
-    "dipl_text": "Halldór",
+    "norm_text": "Halldór",
     "label": "PER"
   },
   {
-    "dipl_text": "Haralds",
+    "norm_text": "Haralds",
     "label": "PER"
   },
   {
-    "dipl_text": "Ingibjörg",
+    "norm_text": "Ingibjörg",
     "label": "PER"
   },
   {
-    "dipl_text": "Ingibjörgu",
+    "norm_text": "Ingibjörgu",
     "label": "PER"
   },
   {
-    "dipl_text": "Óláfs",
+    "norm_text": "Óláfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Óláf",
+    "norm_text": "Óláf",
     "label": "PER"
   },
   {
-    "dipl_text": "Nóregi",
+    "norm_text": "Nóregi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Halldóri",
+    "norm_text": "Halldóri",
     "label": "PER"
   },
   {
-    "dipl_text": "Snorrasyni",
+    "norm_text": "Snorrasyni",
     "label": "PER"
   },
   {
-    "dipl_text": "Halldóri Snorrasyni",
+    "norm_text": "Halldóri Snorrasyni",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorvarður",
+    "norm_text": "Þorvarður",
     "label": "PER"
   },
   {
-    "dipl_text": "Niðarós",
+    "norm_text": "Niðarós",
     "label": "LOC"
   },
   {
-    "dipl_text": "Haraldur",
+    "norm_text": "Haraldur",
     "label": "PER"
   },
   {
-    "dipl_text": "Eysteinn",
+    "norm_text": "Eysteinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorbergs",
+    "norm_text": "Þorbergs",
     "label": "PER"
   },
   {
-    "dipl_text": "Árnasonar",
+    "norm_text": "Árnasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorbergs Árnasonar",
+    "norm_text": "Þorbergs Árnasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Haraldur",
+    "norm_text": "Haraldur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorvarðr",
+    "norm_text": "Þorvarðr",
     "label": "PER"
   },
   {
-    "dipl_text": "Eystein",
+    "norm_text": "Eystein",
     "label": "PER"
   },
   {
-    "dipl_text": "Norðmæri",
+    "norm_text": "Norðmæri",
     "label": "LOC"
   },
   {
-    "dipl_text": "Giska",
+    "norm_text": "Giska",
     "label": "LOC"
   },
   {
-    "dipl_text": "Sólskel",
+    "norm_text": "Sólskel",
     "label": "LOC"
   },
   {
-    "dipl_text": "Eysteini",
+    "norm_text": "Eysteini",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorvarð",
+    "norm_text": "Þorvarð",
     "label": "PER"
   },
   {
-    "dipl_text": "Þér",
+    "norm_text": "Þér",
     "label": "PER"
   },
   {
-    "dipl_text": "Íslands",
+    "norm_text": "Íslands",
     "label": "LOC"
   },
   {
-    "dipl_text": "Danmerkur",
+    "norm_text": "Danmerkur",
     "label": "LOC"
   },
   {
-    "dipl_text": "Halland",
+    "norm_text": "Halland",
     "label": "LOC"
   },
   {
-    "dipl_text": "Lófufirði",
+    "norm_text": "Lófufirði",
     "label": "LOC"
   },
   {
-    "dipl_text": "Jótlandshafi",
+    "norm_text": "Jótlandshafi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Sveinn",
+    "norm_text": "Sveinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Sveinn",
+    "norm_text": "Sveinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Ívar",
+    "norm_text": "Ívar",
     "label": "PER"
   },
   {
-    "dipl_text": "Óláfi",
+    "norm_text": "Óláfi",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigvatur",
+    "norm_text": "Sigvatur",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigvats",
+    "norm_text": "Sigvats",
     "label": "PER"
   },
   {
-    "dipl_text": "Vík",
+    "norm_text": "Vík",
     "label": "LOC"
   },
   {
-    "dipl_text": "Ívars",
+    "norm_text": "Ívars",
     "label": "PER"
   },
   {
-    "dipl_text": "Ívarr",
+    "norm_text": "Ívarr",
     "label": "PER"
   },
   {
-    "dipl_text": "Hákon",
+    "norm_text": "Hákon",
     "label": "PER"
   },
   {
-    "dipl_text": "Ketill",
+    "norm_text": "Ketill",
     "label": "PER"
   },
   {
-    "dipl_text": "Hringunesi",
+    "norm_text": "Hringunesi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Fiður",
+    "norm_text": "Fiður",
     "label": "PER"
   },
   {
-    "dipl_text": "Árnason",
+    "norm_text": "Árnason",
     "label": "PER"
   },
   {
-    "dipl_text": "Fiður Árnason",
+    "norm_text": "Fiður Árnason",
     "label": "PER"
   },
   {
-    "dipl_text": "Danmörk",
+    "norm_text": "Danmörk",
     "label": "LOC"
   },
   {
-    "dipl_text": "Svein",
+    "norm_text": "Svein",
     "label": "PER"
   },
   {
-    "dipl_text": "Sveins",
+    "norm_text": "Sveins",
     "label": "PER"
   },
   {
-    "dipl_text": "Hákonar",
+    "norm_text": "Hákonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Harald",
+    "norm_text": "Harald",
     "label": "PER"
   },
   {
-    "dipl_text": "Skjálgur",
+    "norm_text": "Skjálgur",
     "label": "PER"
   },
   {
-    "dipl_text": "Erlingsson",
+    "norm_text": "Erlingsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Skjálgur Erlingsson",
+    "norm_text": "Skjálgur Erlingsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórólfur",
+    "norm_text": "Þórólfur",
     "label": "PER"
   },
   {
-    "dipl_text": "Mostrarskegg",
+    "norm_text": "Mostrarskegg",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórólfur Mostrarskegg",
+    "norm_text": "Þórólfur Mostrarskegg",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórólfs Mostrarskegg",
+    "norm_text": "Þórólfs Mostrarskegg",
     "label": "PER"
   },
   {
-    "dipl_text": "Magnúsi",
+    "norm_text": "Magnúsi",
     "label": "PER"
   },
   {
-    "dipl_text": "Sveini",
+    "norm_text": "Sveini",
     "label": "PER"
   },
   {
-    "dipl_text": "Steinn",
+    "norm_text": "Steinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Herdísarson",
+    "norm_text": "Herdísarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Steinn Herdísarson",
+    "norm_text": "Steinn Herdísarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Úlfs",
+    "norm_text": "Úlfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Úlfur",
+    "norm_text": "Úlfur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þjóðólfur",
+    "norm_text": "Þjóðólfur",
     "label": "PER"
   },
   {
-    "dipl_text": "Haraldi",
+    "norm_text": "Haraldi",
     "label": "PER"
   },
   {
-    "dipl_text": "Skjálgs",
+    "norm_text": "Skjálgs",
     "label": "PER"
   },
   {
-    "dipl_text": "Erlingssonar",
+    "norm_text": "Erlingssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Skjálgs Erlingssonar",
+    "norm_text": "Skjálgs Erlingssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Arnórr",
+    "norm_text": "Arnórr",
     "label": "PER"
   },
   {
-    "dipl_text": "Magnús",
+    "norm_text": "Magnús",
     "label": "PER"
   },
   {
-    "dipl_text": "Þóru",
+    "norm_text": "Þóru",
     "label": "PER"
   },
   {
-    "dipl_text": "Finni",
+    "norm_text": "Finni",
     "label": "PER"
   },
   {
-    "dipl_text": "Finns",
+    "norm_text": "Finns",
     "label": "PER"
   },
   {
-    "dipl_text": "Ívarsson",
+    "norm_text": "Ívarsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Hákon Ívarsson",
+    "norm_text": "Hákon Ívarsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Haraldr",
+    "norm_text": "Haraldr",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórólfs",
+    "norm_text": "Þórólfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Mostrarskeggja",
+    "norm_text": "Mostrarskeggja",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórólfs Mostrarskeggja",
+    "norm_text": "Þórólfs Mostrarskeggja",
     "label": "PER"
   },
   {
-    "dipl_text": "Magnúss",
+    "norm_text": "Magnúss",
     "label": "PER"
   },
   {
-    "dipl_text": "Vincencius",
+    "norm_text": "Vincencius",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigur",
+    "norm_text": "Sigur",
     "label": "PER"
   },
   {
-    "dipl_text": "Hákoni",
+    "norm_text": "Hákoni",
     "label": "PER"
   },
   {
-    "dipl_text": "Ragnhildr",
+    "norm_text": "Ragnhildr",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðs",
+    "norm_text": "Guðs",
     "label": "PER"
   },
   {
-    "dipl_text": "Ragnhildur",
+    "norm_text": "Ragnhildur",
     "label": "PER"
   },
   {
-    "dipl_text": "Ragnhildi",
+    "norm_text": "Ragnhildi",
     "label": "PER"
   },
   {
-    "dipl_text": "Vík",
+    "norm_text": "Vík",
     "label": "LOC"
   },
   {
-    "dipl_text": "Ásmundar",
+    "norm_text": "Ásmundar",
     "label": "PER"
   },
   {
-    "dipl_text": "Bjarnarsonar",
+    "norm_text": "Bjarnarsonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Ásmundar Bjarnarsonar",
+    "norm_text": "Ásmundar Bjarnarsonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Hallands",
+    "norm_text": "Hallands",
     "label": "LOC"
   },
   {
-    "dipl_text": "Hallandi",
+    "norm_text": "Hallandi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Ásmund",
+    "norm_text": "Ásmund",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðinason",
+    "norm_text": "Guðinason",
     "label": "PER"
   },
   {
-    "dipl_text": "Sveinn Guðinason",
+    "norm_text": "Sveinn Guðinason",
     "label": "PER"
   },
   {
-    "dipl_text": "Björn",
+    "norm_text": "Björn",
     "label": "PER"
   },
   {
-    "dipl_text": "Englandi",
+    "norm_text": "Englandi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Úlfsson",
+    "norm_text": "Úlfsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Ásmundur",
+    "norm_text": "Ásmundur",
     "label": "PER"
   },
   {
-    "dipl_text": "Slésmynni",
+    "norm_text": "Slésmynni",
     "label": "LOC"
   },
   {
-    "dipl_text": "Ásmundr",
+    "norm_text": "Ásmundr",
     "label": "PER"
   },
   {
-    "dipl_text": "Nóreg",
+    "norm_text": "Nóreg",
     "label": "LOC"
   },
   {
-    "dipl_text": "Nóregs",
+    "norm_text": "Nóregs",
     "label": "LOC"
   },
   {
-    "dipl_text": "Steinkels",
+    "norm_text": "Steinkels",
     "label": "PER"
   },
   {
-    "dipl_text": "Gautland",
+    "norm_text": "Gautland",
     "label": "LOC"
   },
   {
-    "dipl_text": "Gautlandi",
+    "norm_text": "Gautlandi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Steinkell",
+    "norm_text": "Steinkell",
     "label": "PER"
   },
   {
-    "dipl_text": "Elfi",
+    "norm_text": "Elfi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Þorfiður",
+    "norm_text": "Þorfiður",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorfinni",
+    "norm_text": "Þorfinni",
     "label": "PER"
   },
   {
-    "dipl_text": "Steinkeli",
+    "norm_text": "Steinkeli",
     "label": "PER"
   },
   {
-    "dipl_text": "Ragnhildar",
+    "norm_text": "Ragnhildar",
     "label": "PER"
   },
   {
-    "dipl_text": "Svíþjóðar",
+    "norm_text": "Svíþjóðar",
     "label": "LOC"
   },
   {
-    "dipl_text": "Koðránsbani",
+    "norm_text": "Koðránsbani",
     "label": "PER"
   },
   {
-    "dipl_text": "Halls",
+    "norm_text": "Halls",
     "label": "PER"
   },
   {
-    "dipl_text": "Ótryggssonar",
+    "norm_text": "Ótryggssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Halls Ótryggssonar",
+    "norm_text": "Halls Ótryggssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Koðrán",
+    "norm_text": "Koðrán",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðmundarson",
+    "norm_text": "Guðmundarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Koðrán Guðmundarson",
+    "norm_text": "Koðrán Guðmundarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Hallur",
+    "norm_text": "Hallur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þormóður",
+    "norm_text": "Þormóður",
     "label": "PER"
   },
   {
-    "dipl_text": "Einriðason",
+    "norm_text": "Einriðason",
     "label": "PER"
   },
   {
-    "dipl_text": "Þormóður Einriðason",
+    "norm_text": "Þormóður Einriðason",
     "label": "PER"
   },
   {
-    "dipl_text": "Hall",
+    "norm_text": "Hall",
     "label": "PER"
   },
   {
-    "dipl_text": "Koðráns",
+    "norm_text": "Koðráns",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðmundar",
+    "norm_text": "Guðmundar",
     "label": "PER"
   },
   {
-    "dipl_text": "Eyjólfssonar",
+    "norm_text": "Eyjólfssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðmundar Eyjólfssonar",
+    "norm_text": "Guðmundar Eyjólfssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Þormóð",
+    "norm_text": "Þormóð",
     "label": "PER"
   },
   {
-    "dipl_text": "Þormóði",
+    "norm_text": "Þormóði",
     "label": "PER"
   },
   {
-    "dipl_text": "Grikkland",
+    "norm_text": "Grikkland",
     "label": "LOC"
   },
   {
-    "dipl_text": "Elfi",
+    "norm_text": "Elfi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Sunnefa",
+    "norm_text": "Sunnefa",
     "label": "PER"
   },
   {
-    "dipl_text": "Úlfssonar",
+    "norm_text": "Úlfssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Eiríkur",
+    "norm_text": "Eiríkur",
     "label": "PER"
   },
   {
-    "dipl_text": "Íslandi",
+    "norm_text": "Íslandi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Sneglu-Halli",
+    "norm_text": "Sneglu-Halli",
     "label": "PER"
   },
   {
-    "dipl_text": "Agðanes",
+    "norm_text": "Agðanes",
     "label": "LOC"
   },
   {
-    "dipl_text": "Halli",
+    "norm_text": "Halli",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigurður",
+    "norm_text": "Sigurður",
     "label": "PER"
   },
   {
-    "dipl_text": "Halla",
+    "norm_text": "Halla",
     "label": "PER"
   },
   {
-    "dipl_text": "Geirröð",
+    "norm_text": "Geirröð",
     "label": "PER"
   },
   {
-    "dipl_text": "Þór",
+    "norm_text": "Þór",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigurð",
+    "norm_text": "Sigurð",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigurð Fáfnisbana",
+    "norm_text": "Sigurð Fáfnisbana",
     "label": "PER"
   },
   {
-    "dipl_text": "Fáfni",
+    "norm_text": "Fáfni",
     "label": "PER"
   },
   {
-    "dipl_text": "Túta",
+    "norm_text": "Túta",
     "label": "PER"
   },
   {
-    "dipl_text": "Emmu",
+    "norm_text": "Emmu",
     "label": "PER"
   },
   {
-    "dipl_text": "Þjóðólfi",
+    "norm_text": "Þjóðólfi",
     "label": "PER"
   },
   {
-    "dipl_text": "Tútu",
+    "norm_text": "Tútu",
     "label": "PER"
   },
   {
-    "dipl_text": "Þjóðólfr",
+    "norm_text": "Þjóðólfr",
     "label": "PER"
   },
   {
-    "dipl_text": "Kolluvísur",
+    "norm_text": "Kolluvísur",
     "label": "PER"
   },
   {
-    "dipl_text": "Arnór",
+    "norm_text": "Arnór",
     "label": "PER"
   },
   {
-    "dipl_text": "Þjóðólfs",
+    "norm_text": "Þjóðólfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Einars",
+    "norm_text": "Einars",
     "label": "PER"
   },
   {
-    "dipl_text": "Einar",
+    "norm_text": "Einar",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorleifur",
+    "norm_text": "Þorleifur",
     "label": "PER"
   },
   {
-    "dipl_text": "Einari",
+    "norm_text": "Einari",
     "label": "PER"
   },
   {
-    "dipl_text": "Englands",
+    "norm_text": "Englands",
     "label": "LOC"
   },
   {
-    "dipl_text": "Þorgils",
+    "norm_text": "Þorgils",
     "label": "PER"
   },
   {
-    "dipl_text": "Tryggvi",
+    "norm_text": "Tryggvi",
     "label": "PER"
   },
   {
-    "dipl_text": "Óláfsson",
+    "norm_text": "Óláfsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Tryggvi Óláfsson",
+    "norm_text": "Tryggvi Óláfsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Tryggvasonar",
+    "norm_text": "Tryggvasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Álfífuson",
+    "norm_text": "Álfífuson",
     "label": "PER"
   },
   {
-    "dipl_text": "Tryggva",
+    "norm_text": "Tryggva",
     "label": "PER"
   },
   {
-    "dipl_text": "Tryggvi",
+    "norm_text": "Tryggvi",
     "label": "PER"
   },
   {
-    "dipl_text": "Gissur",
+    "norm_text": "Gissur",
     "label": "PER"
   },
   {
-    "dipl_text": "Ísleifsson",
+    "norm_text": "Ísleifsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Gissur Ísleifsson",
+    "norm_text": "Gissur Ísleifsson",
     "label": "PER"
   },
   {
-    "dipl_text": "Stúfur",
+    "norm_text": "Stúfur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórðar",
+    "norm_text": "Þórðar",
     "label": "PER"
   },
   {
-    "dipl_text": "Snorri",
+    "norm_text": "Snorri",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórður",
+    "norm_text": "Þórður",
     "label": "PER"
   },
   {
-    "dipl_text": "Stúfs",
+    "norm_text": "Stúfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Glúmssonar",
+    "norm_text": "Glúmssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórðar Glúmssonar",
+    "norm_text": "Þórðar Glúmssonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Geirasonar",
+    "norm_text": "Geirasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðrúnar",
+    "norm_text": "Guðrúnar",
     "label": "PER"
   },
   {
-    "dipl_text": "Ósvífrsdóttur",
+    "norm_text": "Ósvífrsdóttur",
     "label": "PER"
   },
   {
-    "dipl_text": "Guðrúnar Ósvífrsdóttur",
+    "norm_text": "Guðrúnar Ósvífrsdóttur",
     "label": "PER"
   },
   {
-    "dipl_text": "Sigurðarsonar",
+    "norm_text": "Sigurðarsonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Stúf",
+    "norm_text": "Stúf",
     "label": "PER"
   },
   {
-    "dipl_text": "Stúfi",
+    "norm_text": "Stúfi",
     "label": "PER"
   },
   {
-    "dipl_text": "Oddr",
+    "norm_text": "Oddr",
     "label": "PER"
   },
   {
-    "dipl_text": "Ófeigs",
+    "norm_text": "Ófeigs",
     "label": "PER"
   },
   {
-    "dipl_text": "Skíðasonar",
+    "norm_text": "Skíðasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Ófeigs Skíðasonar",
+    "norm_text": "Ófeigs Skíðasonar",
     "label": "PER"
   },
   {
-    "dipl_text": "Finnmörk",
+    "norm_text": "Finnmörk",
     "label": "LOC"
   },
   {
-    "dipl_text": "Oddur",
+    "norm_text": "Oddur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þjóttu",
+    "norm_text": "Þjóttu",
     "label": "PER"
   },
   {
-    "dipl_text": "Oddi",
+    "norm_text": "Oddi",
     "label": "PER"
   },
   {
-    "dipl_text": "Einarr",
+    "norm_text": "Einarr",
     "label": "PER"
   },
   {
-    "dipl_text": "Mjölu",
+    "norm_text": "Mjölu",
     "label": "PER"
   },
   {
-    "dipl_text": "Odds",
+    "norm_text": "Odds",
     "label": "PER"
   },
   {
-    "dipl_text": "Odd",
+    "norm_text": "Odd",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorsteinn",
+    "norm_text": "Þorsteinn",
     "label": "PER"
   },
   {
-    "dipl_text": "Þóris",
+    "norm_text": "Þóris",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorsteini",
+    "norm_text": "Þorsteini",
     "label": "PER"
   },
   {
-    "dipl_text": "Hárekur",
+    "norm_text": "Hárekur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorsteins",
+    "norm_text": "Þorsteins",
     "label": "PER"
   },
   {
-    "dipl_text": "Miðfjörð",
+    "norm_text": "Miðfjörð",
     "label": "LOC"
   },
   {
-    "dipl_text": "Þorstein",
+    "norm_text": "Þorstein",
     "label": "PER"
   },
   {
-    "dipl_text": "Játvarður",
+    "norm_text": "Játvarður",
     "label": "PER"
   },
   {
-    "dipl_text": "Goðinason",
+    "norm_text": "Goðinason",
     "label": "PER"
   },
   {
-    "dipl_text": "Haraldur Goðinason",
+    "norm_text": "Haraldur Goðinason",
     "label": "PER"
   },
   {
-    "dipl_text": "Harald Goðinason",
+    "norm_text": "Harald Goðinason",
     "label": "PER"
   },
   {
-    "dipl_text": "Gyðu",
+    "norm_text": "Gyðu",
     "label": "PER"
   },
   {
-    "dipl_text": "Úlfs",
+    "norm_text": "Úlfs",
     "label": "PER"
   },
   {
-    "dipl_text": "Pálskirkju",
+    "norm_text": "Pálskirkju",
     "label": "LOC"
   },
   {
-    "dipl_text": "Lundúnum",
+    "norm_text": "Lundúnum",
     "label": "LOC"
   },
   {
-    "dipl_text": "Goðinadóttur",
+    "norm_text": "Goðinadóttur",
     "label": "PER"
   },
   {
-    "dipl_text": "Gyðu Goðinadóttur",
+    "norm_text": "Gyðu Goðinadóttur",
     "label": "PER"
   },
   {
-    "dipl_text": "Aðalsteins",
+    "norm_text": "Aðalsteins",
     "label": "PER"
   },
   {
-    "dipl_text": "Tósti",
+    "norm_text": "Tósti",
     "label": "PER"
   },
   {
-    "dipl_text": "Goðina",
+    "norm_text": "Goðina",
     "label": "PER"
   },
   {
-    "dipl_text": "Danmarkar",
+    "norm_text": "Danmarkar",
     "label": "LOC"
   },
   {
-    "dipl_text": "England",
+    "norm_text": "England",
     "label": "LOC"
   },
   {
-    "dipl_text": "Knútur",
+    "norm_text": "Knútur",
     "label": "PER"
   },
   {
-    "dipl_text": "Danaveldi",
+    "norm_text": "Danaveldi",
     "label": "LOC"
   },
   {
-    "dipl_text": "Knúts",
+    "norm_text": "Knúts",
     "label": "PER"
   },
   {
-    "dipl_text": "Hörða-Knútur",
+    "norm_text": "Hörða-Knútur",
     "label": "PER"
   },
   {
-    "dipl_text": "Hörða-Knúts",
+    "norm_text": "Hörða-Knúts",
     "label": "PER"
   },
   {
-    "dipl_text": "Játvarðs",
+    "norm_text": "Játvarðs",
     "label": "PER"
   },
   {
-    "dipl_text": "Magnús",
+    "norm_text": "Magnús",
     "label": "PER"
   },
   {
-    "dipl_text": "Gothorm",
+    "norm_text": "Gothorm",
     "label": "PER"
   },
   {
-    "dipl_text": "Gunnhildarson",
+    "norm_text": "Gunnhildarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Gothorm Gunnhildarson",
+    "norm_text": "Gothorm Gunnhildarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Norðimbraland",
+    "norm_text": "Norðimbraland",
     "label": "LOC"
   },
   {
-    "dipl_text": "Guthormur",
+    "norm_text": "Guthormur",
     "label": "PER"
   },
   {
-    "dipl_text": "Vallands",
+    "norm_text": "Vallands",
     "label": "LOC"
   },
   {
-    "dipl_text": "Úlfi",
+    "norm_text": "Úlfi",
     "label": "PER"
   },
   {
-    "dipl_text": "Styrkár",
+    "norm_text": "Styrkár",
     "label": "PER"
   },
   {
-    "dipl_text": "Þórir",
+    "norm_text": "Þórir",
     "label": "PER"
   },
   {
-    "dipl_text": "Steig",
+    "norm_text": "Steig",
     "label": "PER"
   },
   {
-    "dipl_text": "Erlendur",
+    "norm_text": "Erlendur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorfinns",
+    "norm_text": "Þorfinns",
     "label": "PER"
   },
   {
-    "dipl_text": "Páli",
+    "norm_text": "Páli",
     "label": "PER"
   },
   {
-    "dipl_text": "Erlendi",
+    "norm_text": "Erlendi",
     "label": "PER"
   },
   {
-    "dipl_text": "Máríu",
+    "norm_text": "Máríu",
     "label": "PER"
   },
   {
-    "dipl_text": "Kliflönd",
+    "norm_text": "Kliflönd",
     "label": "LOC"
   },
   {
-    "dipl_text": "Skarðaborgar",
+    "norm_text": "Skarðaborgar",
     "label": "LOC"
   },
   {
-    "dipl_text": "Humru",
+    "norm_text": "Humru",
     "label": "LOC"
   },
   {
-    "dipl_text": "Úsu",
+    "norm_text": "Úsu",
     "label": "LOC"
   },
   {
-    "dipl_text": "Mörukári",
+    "norm_text": "Mörukári",
     "label": "PER"
   },
   {
-    "dipl_text": "Valþjófur",
+    "norm_text": "Valþjófur",
     "label": "PER"
   },
   {
-    "dipl_text": "Hundatúni",
+    "norm_text": "Hundatúni",
     "label": "LOC"
   },
   {
-    "dipl_text": "Goðina",
+    "norm_text": "Goðina",
     "label": "PER"
   },
   {
-    "dipl_text": "Mörukári",
+    "norm_text": "Mörukári",
     "label": "PER"
   },
   {
-    "dipl_text": "Valþjófur",
+    "norm_text": "Valþjófur",
     "label": "PER"
   },
   {
-    "dipl_text": "Jork",
+    "norm_text": "Jork",
     "label": "LOC"
   },
   {
-    "dipl_text": "Stanfurðubryggju",
+    "norm_text": "Stanfurðubryggju",
     "label": "LOC"
   },
   {
-    "dipl_text": "Sigurðarson",
+    "norm_text": "Sigurðarson",
     "label": "PER"
   },
   {
-    "dipl_text": "Óláfur",
+    "norm_text": "Óláfur",
     "label": "PER"
   },
   {
-    "dipl_text": "Tósta",
+    "norm_text": "Tósta",
     "label": "PER"
   },
   {
-    "dipl_text": "Friðrekur",
+    "norm_text": "Friðrekur",
     "label": "PER"
   },
   {
-    "dipl_text": "Þorkell",
+    "norm_text": "Þorkell",
     "label": "PER"
   },
   {
-    "dipl_text": "Styrkárr",
+    "norm_text": "Styrkárr",
     "label": "PER"
   }
 ]

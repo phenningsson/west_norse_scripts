@@ -18,10 +18,10 @@ from pathlib import Path
 # ============================================================
 
 # Input XML/TXT file
-INPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/AM-519-a-4to_alexanders-saga.xml.txt"
+INPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/AM-132-fol-Bandamanna-saga.xml.txt"
 
 # Output text file
-OUTPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/alexander_saga_normalised.xml.txt"
+OUTPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/bandamanna_saga_normalised_test.txt"
 
 # ============================================================
 

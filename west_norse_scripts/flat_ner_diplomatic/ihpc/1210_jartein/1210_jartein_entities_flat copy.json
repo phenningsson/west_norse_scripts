@@ -1,0 +1,150 @@
+[
+  {
+    "norm_text": "Grímur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Holti",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Eyjafjöllum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Holtavatn",
+    "label": "LOC"
+  },
+  { 
+    "norm_text": "Þorlák",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorláki",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Páli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Flóa",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Skálaholti",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Þorlákur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hofi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Páll",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorláks",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skálaholt",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arnarbæli",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Magnús",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Reykjaholti",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Reykjaholt",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Laugarvatni",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Páls",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Odda",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hallur Gissurarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gissurarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gröf",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Viðeyju",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Bjarni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórný",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halldóra",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halldóru",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Karl",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hvítá",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steinþór",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steinþóri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Klængs",
+    "label": "PER"
+  }
+]

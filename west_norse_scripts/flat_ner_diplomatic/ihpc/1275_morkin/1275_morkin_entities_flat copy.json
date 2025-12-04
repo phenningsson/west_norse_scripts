@@ -1,0 +1,1050 @@
+[
+  {
+    "norm_text": "Halldór",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Haralds",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ingibjörg",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ingibjörgu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Óláfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Óláf",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nóregi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Halldóri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Snorrasyni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halldóri Snorrasyni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorvarður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Niðarós",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Haraldur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eysteinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorbergs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Árnasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorbergs Árnasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Haraldur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorvarðr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eystein",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Norðmæri",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Giska",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sólskel",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Eysteini",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorvarð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þér",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Íslands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Danmerkur",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Halland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Lófufirði",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Jótlandshafi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sveinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ívar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Óláfi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigvatur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigvats",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Vík",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ívars",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ívarr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hákon",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ketill",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hringunesi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Fiður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Árnason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Fiður Árnason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Danmörk",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Svein",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sveins",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hákonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Harald",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skjálgur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Erlingsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skjálgur Erlingsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórólfur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mostrarskegg",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórólfur Mostrarskegg",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórólfs Mostrarskegg",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Magnúsi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sveini",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Herdísarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steinn Herdísarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Úlfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Úlfur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þjóðólfur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Haraldi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skjálgs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Erlingssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skjálgs Erlingssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arnórr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Magnús",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þóru",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Finni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Finns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ívarsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hákon Ívarsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Haraldr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórólfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mostrarskeggja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórólfs Mostrarskeggja",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Magnúss",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Vincencius",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hákoni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ragnhildr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ragnhildur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ragnhildi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Vík",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ásmundar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Bjarnarsonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásmundar Bjarnarsonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hallands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Hallandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ásmund",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðinason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sveinn Guðinason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Björn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Englandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Úlfsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ásmundur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Slésmynni",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Ásmundr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Nóreg",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Nóregs",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Steinkels",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gautland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Gautlandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Steinkell",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Elfi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Þorfiður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorfinni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steinkeli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ragnhildar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Svíþjóðar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Koðránsbani",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halls",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ótryggssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halls Ótryggssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Koðrán",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðmundarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Koðrán Guðmundarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hallur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þormóður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Einriðason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þormóður Einriðason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hall",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Koðráns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðmundar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eyjólfssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðmundar Eyjólfssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þormóð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þormóði",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Grikkland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Elfi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sunnefa",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Úlfssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Eiríkur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Íslandi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sneglu-Halli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Agðanes",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Halli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigurður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Halla",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Geirröð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þór",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigurð",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigurð Fáfnisbana",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Fáfni",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Túta",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Emmu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þjóðólfi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tútu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þjóðólfr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Kolluvísur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Arnór",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þjóðólfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Einars",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Einar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorleifur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Einari",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Englands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Þorgils",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tryggvi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Óláfsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tryggvi Óláfsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tryggvasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Álfífuson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tryggva",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tryggvi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gissur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ísleifsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gissur Ísleifsson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Stúfur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórðar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Snorri",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Stúfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Glúmssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórðar Glúmssonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Geirasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðrúnar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ósvífrsdóttur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Guðrúnar Ósvífrsdóttur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Sigurðarsonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Stúf",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Stúfi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Oddr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ófeigs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Skíðasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Ófeigs Skíðasonar",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Finnmörk",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Oddur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þjóttu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Oddi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Einarr",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mjölu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Odds",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Odd",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorsteinn",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þóris",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorsteini",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hárekur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorsteins",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Miðfjörð",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Þorstein",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Játvarður",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Goðinason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Haraldur Goðinason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Harald Goðinason",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Úlfs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Pálskirkju",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Lundúnum",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Goðinadóttur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gyðu Goðinadóttur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Aðalsteins",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tósti",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Goðina",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Danmarkar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "England",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Knútur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Danaveldi",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Knúts",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hörða-Knútur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hörða-Knúts",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Játvarðs",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Magnús",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gothorm",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gunnhildarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Gothorm Gunnhildarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Norðimbraland",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Guthormur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Vallands",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Úlfi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Styrkár",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þórir",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Steig",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Erlendur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorfinns",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Páli",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Erlendi",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Máríu",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Kliflönd",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Skarðaborgar",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Humru",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Úsu",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Mörukári",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Valþjófur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Hundatúni",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Goðina",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Mörukári",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Valþjófur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Jork",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Stanfurðubryggju",
+    "label": "LOC"
+  },
+  {
+    "norm_text": "Sigurðarson",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Óláfur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Tósta",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Friðrekur",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Þorkell",
+    "label": "PER"
+  },
+  {
+    "norm_text": "Styrkárr",
+    "label": "PER"
+  }
+]
