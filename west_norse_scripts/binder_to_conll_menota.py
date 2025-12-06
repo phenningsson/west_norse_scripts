@@ -370,10 +370,10 @@ def convert_to_conll(
 def main():
     import sys
     
-    # Default paths (update these for your setup)
-    text_path = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/alexander_saga_normalised.xml.txt'
-    entities_path = '/Users/phenningsson/Downloads/west_norse_scripts/menota_normalised/alexanders_saga/alexander_saga_entities_norm.json'
-    output_path = '/Users/phenningsson/Downloads/west_norse_scripts/conll_format/menota_normalised/alexander_saga_conll.txt'
+    # File paths 
+    text_path = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/laknisbok/laknisbok_final_text.txt'
+    entities_path = '/Users/phenningsson/Downloads/west_norse_scripts/flat_ner_diplomatic/menota/laknisbok/laknisbok_entities_dipl_flat.json'
+    output_path = '/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_laknisbok'
 
     # Allow command line arguments
     if len(sys.argv) >= 4:

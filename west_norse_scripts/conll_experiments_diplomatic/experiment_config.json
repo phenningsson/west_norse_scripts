@@ -1,0 +1,163 @@
+{
+  "created": "2025-12-06T18:44:55.921371",
+  "experiment_type": "diplomatic",
+  "random_seed": 42,
+  "shared": {
+    "dev_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/shared/dev.txt",
+    "test_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/shared/test.txt",
+    "dev_sentences": 1231,
+    "test_sentences": 1232,
+    "dev_entities": {
+      "Person": 912,
+      "Location": 210
+    },
+    "test_entities": {
+      "Person": 922,
+      "Location": 231
+    },
+    "dev_location_pct": 18.71657754010695,
+    "test_location_pct": 20.034692107545535
+  },
+  "experiments": {
+    "diplo_only": {
+      "description": "Diplomatic only (no resampling)",
+      "train_sentences": 5250,
+      "diplo_sentences": 5250,
+      "norm_sentences": 0,
+      "resampled": false,
+      "entities": {
+        "Person": 3969,
+        "Location": 472
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_only/train.txt"
+    },
+    "diplo_resamp": {
+      "description": "Diplomatic only (resampled)",
+      "train_sentences": 14433,
+      "diplo_sentences": 14433,
+      "diplo_original": 5250,
+      "norm_sentences": 0,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.749142857142857,
+      "entities": {
+        "Person": 20485,
+        "Location": 2622
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_resamp/train.txt"
+    },
+    "diplo_plus_norm": {
+      "description": "Diplomatic + Normalized Old Icelandic",
+      "train_sentences": 12803,
+      "diplo_sentences": 5250,
+      "norm_sentences": 7553,
+      "resampled": false,
+      "entities": {
+        "Person": 8088,
+        "Location": 1174
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_plus_norm/train.txt"
+    },
+    "diplo_resamp_plus_norm": {
+      "description": "Diplomatic (resampled) + Normalized Old Icelandic",
+      "train_sentences": 21986,
+      "diplo_sentences": 14433,
+      "diplo_original": 5250,
+      "norm_sentences": 7553,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.749142857142857,
+      "entities": {
+        "Person": 24604,
+        "Location": 3324
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_resamp_plus_norm/train.txt"
+    },
+    "diplo_plus_mim": {
+      "description": "Diplomatic + MIM-GOLD-NER (Modern Icelandic)",
+      "train_sentences": 64034,
+      "diplo_sentences": 5250,
+      "mim_sentences": 58784,
+      "norm_sentences": 0,
+      "resampled": false,
+      "entities": {
+        "Person": 19556,
+        "Location": 9474
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_plus_mim/train.txt"
+    },
+    "diplo_resamp_plus_mim": {
+      "description": "Diplomatic (resampled) + MIM-GOLD-NER",
+      "train_sentences": 73217,
+      "diplo_sentences": 14433,
+      "diplo_original": 5250,
+      "mim_sentences": 58784,
+      "norm_sentences": 0,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.749142857142857,
+      "entities": {
+        "Person": 36072,
+        "Location": 11624
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_resamp_plus_mim/train.txt"
+    },
+    "diplo_plus_norm_plus_mim": {
+      "description": "Diplomatic + Normalized + MIM-GOLD-NER",
+      "train_sentences": 71587,
+      "diplo_sentences": 5250,
+      "norm_sentences": 7553,
+      "mim_sentences": 58784,
+      "resampled": false,
+      "entities": {
+        "Person": 23675,
+        "Location": 10176
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_plus_norm_plus_mim/train.txt"
+    },
+    "diplo_resamp_plus_norm_plus_mim": {
+      "description": "Diplomatic (resampled) + Normalized + MIM-GOLD-NER",
+      "train_sentences": 80770,
+      "diplo_sentences": 14433,
+      "diplo_original": 5250,
+      "norm_sentences": 7553,
+      "mim_sentences": 58784,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.749142857142857,
+      "entities": {
+        "Person": 40191,
+        "Location": 12326
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_diplomatic/diplo_resamp_plus_norm_plus_mim/train.txt"
+    }
+  },
+  "source_files": {
+    "diplomatic": [
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_alexander_saga.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_am162b0.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_am162bk.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_drauma_jons.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_islendingabok.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_laknisbok.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_olafs_saga.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_voluspa.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/menota_conll_diplomatic/diplomatic_conll_wormianus.txt"
+    ],
+    "normalized": [
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1210_jartein_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1210_thorlakur_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1250_sturlunga_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1250_thetubrot_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1260_jomsvikingar_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1275_morkin_conll.txt"
+    ],
+    "mim_gold_dir": "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/mim_gold_ner/filtered"
+  },
+  "split_config": {
+    "dev_ratio": 0.15,
+    "test_ratio": 0.15,
+    "location_eval_ratio": 0.5,
+    "resampling_method": "sCR"
+  }
+}

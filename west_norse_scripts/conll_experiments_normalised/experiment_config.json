@@ -1,0 +1,98 @@
+{
+  "created": "2025-12-06T17:11:09.849462",
+  "random_seed": 42,
+  "shared": {
+    "dev_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/shared/dev.txt",
+    "test_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/shared/test.txt",
+    "dev_sentences": 1770,
+    "test_sentences": 1771,
+    "dev_entities": {
+      "Person": 1036,
+      "Location": 265
+    },
+    "test_entities": {
+      "Location": 263,
+      "Person": 997
+    }
+  },
+  "experiments": {
+    "baseline_mim": {
+      "description": "MIM-GOLD-NER + Old Icelandic (no resampling)",
+      "train_sentences": 66466,
+      "old_ice_sentences": 7682,
+      "mim_sentences": 58784,
+      "resampled": false,
+      "entities": {
+        "Person": 19870,
+        "Location": 9544
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/baseline_mim/train.txt"
+    },
+    "baseline_mim_resamp": {
+      "description": "MIM-GOLD-NER + Old Icelandic (resampled)",
+      "train_sentences": 76991,
+      "old_ice_sentences": 18207,
+      "old_ice_original": 7682,
+      "mim_sentences": 58784,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.370085915126269,
+      "entities": {
+        "Location": 11931,
+        "Person": 37917
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/baseline_mim_resamp/train.txt"
+    },
+    "old_ice_only": {
+      "description": "Old Icelandic only (no MIM-GOLD, no resampling)",
+      "train_sentences": 7682,
+      "old_ice_sentences": 7682,
+      "mim_sentences": 0,
+      "resampled": false,
+      "entities": {
+        "Person": 4283,
+        "Location": 542
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/old_ice_only/train.txt"
+    },
+    "old_ice_resamp": {
+      "description": "Old Icelandic only (resampled, no MIM-GOLD)",
+      "train_sentences": 18207,
+      "old_ice_sentences": 18207,
+      "old_ice_original": 7682,
+      "mim_sentences": 0,
+      "resampled": true,
+      "resampling_method": "sCR",
+      "expansion_factor": 2.370085915126269,
+      "entities": {
+        "Person": 22330,
+        "Location": 2929
+      },
+      "train_path": "/Users/phenningsson/Downloads/west_norse_scripts/conll_experiments_normalised/old_ice_resamp/train.txt"
+    }
+  },
+  "source_files": {
+    "old_icelandic": [
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1210_jartein_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1210_thorlakur_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1250_sturlunga_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1250_thetubrot_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1260_jomsvikingar_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/1275_morkin_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/alexander_saga_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/am162b0_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/am162bk_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/drauma_jons_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/islendingabok_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/laknisbok_conll.txt",
+      "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/old_icelandic_all/olafs_saga_conll.txt"
+    ],
+    "mim_gold_dir": "/Users/phenningsson/Downloads/west_norse_scripts/conll_format_normalised/mim_gold_ner/filtered"
+  },
+  "split_config": {
+    "dev_ratio": 0.15,
+    "test_ratio": 0.15,
+    "location_eval_ratio": 0.5,
+    "resampling_method": "sCR"
+  }
+}
