@@ -18,10 +18,10 @@ from pathlib import Path
 # ============================================================
 
 # Input XML/TXT file
-INPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/AM-132-fol-Bandamanna-saga.xml.txt"
+INPUT_FILE = "//Users/phenningsson/Downloads/west_norse_scripts/AM-36-fol.xml.txt"
 
 # Output text file
-OUTPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/bandamanna_saga_normalised_test.txt"
+OUTPUT_FILE = "/Users/phenningsson/Downloads/west_norse_scripts/heimskringla_2_dipl.txt"
 
 # ============================================================
 
@@ -72,14 +72,14 @@ def extract_norm_text(content: str) -> str:
     print(f"Body content found: {len(body_content)} characters")
     
     # Handle self-closing <me:norm/> tags by removing them first
-    body_content = re.sub(r'<me:norm\s*/>', '', body_content)
+    body_content = re.sub(r'<me:dipl\s*/>', '', body_content)
     
     # Find all <me:norm> content
     # Simple pattern: get everything between <me:norm> and </me:norm>
-    norm_pattern = r'<me:norm[^>]*>(.*?)</me:norm>'
+    norm_pattern = r'<me:dipl[^>]*>(.*?)</me:dipl>'
     
     matches = list(re.finditer(norm_pattern, body_content, re.DOTALL))
-    print(f"Found {len(matches)} <me:norm> matches")
+    print(f"Found {len(matches)} <me:dipl> matches")
     
     tokens = []
     for match in matches:

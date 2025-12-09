@@ -76,8 +76,8 @@ def process_file(input_file_path, output_file_path):
 
 if __name__ == "__main__":
     # Update these paths to your files
-    input_file_path = 'menota/olafs_saga_helga/olafs_saga_helga_clean.txt'  
-    output_file_path = 'menota/olafs_saga_helga/olafs_saga_helga_final.txt'
+    input_file_path = '/Users/phenningsson/Downloads/west_norse_scripts/viga_glums_saga_dipl_cleaned.txt'  
+    output_file_path = '/Users/phenningsson/Downloads/west_norse_scripts/viga_glums_saga_dipl_cleanedd.txt'
     
     print("="*70)
     print("HYPHEN RESOLUTION SCRIPT")

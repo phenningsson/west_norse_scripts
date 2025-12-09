@@ -73,7 +73,7 @@ def find_invalid_chars(input_file):
         print("-" * 80)
 
 def main():
-    input_file = 'menota/wormianus/wormianus_normalised.txt'
+    input_file = '/Users/phenningsson/Downloads/west_norse_scripts/viga_glums_saga_dipl_cleanedd.txt'
     find_invalid_chars(input_file)
 
 if __name__ == "__main__":
