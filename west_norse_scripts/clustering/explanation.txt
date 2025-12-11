@@ -1,0 +1,228 @@
+TODO: 
+Träna en V10 av IceBERT finetunade. Se V10_all_texts.txt för rätt text. Tar 3-4h att träna så gör det första du gör på tisdag. 
+
+Förklaring av fil kaoset: 
+
+Versionerna av modellerna ökar i takt med datastorleken.
+
+V4 bara OG Menota (dvs NER datasetets texter) tror jag, spelar ingen roll, inte så bra modell ändå. 
+
+
+
+V5 (Menota, Egil, Kormak, Voluspa).
+
+Metric                       Value
+---------------------------------------------
+Masked Token Accuracy        48.01%
+Top-5 Accuracy               62.90%
+Top-10 Accuracy              69.00%
+Perplexity                   1.40
+Pseudo-Perplexity            18.22
+Bits Per Character           0.2178
+---------------------------------------------
+
+Test Set Statistics:
+  Total predictions:         6,699
+  Correct predictions:       3,216
+  
+ V6 (större corpus, menota + icelandic historical parsed corpus)
+ Metric                     Value
+---------------------------------------------
+Masked Token Accuracy        48.16%
+Top-5 Accuracy               63.49%
+Top-10 Accuracy              69.64%
+Perplexity                   1.61
+Pseudo-Perplexity            17.30
+Bits Per Character           0.3097
+---------------------------------------------
+
+Test Set Statistics:
+  Total predictions:         6,699
+  Correct predictions:       3,226
+
+V7 (större menota corpus, samma som V5 + Njals brennu saga)
+Metric                       Value
+---------------------------------------------
+Masked Token Accuracy        53.17%
+Top-5 Accuracy               68.03%
+Top-10 Accuracy              73.80%
+Perplexity                   1.74
+Pseudo-Perplexity            12.77
+Bits Per Character           0.3594
+---------------------------------------------
+
+Test Set Statistics:
+  Total predictions:         6,699
+  Correct predictions:       3,562
+  
+V8 (samma corpus som V7 + Icelandic Historical Parsed Corpus):
+Metric                       Value
+---------------------------------------------
+Masked Token Accuracy        53.40%
+Top-5 Accuracy               68.38%
+Top-10 Accuracy              74.00%
+Perplexity                   1.71
+Pseudo-Perplexity            12.34
+Bits Per Character           0.3481
+---------------------------------------------
+
+Test Set Statistics:
+  Total predictions:         6,699
+  Correct predictions:       3,577
+
+V9 (störst Corpus och bäst modell):
+Metric                       Value
+---------------------------------------------
+Masked Token Accuracy        57.49%
+Top-5 Accuracy               72.43%
+Top-10 Accuracy              77.79%
+Perplexity                   2.07
+Pseudo-Perplexity            9.06
+Bits Per Character           0.4742
+---------------------------------------------
+
+
+Med finetune (på mini dataset):
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  39.5%, Precision =  73.9%, Recall =  27.0% (for span)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  41.1%, Precision =  78.7%, Recall =  27.8% (for start)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  39.8%, Precision =  76.0%, Recall =  27.0% (for end)
+11/25/2025 16:38:51 - INFO - src.utils - ***** PER (416) *****
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  42.4%, Precision =  78.1%, Recall =  29.1% (for span)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  44.2%, Precision =  83.9%, Recall =  30.0% (for start)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  42.8%, Precision =  80.7%, Recall =  29.1% (for end)
+11/25/2025 16:38:51 - INFO - src.utils - ***** LOC (77) *****
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  23.5%, Precision =  48.0%, Recall =  15.6% (for span)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  23.5%, Precision =  48.0%, Recall =  15.6% (for start)
+11/25/2025 16:38:51 - INFO - src.utils - F1 =  23.5%, Precision =  48.0%, Recall =  15.6% (for end)
+ epoch          =   10.0
+  eval_f1        = 0.3952
+  eval_precision = 0.7389
+  eval_recall    = 0.2698
+  eval_samples   =    416
+
+  12 epoker på mini dataset med finetune: (bästa versionen hittils)
+  ***** eval metrics *****
+  epoch          =   10.0
+  eval_f1        = 0.4284
+  eval_precision = 0.7475
+  eval_recall    = 0.3002
+  eval_samples   =    416
+
+  % Prova köra bara nya menota datasetet en tur
+
+
+Utan finetune (på mini dataset):
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  38.1%, Precision =  74.6%, Recall =  25.6% (for span)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  39.2%, Precision =  78.2%, Recall =  26.2% (for start)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  38.2%, Precision =  75.9%, Recall =  25.6% (for end)
+11/25/2025 16:16:01 - INFO - src.utils - ***** PER (416) *****
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  41.4%, Precision =  80.0%, Recall =  27.9% (for span)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  42.7%, Precision =  83.8%, Recall =  28.6% (for start)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  41.5%, Precision =  81.1%, Recall =  27.9% (for end)
+11/25/2025 16:16:01 - INFO - src.utils - ***** LOC (77) *****
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  19.8%, Precision =  41.7%, Recall =  13.0% (for span)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  20.0%, Precision =  43.5%, Recall =  13.0% (for start)
+11/25/2025 16:16:01 - INFO - src.utils - F1 =  20.0%, Precision =  43.5%, Recall =  13.0% (for end)
+
+  epoch          =   10.0
+  eval_f1        = 0.3807
+  eval_precision = 0.7456
+  eval_recall    = 0.2556
+  eval_samples   =    416
+ 
+
+
+Uppdaterat Menota dataset med finetune: 
+11/27/2025 11:24:00 - INFO - src.utils - Post-processing 8 example predictions split into 763 features.
+11/27/2025 11:24:02 - INFO - src.utils - ***** all (815) *****
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  31.3%, Precision =  59.2%, Recall =  21.2% (for span)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  32.1%, Precision =  61.5%, Recall =  21.7% (for start)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  32.1%, Precision =  62.4%, Recall =  21.6% (for end)
+11/27/2025 11:24:02 - INFO - src.utils - ***** PER (687) *****
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  33.4%, Precision =  58.8%, Recall =  23.3% (for span)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  34.3%, Precision =  61.2%, Recall =  23.9% (for start)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  34.4%, Precision =  62.2%, Recall =  23.8% (for end)
+11/27/2025 11:24:02 - INFO - src.utils - ***** LOC (128) *****
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  17.6%, Precision =  65.0%, Recall =  10.2% (for span)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  17.7%, Precision =  65.0%, Recall =  10.2% (for start)
+11/27/2025 11:24:02 - INFO - src.utils - F1 =  17.6%, Precision =  65.0%, Recall =  10.2% (for end)
+11/27/2025 11:24:02 - INFO - src.utils - Saving predictions to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_predictions.json.
+11/27/2025 11:24:02 - INFO - src.utils - Saving metrics to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_metrics.json.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 191/191 [00:15<00:00, 12.70it/s]
+***** eval metrics *****
+  epoch          =   10.0
+  eval_f1        = 0.3126
+  eval_precision = 0.5925
+  eval_recall    = 0.2123
+  eval_samples   =    763
+
+
+  Large dataset (uppdaterad menota + ihpc) med finetuned IceBERT:
+  11/27/2025 12:41:37 - INFO - src.utils - ***** all (1746) *****
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  26.9%, Precision =  67.8%, Recall =  16.8% (for span)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  27.4%, Precision =  69.3%, Recall =  17.1% (for start)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  27.8%, Precision =  70.5%, Recall =  17.3% (for end)
+11/27/2025 12:41:37 - INFO - src.utils - ***** PER (1503) *****
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  28.6%, Precision =  69.7%, Recall =  18.0% (for span)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  29.3%, Precision =  71.3%, Recall =  18.4% (for start)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  29.7%, Precision =  72.8%, Recall =  18.7% (for end)
+11/27/2025 12:41:37 - INFO - src.utils - ***** LOC (243) *****
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  15.4%, Precision =  51.2%, Recall =   9.1% (for span)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  15.4%, Precision =  51.2%, Recall =   9.1% (for start)
+11/27/2025 12:41:37 - INFO - src.utils - F1 =  15.4%, Precision =  51.2%, Recall =   9.1% (for end)
+11/27/2025 12:41:37 - INFO - src.utils - Saving predictions to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_predictions.json.
+11/27/2025 12:41:37 - INFO - src.utils - Saving metrics to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_metrics.json.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 232/232 [00:18<00:00, 12.30it/s]
+***** eval metrics *****
+  epoch          =   10.0
+  eval_f1        = 0.2691
+  eval_precision = 0.6782
+  eval_recall    = 0.1678
+  eval_samples   =    928
+
+
+  Large dataset med original IceBERT:
+  11/27/2025 14:21:40 - INFO - src.utils - Post-processing 14 example predictions split into 928 features.
+11/27/2025 14:21:43 - INFO - src.utils - ***** all (1746) *****
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  26.5%, Precision =  62.9%, Recall =  16.8% (for span)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  27.6%, Precision =  65.9%, Recall =  17.4% (for start)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  28.0%, Precision =  67.6%, Recall =  17.6% (for end)
+11/27/2025 14:21:43 - INFO - src.utils - ***** PER (1503) *****
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  28.1%, Precision =  63.9%, Recall =  18.0% (for span)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  29.3%, Precision =  67.0%, Recall =  18.8% (for start)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  29.8%, Precision =  69.0%, Recall =  19.0% (for end)
+11/27/2025 14:21:43 - INFO - src.utils - ***** LOC (243) *****
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  15.4%, Precision =  52.4%, Recall =   9.1% (for span)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  16.2%, Precision =  54.8%, Recall =   9.5% (for start)
+11/27/2025 14:21:43 - INFO - src.utils - F1 =  15.5%, Precision =  53.7%, Recall =   9.1% (for end)
+11/27/2025 14:21:43 - INFO - src.utils - Saving predictions to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_predictions.json.
+11/27/2025 14:21:43 - INFO - src.utils - Saving metrics to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_metrics.json.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 232/232 [00:18<00:00, 12.23it/s]
+***** eval metrics *****
+  epoch          =   10.0
+  eval_f1        = 0.2649
+  eval_precision = 0.6288
+  eval_recall    = 0.1678
+  eval_samples   =    928
+
+  Large dataset med IceBERT finetune V9 och uppdaterad entity description samt 2.0 span prediction:
+  11/27/2025 15:06:17 - INFO - src.utils - F1 =  26.7%, Precision =  61.2%, Recall =  17.1% (for span)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  28.0%, Precision =  65.6%, Recall =  17.8% (for start)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  27.6%, Precision =  66.0%, Recall =  17.4% (for end)
+11/27/2025 15:06:17 - INFO - src.utils - ***** PER (1503) *****
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  28.5%, Precision =  64.9%, Recall =  18.3% (for span)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  30.0%, Precision =  69.5%, Recall =  19.2% (for start)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  29.6%, Precision =  69.7%, Recall =  18.8% (for end)
+11/27/2025 15:06:17 - INFO - src.utils - ***** LOC (243) *****
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  15.0%, Precision =  36.5%, Recall =   9.5% (for span)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  15.3%, Precision =  39.0%, Recall =   9.5% (for start)
+11/27/2025 15:06:17 - INFO - src.utils - F1 =  15.3%, Precision =  40.4%, Recall =   9.5% (for end)
+11/27/2025 15:06:17 - INFO - src.utils - Saving predictions to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_predictions.json.
+11/27/2025 15:06:17 - INFO - src.utils - Saving metrics to /home/pontus/training/IcelandicNER/src/binder/outputs/eval_metrics.json.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 232/232 [00:17<00:00, 13.29it/s]
+***** eval metrics *****
+  epoch          =   10.0
+  eval_f1        = 0.2669
+  eval_precision = 0.6119
+  eval_recall    = 0.1707
+  eval_samples   =    928
